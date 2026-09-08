@@ -4,6 +4,34 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### Maandag 7 sept - Algmene werkgroep
+
+Opdracht 1 - Artikelen lezen over Digital Garden en in groepjes bespreken
+
+Ik heb zelf de volgende twee artikelen gelezen: "Digital Garden Terms of Sevice" en "Digital gardens let you cultivate your own little bit of the internet"
+Aantekeningen: Een Digital Garden is een eigen plek op het internet waar je onafgemaakte gedachten en ongeordende notities openbaar kunt delen. Met als doel kennis en netwerk tijdens je hele leven blijven ontwikkelen. De term is onstaan rond 1998 en geintroduceerd door Mark Beinstein. Hij wilde meer plekken waar mensen het onbekende kunnen verkennen.
+
+In een Digital Garden is er ruimte om te experimenteren, groeien en ontwertend of fout te zijn. In een Digital gardens heb je het recht op fouten te maken of onvolledige informatie te delen, het kan altijd nog aangepast worden. Daarom is feedback en kritiek belangrijk, zo leer je meer. Daarnaast wordt een Digital Garden ook wel gezien als een tweede brein, het is goed in het onthouden van informatie, zoeken van feiten en links en besparen van typewerk. Er zijn geen officiele regels maar dit kun je wel zien als de basis regels van een Digital Garden:
+
+1. Houd rekening met andere, deel geen vertrouwelijke informatie.
+2. Geef aan hoe sterk je ergens in gelooft en dat er ruimte is om van mening te veranderen.
+3. Waardeer feedback luister ernaar, maar je hoeft het niet altijd overal mee eens te zijn.
+
+Opdracht 2 - Rangschikken van websites
+
+We hebben in groepjes onderzoek gedaan naar acht website en hebben hierbij gekeken welke het meest Webby is en welke het minst. Ik heb zelf onderzoek gedaan naar <a href="https://www.Edwinwenink.xyz">Edwinwenink.xyz</a> en <a href="https://nuel.pw">nuel.pw</a>. Twee totaal verschillende site die beide aan best veel "eisen" voldoen. Zo waren ze beiden er fluide, ze zagen er nog steeds goed uit op een kleiner scherm en zijn dan nog goed te bedienen. Beide website hebben een duidelijke hoverstate, maar een focus-state ontbreekt.
+In tegenstelling tot Nuel.pw had edwinwenink.xyz een duidelijke visuele hierachie en waren en duidelijke beschrijving onder de afbeeldingen te vinden. In Nuel.pw moet je iets meer zelf ontdekken. Beide website gaven geen waarschuwing van het opslaan van gegevens. Nuel.pw heeft veel leuke animaties, de ene iets duidelijker dan de ander. Maar dit ontbreekt bij edwinwenink.xyz waardoor het een vrij simpele site is. Mijn persoonlijke voorkeur gaat meer naar de stijl van edwinwenink.xyz, omdat dit een hele overzichtelijke site was. Ook weet je hierop precies wat je te wachten staat en is alles makkelijke te vinden. Maar de andere site is een stuk speelser en moet je meer zelf ontdekken. Dit heeft natuurlijk ook iets.
+<img 
+     src="file:///Users/leoniekoster/Downloads/IMG_5514.HEIC" 
+     alt="Formulier met punten waarop de websites worden geanalyseerd ">
+
+Hierna hebben we als groepje gekeken naar onze acht website en hebben we gekeken welke het meest en minst webby zijn. Uiteindelijk kwamen we tot de conclusie dat melonland.net het meest webby is omdat het er ontzettend tof uitzag maar ook goed over nagedacht is. Met een hoverstate, veel animaties, goed kleuren palette en contras, goede typografie en het vooral een hele persoonlijke site is. Als minst webby site hebben wij gekozen voor churchbasement, omdat het een ontzettend simpele site is. Hij was niet overzichtelijk omdat er alleen maar likjes zonder uitleg zichtbaar zijn. Daarnaast is er geen gebruik gemaakt van focus- of hoverstates. Ook is het kleurcontrast minimaal en waren er geen animaties of waarschuwingen voor data-gebruik. Overal een hele saaie site dus.
+<img 
+     src="file:///Users/leoniekoster/Downloads/IMG_5515.HEIC" 
+     alt="Gezamelijk formulier voor de eisen van een webby site">
+
+Opdracht 3 - Eigen verkenning
+
 ### Vrijdag 4 sept - Deep dives
 
 Voor vandaag had ik me ingescreven voor de volgende twee deep dives:
