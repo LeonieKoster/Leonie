@@ -21,7 +21,29 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 
-- ???
+- Voor mijn eigen digital garden wil ik aan de slag gaan met het overkoepelende thema **“Never Enough”**. Ik wil onderzoeken waarom we als mensen vaak het gevoel hebben dat iets nooit helemaal genoeg is. We willen steeds meer, beter, mooier, productiever of interessanter, terwijl we eigenlijk al genoeg hebben.
+
+Ik wil dit thema vanuit verschillende kanten bekijken. Mijn eerste idee is om de website onder te verdelen in vier onderdelen: Our Minds, Our Bodies, Online en Our Lives. Binnen deze onderwerpen wil ik verschillende herkenbare thema’s onderzoeken, zoals FOMO, overthinking, “Just One More”, glow-up culture, social media, productiviteit en “Let’s Romanticize Life”.
+
+Ik wil vooral een digital garden maken die niet alleen uit tekst bestaat. Ik wil experimenteren met interactie, animatie, grote typografie, beweging en scroll-effecten, zodat de bezoeker het onderwerp ook daadwerkelijk kan ervaren.
+
+De inhoud wil ik een combinatie laten zijn van eigen observaties, onderzoek en herkenbare situaties uit het dagelijks leven. De toon mag kritisch zijn, maar ook luchtig en speels. Ik wil niet vertellen dat bepaald gedrag goed of slecht is, maar de bezoeker vooral laten nadenken over zijn of haar eigen gedrag.
+
+Mijn belangrijkste vraag bij het maken van de garden is daarom:
+
+“When is enough, enough?”
+
+Idee voor het einde van de website:
+One more like.
+One more episode.
+One more workout.
+One more achievement.
+One more memory.
+One more version of yourself.
+
+When is it enough?
+
+Dit zijn mijn eerste ideeën en richting. Tijdens het programma wil ik onderzoeken welke onderwerpen het beste werken, welke vorm daarbij past en hoe ik het concept verder kan ontwikkelen.
 
 ### Maandag 7 sept - Algmene werkgroep
 
