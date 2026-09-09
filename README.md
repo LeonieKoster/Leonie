@@ -4,11 +4,31 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### Dinsdag 8 sept - Huiswerk
+
+1. Presentatie eigen onderwerp
+2. Deepdive Light & Dark mode
+
+### Maandag 7 sept - Check Out
+
+1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+
+- Een eigen persoonlijke website dat nooit af is, die je continue kunt aanpassen of dingen kunt verwijderen. Er zijn geen regels dus het is erg vrij en persoonlijk.
+
+2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+
+- Een overzichtelijke website waarbij er duidelijk is wat je moet doen en wat er gaan gebeuren als je op de links klikt. Die responsive is en werkt op verschillende schermen. Een Webby website is creatief en hierin zie je echt waar iemand een passie voor heeft. Ik krijg inspiratie uit websites die visueel interessant zijn met goede kleur gebruik, goede fonts en een mooie hiërarchie. Een voorbeeld van een website is bijvoorbeeld <a href="https://cydstumpels.nl">cydstumpels.nl</a>.
+
+3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+
+- ???
+
 ### Maandag 7 sept - Algmene werkgroep
 
 Opdracht 1 - Artikelen lezen over Digital Garden en in groepjes bespreken
 
 Ik heb zelf de volgende twee artikelen gelezen: "Digital Garden Terms of Sevice" en "Digital gardens let you cultivate your own little bit of the internet"
+
 Aantekeningen: Een Digital Garden is een eigen plek op het internet waar je onafgemaakte gedachten en ongeordende notities openbaar kunt delen. Met als doel kennis en netwerk tijdens je hele leven blijven ontwikkelen. De term is onstaan rond 1998 en geintroduceerd door Mark Beinstein. Hij wilde meer plekken waar mensen het onbekende kunnen verkennen.
 
 In een Digital Garden is er ruimte om te experimenteren, groeien en ontwertend of fout te zijn. In een Digital gardens heb je het recht op fouten te maken of onvolledige informatie te delen, het kan altijd nog aangepast worden. Daarom is feedback en kritiek belangrijk, zo leer je meer. Daarnaast wordt een Digital Garden ook wel gezien als een tweede brein, het is goed in het onthouden van informatie, zoeken van feiten en links en besparen van typewerk. Er zijn geen officiele regels maar dit kun je wel zien als de basis regels van een Digital Garden:
@@ -31,6 +51,58 @@ Hierna hebben we als groepje gekeken naar onze acht website en hebben we gekeken
      alt="Gezamelijk formulier voor de eisen van een webby site">
 
 Opdracht 3 - Eigen verkenning
+
+1. Vanuit de inventarisatie: wat zou je zelf willen maken?
+   Voor mijn website wil ik het concept Never Enough verder uitwerken. Het uitgangspunt is de vraag: waarom is genoeg voor ons vaak niet genoeg? Ik vind het interessant dat dit op veel verschillende manieren terugkomt in ons dagelijks leven. We willen steeds meer, beter, mooier of interessanter.
+
+Ik wil daarom geen standaard informatieve website maken, maar een website die de bezoeker zelf laat nadenken over hun eigen gedrag. De verschillende onderwerpen wil ik onderverdelen in Our Minds, Our Bodies, Online en Our Lives. Denk hierbij aan FOMO, overthinking, Just One More, glow-up cultuur, productiviteit en Let's Romanticize Life.
+
+Wat ik interessant vind aan andere websites is wanneer informatie niet meteen volledig wordt gegeven, maar je als bezoeker zelf iets moet ontdekken. Ik zou bijvoorbeeld willen experimenteren met scroll-interacties, verborgen informatie, bewegende elementen en verschillende lagen binnen een pagina. Daarnaast vind ik een visueel grafische website tof dus hier wil ik ook iets mee doen. Denk hierbij aan grote letters, veel kleuren maar wel een goede balans. Dingen die ik nog niet goed kan, maar wel interessant vind, zijn scroll-based animations, interactieve hover states en animaties die reageren op de gebruiker.
+
+2. Welke webby dingen wil ik gebruiken?
+
+Ik wil vooral elementen gebruiken waardoor de website niet voelt als een online verslag, maar als een ervaring.
+Dingen die ik graag wil toepassen zijn:
+
+- Scroll animations waarbij content langzaam verschijnt of verandert.
+- Hover interactions waarbij je bijvoorbeeld op een woord kunt gaan staan en extra informatie ontdekt.
+- Grote typografie en woorden die onderdeel worden van de vormgeving.
+- Micro-interactions
+- Parallax waarbij verschillende elementen met verschillende snelheden bewegen.
+- Interactieve cijfers of statistieken.
+- Een lange scrollpagina waarbij het verhaal zich steeds verder ontvouwt.
+- Subtiele bewegingen en geluiden die de ervaring versterken.
+
+Een leuk eerste idee is bijvoorbeeld om “Just One More” letterlijk in de website te verwerken. De bezoeker krijgt bijvoorbeeld een knop met “One more?”. Na het klikken verschijnt er steeds iets nieuws. Hierdoor ervaart de bezoeker zelf hoe makkelijk het is om door te blijven gaan.
+
+3. Welke eigen content zou ik over het onderwerp kunnen schrijven?
+   Mijn eigen content zou vooral gaan over de kleine dingen die we dagelijks doen zonder er echt bij stil te staan. Het onderwerp Never Enough raakt mij omdat het zo herkenbaar is. Het idee van "nog één aflevering" of fomo maak ik zelf ook vaak mee.
+
+De toon van de website wil ik herkenbaar, licht kritisch en een beetje speels maken. Het moet niet voelen alsof ik de bezoeker vertel dat hun gedrag fout is. Ik wil juist dat iemand denkt: “Oh shit, ik doe dit ook.”
+
+De context is ons dagelijks leven, waarin we constant worden blootgesteld aan prikkels, keuzes, sociale verwachtingen en de mogelijkheid om steeds meer te doen.
+
+Mijn belangrijkste onderwerpen zouden zijn:
+
+- Our Minds: Overthinking, FOMO, The "What if?" mindset, The need for closure en The “I'll Start Monday” Effect
+- Our Bodies: The perfect body, The productivity body, more more more, rest guilt
+- Online: Just One More, Infinite scrolling, Likes & validation, Trend cycle, The perfect life
+- Our Lives: Let's Romanticize Life, Main character syndrome, Bucket lists, slow living
+
+4. Gebruik ik content van anderen?
+   Voor mijn website wil ik zeker gebruikmaken van bestaande bronnen, bijvoorbeeld onderzoeken, statistieken, artikelen en inzichten van psychologen of andere experts. Deze gebruik ik vooral om mijn eigen verhaal te onderbouwen, niet om bestaande content simpelweg over te nemen.
+
+5. Op welke manier is de content te ervaren?
+   Ik wil dat Never Enough niet alleen gelezen, maar ook ervaren wordt. De bezoeker zou bijvoorbeeld door middel van interactie kunnen ontdekken hoe het voelt om steeds meer te willen. Dit zijn een paar eerste ideeen die ik heb:
+
+- Bij FOMO zou je bijvoorbeeld een scherm kunnen krijgen waarop steeds nieuwe activiteiten verschijnen. Iedere keer dat je één keuze maakt, verschijnen er drie nieuwe opties. Hierdoor ontstaat het gevoel dat je altijd iets mist.
+- Bij Our Bodies kan een afbeelding of silhouet steeds veranderen wanneer je scrollt, waarbij er steeds nieuwe “verbeteringen” worden toegevoegd. Uiteindelijk wordt duidelijk dat er eigenlijk geen eindpunt is.
+
+Ik wil gebruikmaken van zien, bewegen, klikken, scrollen en eventueel horen. Hierdoor wordt de website niet alleen een plek waar informatie staat, maar een soort digitale ervaring over onze constante behoefte aan meer.
+
+<h3> De kern van mijn concept </h3>
+Eigenlijk kunnen alle onderdelen uiteindelijk terugkomen bij één vraag: WHEN IS ENOUGH, ENOUGH?
+Dat is wat ik interessant vind aan Never Enough: ik hoef de bezoeker niet te vertellen wat het antwoord is. Ik wil ze vooral laten herkennen hoe vaak ze zelf bezig zijn met “meer”.
 
 ### Vrijdag 4 sept - Deep dives
 
