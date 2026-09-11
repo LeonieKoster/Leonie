@@ -6,8 +6,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### Dinsdag 8 sept - Huiswerk
 
-1. Presentatie eigen onderwerp
-2. Deepdive Light & Dark mode
+1. Presentatie eigen onderwerp:
+   <a href="file:///Users/leoniekoster/Downloads/Hva/Jaar%202%20/WIVI/Leonie/oefeningen/presentatie/index.html#2">Links naar mijn presentatie</a>
+   Collage van de afbeeldingen: <img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/16bd7f8f-aa8f-46c8-a7d8-55d263445483" />
+
+3. Deepdive Light & Dark mode
 
 ### Maandag 7 sept - Check Out
 
