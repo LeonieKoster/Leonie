@@ -10,7 +10,7 @@ Opdracht 4 - Presenteren van je presentatie en vragen beantwoorden
 Aangezien ik tijdens de les afwezig was heb ik deze opdracht ingehaald met Joy. Ik heb mijn presentatie gedaan en hebben gezamenlijk de vragen beantwoord.  
 
 Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? 
--     Mijn onderwerp gaat over het gevoel dat iets nooit genoeg is. Met FOMO en de “just one more”-mindset laat ik zien hoe we steeds op zoek zijn naar meer, terwijl we misschien al genoeg hebben. Met mijn website wil ik dit herkenbaar maken en zet ik andere aan het denken over hun eigen gedrag. Ik wil laten zien dat het idee van nooit genoeg hebben een heel actueel onderwerp is en mensen laten zien dat ze niet de enige zijn die dit ervaren. ​
+Mijn onderwerp gaat over het gevoel dat iets nooit genoeg is. Met FOMO en de “just one more”-mindset laat ik zien hoe we steeds op zoek zijn naar meer, terwijl we misschien al genoeg hebben. Met mijn website wil ik dit herkenbaar maken en zet ik andere aan het denken over hun eigen gedrag. Ik wil laten zien dat het idee van nooit genoeg hebben een heel actueel onderwerp is en mensen laten zien dat ze niet de enige zijn die dit ervaren. ​
 
 Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?
 -     Woorden die goed bij mijn onderwerp passen zijn dynamisch, herkenbaar, modern, prikkelend, chaotisch, confronterend en nieuwsgierig. Het onderwerp gaat over de constante drang naar meer en het gevoel dat iets nooit genoeg is. Daarom mag het ook wat onrustig en overweldigend aanvoelen.​
