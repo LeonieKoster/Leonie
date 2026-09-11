@@ -4,10 +4,37 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### Woensdag 9 sept - Algmene werkgroep
+
+Opdracht 4 - Presenteren van je presentatie en vragen beantwoorden 
+Aangezien ik tijdens de les afwezig was heb ik deze opdracht ingehaald met Joy. Ik heb mijn presentatie gedaan en hebben gezamenlijk de vragen beantwoord.  
+
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? 
+-     Mijn onderwerp gaat over het gevoel dat iets nooit genoeg is. Met FOMO en de “just one more”-mindset laat ik zien hoe we steeds op zoek zijn naar meer, terwijl we misschien al genoeg hebben. Met mijn website wil ik dit herkenbaar maken en zet ik andere aan het denken over hun eigen gedrag. Ik wil laten zien dat het idee van nooit genoeg hebben een heel actueel onderwerp is en mensen laten zien dat ze niet de enige zijn die dit ervaren. ​
+
+Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?
+-     Woorden die goed bij mijn onderwerp passen zijn dynamisch, herkenbaar, modern, prikkelend, chaotisch, confronterend en nieuwsgierig. Het onderwerp gaat over de constante drang naar meer en het gevoel dat iets nooit genoeg is. Daarom mag het ook wat onrustig en overweldigend aanvoelen.​
+
+Heeft 'de ander' een aanvulling op je onderwerp?​ 
+ - Ja. Joy gaf aan dat mijn afbeeldingen nu erg “clean girl” zijn, terwijl mijn onderwerp ook juist een rommelige en chaotische kant heeft. Dit past goed bij het gevoel van FOMO en “just one more”: je hoofd kan vol zitten met prikkels, keuzes en dingen die je nog moet of wilt doen. Ik ga dit zeker meenemen en wil daarom niet alleen maar perfecte en rustige beelden gebruiken, maar ook beelden die wat chaotischer, drukker of imperfecter zijn.
+
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
+-     Het onderwerp voelt voor mij modern, dynamisch, druk en een beetje chaotisch. Het moet een gevoel van onrust en nieuwsgierigheid geven, alsof je steeds denkt: “Nog één keer, nog één ding, dan ben ik tevreden.” Tegelijkertijd moet het herkenbaar zijn voor jongeren, waardoor een hippe en eigentijdse uitstraling goed past.
+
+Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
+- Uit mijn afbeeldingen kan ik vooral inspiratie halen uit de combinatie van clean en chaotisch. Ik wil kijken naar verschillende soorten composities, lettertypes, kleuren en vormen. Sommige beelden kunnen rustig en minimalistisch zijn, terwijl andere juist vol, rommelig en overweldigend zijn. Ook kan ik inspiratie halen uit het gebruik van herhaling, bijvoorbeeld meerdere dezelfde elementen naast elkaar, om het gevoel van “nog één” te versterken. Hierdoor hoeft mijn stijl niet perfect of volledig samenhangend te zijn, maar mag er juist een bepaalde spanning tussen rust en chaos ontstaan.
+
+Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien?
+
+- 
+
+Ik wil mijn Digital Garden laten gaan over het gevoel dat het nooit goed genoeg is en wil dat laten zien door een combinatie van afbeeldingen en tekst.
+Ik begin met een stukje eigen content over het onderwerp en de verschillende thema's die hier onder vallen. ​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door alle thema's uit te werken met afbeeldingen, tekst en animaties.​
+
 ### Dinsdag 8 sept - Huiswerk
 
 1. Presentatie eigen onderwerp:
-
     Collage van de afbeeldingen: <img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/16bd7f8f-aa8f-46c8-a7d8-55d263445483" />
 2. Deepdive Light & Dark mode
 
@@ -23,7 +50,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
 
-- Voor mijn eigen digital garden wil ik aan de slag gaan met het overkoepelende thema **“Never Enough”**. Ik wil onderzoeken waarom we als mensen vaak het gevoel hebben dat iets nooit helemaal genoeg is. We willen steeds meer, beter, mooier, productiever of interessanter, terwijl we eigenlijk al genoeg hebben.
+- Voor mijn eigen digital garden wil ik aan de slag gaan met het overkoepelende thema “Never Enough”. Ik wil onderzoeken waarom we als mensen vaak het gevoel hebben dat iets nooit helemaal genoeg is. We willen steeds meer, beter, mooier, productiever of interessanter, terwijl we eigenlijk al genoeg hebben.
 
 Ik wil dit thema vanuit verschillende kanten bekijken. Mijn eerste idee is om de website onder te verdelen in vier onderdelen: Our Minds, Our Bodies, Online en Our Lives. Binnen deze onderwerpen wil ik verschillende herkenbare thema’s onderzoeken, zoals FOMO, overthinking, “Just One More”, glow-up culture, social media, productiviteit en “Let’s Romanticize Life”.
 
@@ -64,15 +91,12 @@ In een Digital Garden is er ruimte om te experimenteren, groeien en ontwertend o
 Opdracht 2 - Rangschikken van websites
 
 We hebben in groepjes onderzoek gedaan naar acht website en hebben hierbij gekeken welke het meest Webby is en welke het minst. Ik heb zelf onderzoek gedaan naar <a href="https://www.Edwinwenink.xyz">Edwinwenink.xyz</a> en <a href="https://nuel.pw">nuel.pw</a>. Twee totaal verschillende site die beide aan best veel "eisen" voldoen. Zo waren ze beiden er fluide, ze zagen er nog steeds goed uit op een kleiner scherm en zijn dan nog goed te bedienen. Beide website hebben een duidelijke hoverstate, maar een focus-state ontbreekt.
-In tegenstelling tot Nuel.pw had edwinwenink.xyz een duidelijke visuele hierachie en waren en duidelijke beschrijving onder de afbeeldingen te vinden. In Nuel.pw moet je iets meer zelf ontdekken. Beide website gaven geen waarschuwing van het opslaan van gegevens. Nuel.pw heeft veel leuke animaties, de ene iets duidelijker dan de ander. Maar dit ontbreekt bij edwinwenink.xyz waardoor het een vrij simpele site is. Mijn persoonlijke voorkeur gaat meer naar de stijl van edwinwenink.xyz, omdat dit een hele overzichtelijke site was. Ook weet je hierop precies wat je te wachten staat en is alles makkelijke te vinden. Maar de andere site is een stuk speelser en moet je meer zelf ontdekken. Dit heeft natuurlijk ook iets.
-<img 
-     src="../..assets/individueel.HEIC" 
-     alt="Formulier met punten waarop de websites worden geanalyseerd ">
+In tegenstelling tot Nuel.pw had edwinwenink.xyz een duidelijke visuele hierachie en waren en duidelijke beschrijving onder de afbeeldingen te vinden. In Nuel.pw moet je iets meer zelf ontdekken. Beide website gaven geen waarschuwing van het opslaan van gegevens. Nuel.pw heeft veel leuke animaties, de ene iets duidelijker dan de ander. Maar dit ontbreekt bij edwinwenink.xyz waardoor het een vrij simpele site is. Mijn persoonlijke voorkeur gaat meer naar de stijl van edwinwenink.xyz, omdat dit een hele overzichtelijke site was. Ook weet je hierop precies wat je te wachten staat en is alles makkelijke te vinden. Maar de andere site is een stuk speelser en moet je meer zelf ontdekken. Dit heeft natuurlijk ook iets.<img width="2288" height="3747" alt="image" src="https://github.com/user-attachments/assets/ee1fb4be-6a89-41e3-9329-165b7b004c40" />
 
-Hierna hebben we als groepje gekeken naar onze acht website en hebben we gekeken welke het meest en minst webby zijn. Uiteindelijk kwamen we tot de conclusie dat melonland.net het meest webby is omdat het er ontzettend tof uitzag maar ook goed over nagedacht is. Met een hoverstate, veel animaties, goed kleuren palette en contras, goede typografie en het vooral een hele persoonlijke site is. Als minst webby site hebben wij gekozen voor churchbasement, omdat het een ontzettend simpele site is. Hij was niet overzichtelijk omdat er alleen maar likjes zonder uitleg zichtbaar zijn. Daarnaast is er geen gebruik gemaakt van focus- of hoverstates. Ook is het kleurcontrast minimaal en waren er geen animaties of waarschuwingen voor data-gebruik. Overal een hele saaie site dus.
-<img 
-     src="file:///Users/leoniekoster/Downloads/IMG_5515.HEIC" 
-     alt="Gezamelijk formulier voor de eisen van een webby site">
+
+Hierna hebben we als groepje gekeken naar onze acht website en hebben we gekeken welke het meest en minst webby zijn. Uiteindelijk kwamen we tot de conclusie dat melonland.net het meest webby is omdat het er ontzettend tof uitzag maar ook goed over nagedacht is. Met een hoverstate, veel animaties, goed kleuren palette en contras, goede typografie en het vooral een hele persoonlijke site is. Als minst webby site hebben wij gekozen voor churchbasement, omdat het een ontzettend simpele site is. Hij was niet overzichtelijk omdat er alleen maar likjes zonder uitleg zichtbaar zijn. Daarnaast is er geen gebruik gemaakt van focus- of hoverstates. Ook is het kleurcontrast minimaal en waren er geen animaties of waarschuwingen voor data-gebruik. Overal een hele saaie site dus. <img width="4284" height="5712" alt="tempImagezrUso3" src="https://github.com/user-attachments/assets/1541491a-40d1-43c8-9713-e46962dab8ce" />
+
+
 
 Opdracht 3 - Eigen verkenning
 
@@ -136,17 +160,17 @@ Voor vandaag had ik me ingescreven voor de volgende twee deep dives:
 - CSS: fonts met kleur en effecten
 
 Ik ben begonnen met de deepdive Praktische CSS hiervoor kregen we de taak om als huiswerk een lelijke website te maken. Ik heb een website gemaakt met een guide to Amsterdam, met een h1, h2, afbeelding, orderd list, button en verschillende paragrafen. <img 
-     <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3727ad2b-2dd6-4930-8d58-d28d035b1ddb" />
+     <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/3727ad2b-2dd6-4930-8d58-d28d035b1ddb" />
 
      alt="Een lelijke website van een guide to Amsterdam zonder enige opmaak">
 
 Daarnaast heb ik ook de dinner game gedaan, maar tijdens dit spel merkte ik dat ik toch nog vest wat moeite had met de CSS begrijpen. Naarmate de levels moeilijker werden, duurde het steeds langer voordat ik klaar was. Ik hoop dat ik dit blok hier sneller in wordt en het me beter afgaat.
 
-Tijdens de deepdive heeft Vasilis ons stap voor stap meegenomen in het proces en heb ik uiteindelijk een goede basis voor een website neergezet. En is het al een stuk duidelijker geworden voor mij. <img 
-     src="file:///Users/leoniekoster/Desktop/Scherm%C2%ADafbeelding%202026-09-07%20om%2015.59.58.png" 
-     alt="Eindresultaat van een simpel opgemaakt website na de deep dive">
+Tijdens de deepdive heeft Vasilis ons stap voor stap meegenomen in het proces en heb ik uiteindelijk een goede basis voor een website neergezet. En is het al een stuk duidelijker geworden voor mij. <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/7cf3a757-8c04-4191-98b4-f33019860dd5" />
 
-Voor de tweede deepdive van de dag had ik me ingeschreven voor CSS: fonts met kleur en effecten. Hiervoor heb ik de eerste opdracht al huiswerk gedaan. Hierbij moest je een afbeelding namaken. <img src="file:///Users/leoniekoster/Desktop/Scherm%C2%ADafbeelding%202026-09-04%20om%2012.15.50.png" alt="Eindresultaat van huiswerk opdracht".
+
+Voor de tweede deepdive van de dag had ik me ingeschreven voor CSS: fonts met kleur en effecten. Hiervoor heb ik de eerste opdracht al huiswerk gedaan. Hierbij moest je een afbeelding namaken. <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/f0486d93-5aa5-46ee-8a7e-2361db6c9b0d" />
+.
 Dit ging mij eigenlijk vrij goed af. Door goed de instructies te lezen en volgen kwam ik op het gewenste resultaat.
 
 Verder zijn wij in de les bezig geweest met de andere opdrachten. Hier was ik wel een stuk langer mee bezig omdat de uitleg hier iets minder uitgebreid bij was. Met hulp van Sanne is het mij gelukt om de bovenste afbeelding na te maken. <img src="/Users/leoniekoster/Desktop/Scherm­afbeelding 2026-09-04 om 12.35.46.png" alt="Afbeelding van de eerste opdracht in de les".
