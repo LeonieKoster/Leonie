@@ -134,7 +134,8 @@ Voor vandaag had ik me ingescreven voor de volgende twee deep dives:
 - CSS: fonts met kleur en effecten
 
 Ik ben begonnen met de deepdive Praktische CSS hiervoor kregen we de taak om als huiswerk een lelijke website te maken. Ik heb een website gemaakt met een guide to Amsterdam, met een h1, h2, afbeelding, orderd list, button en verschillende paragrafen. <img 
-     src="file:///Users/leoniekoster/Desktop/Scherm%C2%ADafbeelding%202026-09-08%20om%2022.39.56.png" 
+     <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3727ad2b-2dd6-4930-8d58-d28d035b1ddb" />
+
      alt="Een lelijke website van een guide to Amsterdam zonder enige opmaak">
 
 Daarnaast heb ik ook de dinner game gedaan, maar tijdens dit spel merkte ik dat ik toch nog vest wat moeite had met de CSS begrijpen. Naarmate de levels moeilijker werden, duurde het steeds langer voordat ik klaar was. Ik hoop dat ik dit blok hier sneller in wordt en het me beter afgaat.
