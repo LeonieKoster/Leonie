@@ -99,7 +99,6 @@ In tegenstelling tot Nuel.pw had edwinwenink.xyz een duidelijke visuele hierachi
 <img width="auto" height="auto" alt="tempImagedpcTCe" src="https://github.com/user-attachments/assets/935736c0-a3bc-4cd4-bb4d-c2a01b6ba459" />
 
 
-
 Hierna hebben we als groepje gekeken naar onze acht website en hebben we gekeken welke het meest en minst webby zijn. Uiteindelijk kwamen we tot de conclusie dat melonland.net het meest webby is omdat het er ontzettend tof uitzag maar ook goed over nagedacht is. Met een hoverstate, veel animaties, goed kleuren palette en contras, goede typografie en het vooral een hele persoonlijke site is. Als minst webby site hebben wij gekozen voor churchbasement, omdat het een ontzettend simpele site is. Hij was niet overzichtelijk omdat er alleen maar likjes zonder uitleg zichtbaar zijn. Daarnaast is er geen gebruik gemaakt van focus- of hoverstates. Ook is het kleurcontrast minimaal en waren er geen animaties of waarschuwingen voor data-gebruik. Overal een hele saaie site dus. <img width="auto" height="auto" alt="tempImagezrUso3" src="https://github.com/user-attachments/assets/1541491a-40d1-43c8-9713-e46962dab8ce" />
 
 
@@ -149,8 +148,9 @@ Mijn belangrijkste onderwerpen zouden zijn:
 5. Op welke manier is de content te ervaren?
    Ik wil dat Never Enough niet alleen gelezen, maar ook ervaren wordt. De bezoeker zou bijvoorbeeld door middel van interactie kunnen ontdekken hoe het voelt om steeds meer te willen. Dit zijn een paar eerste ideeen die ik heb:
 
-- Bij FOMO zou je bijvoorbeeld een scherm kunnen krijgen waarop steeds nieuwe activiteiten verschijnen. Iedere keer dat je één keuze maakt, verschijnen er drie nieuwe opties. Hierdoor ontstaat het gevoel dat je altijd iets mist.
-- Bij Our Bodies kan een afbeelding of silhouet steeds veranderen wanneer je scrollt, waarbij er steeds nieuwe “verbeteringen” worden toegevoegd. Uiteindelijk wordt duidelijk dat er eigenlijk geen eindpunt is.
+Bij FOMO zou je bijvoorbeeld een scherm kunnen krijgen waarop steeds nieuwe activiteiten verschijnen. Iedere keer dat je één keuze maakt, verschijnen er drie nieuwe opties. Hierdoor ontstaat het gevoel dat je altijd iets mist.
+
+Bij Our Bodies kan een afbeelding of silhouet steeds veranderen wanneer je scrollt, waarbij er steeds nieuwe “verbeteringen” worden toegevoegd. Uiteindelijk wordt duidelijk dat er eigenlijk geen eindpunt is.
 
 Ik wil gebruikmaken van zien, bewegen, klikken, scrollen en eventueel horen. Hierdoor wordt de website niet alleen een plek waar informatie staat, maar een soort digitale ervaring over onze constante behoefte aan meer.
 
