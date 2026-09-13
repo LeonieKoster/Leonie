@@ -6,7 +6,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### Woensdag 9 sept - Algmene werkgroep
 
-Opdracht 4 - Presenteren van je presentatie en vragen beantwoorden 
+**Opdracht 4 - Presenteren van je presentatie en vragen beantwoorden**
 
 Aangezien ik tijdens de les afwezig was heb ik deze opdracht ingehaald met Joy. Ik heb mijn presentatie gedaan en hebben gezamenlijk de vragen beantwoord.  
 
