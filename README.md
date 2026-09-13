@@ -79,11 +79,60 @@ Prikkelend: De collage verbeeldt de honger naar méér: een continue zoektocht n
 Verlangend: De afbeeldingen laten het onbereikbare zien: de zucht naar intimiteit en vervulling die net buiten bereik blijft.
 
 **Opdracht 7 - Abstracte vertaling**
-Ik ben opzoek gegaan naar de abstracte vertaling van mijn kenmerken en ben op de volgende poster gekomen. 
+Ik ben opzoek gegaan naar de abstracte vertaling van mijn kenmerken en ben op de volgende posters gekomen. 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a68a25b9-7eb6-4f14-ab87-7910b3b98028" />
 
 Voor onrustig ben ik opzoek gegaan naar beelden die een ruis, draaierigheid en vervorming weergeven. Dit straalt de mentale chaos en druk van het thema Never Enough uit. 
 De beelden voor prikkelend schreeuwen om aandacht, prikkelt en schuurt, perfect bij het thema. En voor het laatste sfeerwoord heb ik gezocht naar posters die zachtheid en onbereikbaarheid uitstralen. 
+
+**Opdracht 8 - Uitgangspunten voor schetsen** 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/523428f7-1fb4-4ee5-8ef4-662bf410c9c2" />
+Vanuit mijn abstracte vertaling heb ik vier posters uitgekozen die ik het beste vind passen binnen het thema en mijn sfeerwoorden/kenmerken dit is waarom: 
+
+Poster 1: Onrustig
+1. Kenmerken met het sfeerwoord: Mentale chaos, beklemming, draaierigheid, controleverlies en een meeslepende maalstroom van gedachten.
+2. Ontwerpeigenschappen:
+        Kleur: Hard, contrastrijk zwart-wit om het beklemmende en mechanische gevoel te versterken.
+        Vorm: Een oneindige spiraal of tunnelvorm (optische illusie) die de blik naar het diepste punt trekt.
+        Typografie: Herhaalde, vervormde tekst die met de vorm mee buigt en naar het centrum toe steeds kleiner en onleesbaarder wordt.
+3. Schetsidee: Een pagina waarin het woord "MORE" in een spiraalvormige draaikolk naar het midden verdwijnt. De tekst start groot en strak aan de buitenranden, maar vervormt en krimpt naarmate hij dieper de donkere tunnel in wordt gezogen. Met het idee dat de gedachte voor altijd door blijft gaan.
+
+Poster 2: Onrustig
+1. Kenmerken met het sfeerwoord: Gejaagdheid, overprikkeling, ruis, innerlijke hectiek en mentale storing.
+2. Ontwerpeigenschappen:
+        Kleur: Zwart-wit gecombineerd met snijdende RGB-ruis (felle, vloekende kleuren).
+        Vorm: Verspringende rasters en een gelaagde, doorgesneden vlakverdeling die aanvoelt als een digitale glitch.
+        Typografie: Een zware, vette schreefloze letter die horizontaal is doorgesneden, uitgerekend en dubbel over elkaar heen is geprint.
+3. Schetsidee: Een typografische compositie van het woord "Just One More" dat in meerdere horizontale stroken is 'gebroken'. De lagen schuiven uit elkaar met een felgekleurd trillingseffect (chromatische aberratie), alsof de typografie onder te veel druk staat.
+
+Poster 3: Prikkelend
+1. Kenmerken met het sfeerwoord: Intensiteit, hongerige nieuwsgierigheid, directe confrontatie en zintuiglijke overprikkeling.
+2. Ontwerpeigenschappen:
+        Kleur: Knallend, oververzadigd neon-rood en cyaan-blauw die fel tegen elkaar afsteken.
+        Vorm: Een krappe uitsnede (framing) van een gezicht/blik met een grove, uitvergrote korrel of rasterstructuur.
+        Typografie: Agressieve, grote typografie die dwars over het beeld heen stempelt en de randen van het kader raakt. En typografie wat van het blad af lijkt te draaien.
+3. Schetsidee: Een close-up schets van een intense blik die achter een strak digitaal kader vandaan kijkt. Over de ogen heen wordt in felrode, gigantische letters "MORE" geplaatst, waarbij de typografie deels wegvalt achter de harde schaduwen van het gezicht.
+
+Poster 4: Verlangend
+1. Kenmerken met het sfeerwoord: Onbereikbaarheid, broeierige aantrekkingskracht, emotionele leegte en afstand.
+2. Ontwerpeigenschappen:
+        Kleur: Een warm, vloeibaar kleurverloop, gradient, van een vurige oranje-roze kern naar diep, beklemmend zwart.
+        Vorm: Zachte, organische zandlopervorm met veel lege ruimte aan de zijkanten.
+        Typografie: Dunne, kwetsbare en elegante typografie (serif) met veel interlinie en ruime spatiëring, waarbij de woorden uit elkaar lijken te vallen
+3. Schetsidee: Een schets met een diepe, gloeiende oranje vorm in het centrum die aan de zijkanten langzaam oplost in het zwart. Aan de uiterste onderkant staat de tekst "Never Enough" in een piepklein, flinterdun lettertype—bijna onbereikbaar klein in de grote leegte van het scherm.
+
+Algemene specificaties: 
+1. Welke kenmerken verbind je met de sfeerwoorden als geheel?
+Samen vormen de 4 posters het complete emotionele spectrum van het concept Never Enough: de mentale chaos en gejaagdheid, de actieve honger naar prikkels en de leegte van het onbereikbare.
+2. Ontwerpeigenschappen over de gehele serie:
+        Kleur: Een krachtige mix tussen hard monochroom zwart-wit en felle botsende neon-accenten en vloeiende zachte kleuroverlopen.
+        Vorm: Een samenspel van vervormde en draaiende rasters, strakke kaders/uitsnedes en zachte, uitvloeiende gradiëntvormen.
+        Typografie: Een duidelijke gelaagdheid die varieert van onleesbare, trillende letters, tot harde vette koppen die het beeld overnemen gecombineerd met dunne subtiele tekstjes         die oplossen in de achtergrond.
+3. Wat ga je concreet schetsen als totale serie?
+-     Een draaikolk-ontwerp dat de beklemmende gedachtenmolen verbeeldt.
+-     Een glitch-ontwerp waarin tekst fysiek uit elkaar valt door ruis.
+-     Een neon-close-up die de kijker confronteert met een onstilbare drang naar prikkels.
+-     Een dromerig gradient-ontwerp waarin typografie vervaagt in de leegte als verbeelding van het uiteindelijke gemis.
 
 ### Dinsdag 8 sept - Huiswerk
 
