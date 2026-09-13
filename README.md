@@ -88,7 +88,6 @@ De beelden voor prikkelend schreeuwen om aandacht, prikkelt en schuurt, perfect 
 **Opdracht 8 - Uitgangspunten voor schetsen** 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/523428f7-1fb4-4ee5-8ef4-662bf410c9c2" />
 Vanuit mijn abstracte vertaling heb ik vier posters uitgekozen die ik het beste vind passen binnen het thema en mijn sfeerwoorden/kenmerken dit is waarom: 
-
 Poster 1: Onrustig
 1. Kenmerken met het sfeerwoord: Mentale chaos, beklemming, draaierigheid, controleverlies en een meeslepende maalstroom van gedachten.
 2. Ontwerpeigenschappen:
@@ -129,10 +128,10 @@ Samen vormen de 4 posters het complete emotionele spectrum van het concept Never
         Vorm: Een samenspel van vervormde en draaiende rasters, strakke kaders/uitsnedes en zachte, uitvloeiende gradiëntvormen.
         Typografie: Een duidelijke gelaagdheid die varieert van onleesbare, trillende letters, tot harde vette koppen die het beeld overnemen gecombineerd met dunne subtiele tekstjes         die oplossen in de achtergrond.
 3. Wat ga je concreet schetsen als totale serie?
--     Een draaikolk-ontwerp dat de beklemmende gedachtenmolen verbeeldt.
--     Een glitch-ontwerp waarin tekst fysiek uit elkaar valt door ruis.
--     Een neon-close-up die de kijker confronteert met een onstilbare drang naar prikkels.
--     Een dromerig gradient-ontwerp waarin typografie vervaagt in de leegte als verbeelding van het uiteindelijke gemis.
+- Een draaikolk-ontwerp dat de beklemmende gedachtenmolen verbeeldt.
+- Een glitch-ontwerp waarin tekst fysiek uit elkaar valt door ruis.
+- Een neon-close-up die de kijker confronteert met een onstilbare drang naar prikkels.
+- Een dromerig gradient-ontwerp waarin typografie vervaagt in de leegte als verbeelding van het uiteindelijke gemis.
 
 ### Dinsdag 8 sept - Huiswerk
 
