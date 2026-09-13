@@ -31,11 +31,10 @@ Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, e
 Uit mijn afbeeldingen kan ik vooral inspiratie halen uit de combinatie van clean en chaotisch. Ik wil kijken naar verschillende soorten composities, lettertypes, kleuren en vormen. Sommige beelden kunnen rustig en minimalistisch zijn, terwijl andere juist vol, rommelig en overweldigend zijn. Ook kan ik inspiratie halen uit het gebruik van herhaling, bijvoorbeeld meerdere dezelfde elementen naast elkaar, om het gevoel van “nog één” te versterken. Hierdoor hoeft mijn stijl niet perfect of volledig samenhangend te zijn, maar mag er juist een bepaalde spanning tussen rust en chaos ontstaan.
 
 Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien?
+Ik wil anderen laten nadenken over waarom we vaak het gevoel hebben dat iets nooit genoeg is. We willen steeds meer, beter, mooier of interessanter: nog één video kijken, nog iets kopen, nog harder werken of onszelf nog verder verbeteren. Ik wil laten zien dat dit gedrag heel normaal is geworden, maar dat we ons soms niet eens afvragen waarom we dit eigenlijk doen. Ik zie mijn Digital Garden voor me als een plek waar je dit gedrag zelf kunt ontdekken. Niet als een website die meteen alles uitlegt, maar als een verzameling van beelden, korte teksten, links en voorbeelden die je nieuwsgierig maken. De website mag zowel clean als rommelig zijn, zodat het contrast tussen perfectie en chaos zichtbaar wordt. Uiteindelijk wil ik dat iemand na het bekijken van mijn Garden denkt: “Doe ik dit zelf eigenlijk ook?”
 
-
-Ik wil mijn Digital Garden laten gaan over het gevoel dat het nooit goed genoeg is en wil dat laten zien door een combinatie van afbeeldingen en tekst.
-Ik begin met een stukje eigen content over het onderwerp en de verschillende thema's die hier onder vallen. ​
-Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door alle thema's uit te werken met afbeeldingen, tekst en animaties.​
+Ik wil mijn Digital Garden laten gaan over het gevoel dat iets nooit genoeg is, zoals FOMO en de “just one more”-mindset, en wil dat laten zien door afbeeldingen, teksten, links en voorbeelden uit het dagelijks leven aan content te tonen. Ik begin met een stukje eigen content over waarom we steeds meer willen en waarom “genoeg” vaak niet genoeg voelt.
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe onderwerpen toe te voegen, zoals social media, perfectionisme, glow-up culture, productiviteit en de drang om steeds beter te worden.​
 
 ### Dinsdag 8 sept - Huiswerk
 
