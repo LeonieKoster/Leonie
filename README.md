@@ -4,6 +4,27 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### Huiswerk bi-weekly geek 1 
+
+Ik heb als voorbereiding op de bi-weekly geek de video gekekene en de artikelen gelezen hier heb ik ook wat aantekeningen bij gemaakt: 
+1. YouTube video: How Does The Internet Work? - BBC Click 
+
+In 1969 is het internet bedacht, dit is gedaan door de Amerikaans minister defensie (Darpa). Ze hadden een netwerk nodig om 12 universiteren computersystemen te verbinden met elkaar. Zodat het delen van informatie werd bevorderd en om onderzoek na ai te versnellen. Daarom stimuleerde de Darpa de ontwikkeling van een packet switchen netwerk, dat ze Arpanet noemde. 29 oktober 1969 werd het eerste bericht verzonden via het Arpanet. Het wordt “internet” is een stuk later bedacht door Vint Cerf en Rober Kevin. 
+
+Iets om te onthouden: Het internet is NIET het World Wide Web. Het web is de manier waarop data, webpagina’s, services en documenten worden georganiseerd, geraadpleegd en geadresseerd. Dit gebeurt op de hardware van het internet waardoor talloze netwerken op een zeer slimme manier met elkaar kunnen communiceren. 
+
+2. Artikel The Guardian: The Guardian view over de cloudcrash: een storing die liet zien wie echt het internet beheert
+
+Het internet draait niet primair op satellieten, maar op een wereldwijd netwerk van onderzeese glasvezelkabels. Data wordt hier doorheen gestuurd als opgeknipte digitale “pakketjes” (packet switching)  die via IP-adressen en routers naar hun bestemming navigeren. Vandaag de dag leunen het internet en het World Wide Web op een extreem klein aantal cloudproviders. Amazon AWS, Microsoft Azure en Google Cloud beheren meer dan 60% van de wereldwijde cloudinfrastructuur.  Omdat enorme hoeveelheden dataverkeer via een beperkt aantal fysieke locaties lopen kan een enkele storing of aanval meteen duizenden bedrijven, overheidsdiensten, ziekenhuizen en apps wereldwijd platleggen.
+
+De afhankelijkheid van buitenlandse cloudgiganten wordt gezien als een groot strategisch risico. Landen en regio's (zoals de EU) proberen daarom eigen soevereine clouddiensten, open standaarden en lokale infrastructuur op te bouwen om te voorkomen dat ze digitaal afhankelijk worden van superpowers zoals de VS of China. En risico’s tot datalek of storingen voorkomen. 
+
+3. Artikel The Guardian: ‘It’s not too late to fix it’: web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet
+
+Het web was oorspronkelijk bedoeld als een vrij en democratisch netwerk, maar is door commerciële doeleinde gecorrumpeerd. Grote platforms gebruiken algoritmes die zijn gemaakt voor verslaving, polarisatie en surveillance, kortom het netwerk is geoptimaliseerd voor gemeenheid. Technologie is niet neutraal, de manier waarop een platform is ontwerpen bepaalt hoe mensen zich online gedragen. Monopolies zoals Google en Meta versterken dit probleem op data op te sluiten in gesloten, niet-transparante systemen. 
+
+Berners-Lee werkt aan Solid om de afhankelijkheid van techgiganten te breken. Met zogenaamde “pods” (digitale rugzakken) beheren gebruikers hun eigen data weer zelf een bepalen ze per situatie welk bedrijf of welke instantie tijdelijk toegang krijgt. Hij zegt dat maatregelen zoals het vergoeden van sociale media voor jongeren onder de 16 niet optimaal is. Hij ziet meer in kindvriendelijke hardware en gerichte filters, omdat hij digitale communicatie ook als iets nuttigs ziet. De ongecontroleerde ontwikkeling van AI door commerciële bedrijven is gesloten silo’s baart hem zorgen. Hij pleit dan ook voor internationaal, onafhankelijk wetenschappelijk instituut om AI veilig en transparant te onderzoeken en te controleren voordat het te laat is. 
+
 ### Woensdag 9 sept - Algmene werkgroep
 
 **Opdracht 4 - Presenteren van je presentatie en vragen beantwoorden**
@@ -36,6 +57,33 @@ Ik wil anderen laten nadenken over waarom we vaak het gevoel hebben dat iets noo
 
 "Ik wil mijn Digital Garden laten gaan over het gevoel dat iets nooit genoeg is, zoals FOMO en de “just one more”-mindset, en wil dat laten zien door afbeeldingen, teksten, links en voorbeelden uit het dagelijks leven aan content te tonen. Ik begin met een stukje eigen content over waarom we steeds meer willen en waarom “genoeg” vaak niet genoeg voelt.
 Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe onderwerpen toe te voegen, zoals social media, perfectionisme, glow-up culture, productiviteit en de drang om steeds beter te worden".​
+
+**Opdracht 5 - Sfeerwoorden**
+Mijn onderwerp is Nooit genoeg zijn. De sfeer waarin ik denk is, onrustig, verlangend en prikkelend
+Ik voel mij onrustig 
+Ik voel mij verlangend 
+Ik voel mij prikkelend 
+
+**Opdracht 6 - Directe visuele vertaling**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75545095-d040-4bcb-9d1d-a17763d25c10" />
+Ik heb voor mijn sfeerwoorden collages gemaakt met foto's passend bij het woord. Hierbij heb ik ook steekwoorden staan die ik uit de afbeeldingen heb gehaald. 
+
+1. Zie je patronen in je verzameling?
+Onrustig: De beelden hebben veel onscherpte, beweging, vervorming en beklemmende texturen.
+Prikkelend: Deze beelden hebben scherpe details, sterke contrasten en vuur.
+Verlangend: Er zijn duidelijke silhouetten, voelbare structuren, schaduwen en licht zichtbaar.
+
+2. Wat kun je beschrijven als kenmerken die passen bij je sfeerwoord en je gevonden beelden? Wat maakt het dat het past bij de sfeer van je onderwerp van je Garden.
+Onrustig: Deze beelden laten de mentale chaos en gejaagdheid van het constante gevoel dat het nooit genoeg is zien. 
+Prikkelend: De collage verbeeldt de honger naar méér: een continue zoektocht naar nieuwe, intense prikkels die de leegte moeten vullen.
+Verlangend: De afbeeldingen laten het onbereikbare zien: de zucht naar intimiteit en vervulling die net buiten bereik blijft.
+
+**Opdracht 7 - Abstracte vertaling**
+Ik ben opzoek gegaan naar de abstracte vertaling van mijn kenmerken en ben op de volgende poster gekomen. 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a68a25b9-7eb6-4f14-ab87-7910b3b98028" />
+
+Voor onrustig ben ik opzoek gegaan naar beelden die een ruis, draaierigheid en vervorming weergeven. Dit straalt de mentale chaos en druk van het thema Never Enough uit. 
+De beelden voor prikkelend schreeuwen om aandacht, prikkelt en schuurt, perfect bij het thema. En voor het laatste sfeerwoord heb ik gezocht naar posters die zachtheid en onbereikbaarheid uitstralen. 
 
 ### Dinsdag 8 sept - Huiswerk
 
@@ -101,7 +149,6 @@ In tegenstelling tot Nuel.pw had edwinwenink.xyz een duidelijke visuele hierachi
 
 
 Hierna hebben we als groepje gekeken naar onze acht website en hebben we gekeken welke het meest en minst webby zijn. Uiteindelijk kwamen we tot de conclusie dat melonland.net het meest webby is omdat het er ontzettend tof uitzag maar ook goed over nagedacht is. Met een hoverstate, veel animaties, goed kleuren palette en contras, goede typografie en het vooral een hele persoonlijke site is. Als minst webby site hebben wij gekozen voor churchbasement, omdat het een ontzettend simpele site is. Hij was niet overzichtelijk omdat er alleen maar likjes zonder uitleg zichtbaar zijn. Daarnaast is er geen gebruik gemaakt van focus- of hoverstates. Ook is het kleurcontrast minimaal en waren er geen animaties of waarschuwingen voor data-gebruik. Overal een hele saaie site dus. <img width="auto" height="auto" alt="tempImagezrUso3" src="https://github.com/user-attachments/assets/1541491a-40d1-43c8-9713-e46962dab8ce" />
-
 
 
 Opdracht 3 - Eigen verkenning
