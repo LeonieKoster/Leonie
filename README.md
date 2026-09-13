@@ -10,31 +10,32 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 Aangezien ik tijdens de les afwezig was heb ik deze opdracht ingehaald met Joy. Ik heb mijn presentatie gedaan en hebben gezamenlijk de vragen beantwoord.  
 
-Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? 
+1. Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? 
 
 Mijn onderwerp gaat over het gevoel dat iets nooit genoeg is. Met FOMO en de “just one more”-mindset laat ik zien hoe we steeds op zoek zijn naar meer, terwijl we misschien al genoeg hebben. Met mijn website wil ik dit herkenbaar maken en zet ik andere aan het denken over hun eigen gedrag. Ik wil laten zien dat het idee van nooit genoeg hebben een heel actueel onderwerp is en mensen laten zien dat ze niet de enige zijn die dit ervaren. ​
 
-Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?
+2. Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?
 
 Woorden die goed bij mijn onderwerp passen zijn dynamisch, herkenbaar, modern, prikkelend, chaotisch, confronterend en nieuwsgierig. Het onderwerp gaat over de constante drang naar meer en het gevoel dat iets nooit genoeg is. Daarom mag het ook wat onrustig en overweldigend aanvoelen.​
 
-Heeft 'de ander' een aanvulling op je onderwerp?​ 
+3. Heeft 'de ander' een aanvulling op je onderwerp?​ 
 
 Ja. Joy gaf aan dat mijn afbeeldingen nu erg “clean girl” zijn, terwijl mijn onderwerp ook juist een rommelige en chaotische kant heeft. Dit past goed bij het gevoel van FOMO en “just one more”: je hoofd kan vol zitten met prikkels, keuzes en dingen die je nog moet of wilt doen. Ik ga dit zeker meenemen en wil daarom niet alleen maar perfecte en rustige beelden gebruiken, maar ook beelden die wat chaotischer, drukker of imperfecter zijn.
 
-Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
+4. Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
 
 Het onderwerp voelt voor mij modern, dynamisch, druk en een beetje chaotisch. Het moet een gevoel van onrust en nieuwsgierigheid geven, alsof je steeds denkt: “Nog één keer, nog één ding, dan ben ik tevreden.” Tegelijkertijd moet het herkenbaar zijn voor jongeren, waardoor een hippe en eigentijdse uitstraling goed past.
 
-Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
+5. Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
 
 Uit mijn afbeeldingen kan ik vooral inspiratie halen uit de combinatie van clean en chaotisch. Ik wil kijken naar verschillende soorten composities, lettertypes, kleuren en vormen. Sommige beelden kunnen rustig en minimalistisch zijn, terwijl andere juist vol, rommelig en overweldigend zijn. Ook kan ik inspiratie halen uit het gebruik van herhaling, bijvoorbeeld meerdere dezelfde elementen naast elkaar, om het gevoel van “nog één” te versterken. Hierdoor hoeft mijn stijl niet perfect of volledig samenhangend te zijn, maar mag er juist een bepaalde spanning tussen rust en chaos ontstaan.
 
-Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien?
+6. Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien?
+
 Ik wil anderen laten nadenken over waarom we vaak het gevoel hebben dat iets nooit genoeg is. We willen steeds meer, beter, mooier of interessanter: nog één video kijken, nog iets kopen, nog harder werken of onszelf nog verder verbeteren. Ik wil laten zien dat dit gedrag heel normaal is geworden, maar dat we ons soms niet eens afvragen waarom we dit eigenlijk doen. Ik zie mijn Digital Garden voor me als een plek waar je dit gedrag zelf kunt ontdekken. Niet als een website die meteen alles uitlegt, maar als een verzameling van beelden, korte teksten, links en voorbeelden die je nieuwsgierig maken. De website mag zowel clean als rommelig zijn, zodat het contrast tussen perfectie en chaos zichtbaar wordt. Uiteindelijk wil ik dat iemand na het bekijken van mijn Garden denkt: “Doe ik dit zelf eigenlijk ook?”
 
-Ik wil mijn Digital Garden laten gaan over het gevoel dat iets nooit genoeg is, zoals FOMO en de “just one more”-mindset, en wil dat laten zien door afbeeldingen, teksten, links en voorbeelden uit het dagelijks leven aan content te tonen. Ik begin met een stukje eigen content over waarom we steeds meer willen en waarom “genoeg” vaak niet genoeg voelt.
-Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe onderwerpen toe te voegen, zoals social media, perfectionisme, glow-up culture, productiviteit en de drang om steeds beter te worden.​
+"Ik wil mijn Digital Garden laten gaan over het gevoel dat iets nooit genoeg is, zoals FOMO en de “just one more”-mindset, en wil dat laten zien door afbeeldingen, teksten, links en voorbeelden uit het dagelijks leven aan content te tonen. Ik begin met een stukje eigen content over waarom we steeds meer willen en waarom “genoeg” vaak niet genoeg voelt.
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe onderwerpen toe te voegen, zoals social media, perfectionisme, glow-up culture, productiviteit en de drang om steeds beter te worden".​
 
 ### Dinsdag 8 sept - Huiswerk
 
