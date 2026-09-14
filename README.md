@@ -135,6 +135,12 @@ Samen vormen de 4 posters het complete emotionele spectrum van het concept Never
 - Een neon-close-up die de kijker confronteert met een onstilbare drang naar prikkels.
 - Een dromerig gradient-ontwerp waarin typografie vervaagt in de leegte als verbeelding van het uiteindelijke gemis.
 
+**Opdracht 8 - Crazy8** 
+Ik ben bezig geweest met een crazy8 hierin heb ik gekeken naar draaiende tekst en een verticale scroll functie. Dit past bij poster 1, de elementen doen denken aan een optische tunnel wat het gevoel van de mentale gedachtes weergeeft. Voor poster 2 heb ik rekening gehouden met hoekige elementen, schuine teksten, overlappende teksten en verspringende kolommen. Dit geeft het gevoel van de digitale ruis en controleverlies weer. Ik heb ook gewerkt met grote lay-outs, opvallende fotokaders en grote teksten en koppen die van het scherm aflopen. Dit geeft het gevoel alsof de tekst schreeuwt. Vanuit de laatste poster heb ik het minimalistische meegenomen, dus veel witruimte en subtiele typografie dat schuin wegloopt. Dit zorgt voor onbereikbaarheid. Al deze punten heb ik gecombineerd in mijn crazy8 schetsen om een mooie balans hier tussen te krijgen. 
+
+<img width="5712" height="4284" alt="tempImageRRI620" src="https://github.com/user-attachments/assets/58c5d1b7-2f89-4945-b4dc-4bf207e1de35" />
+
+
 ### Dinsdag 8 sept - Huiswerk
 
 1. Presentatie eigen onderwerp:
