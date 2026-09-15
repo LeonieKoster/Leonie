@@ -135,11 +135,18 @@ Samen vormen de 4 posters het complete emotionele spectrum van het concept Never
 - Een neon-close-up die de kijker confronteert met een onstilbare drang naar prikkels.
 - Een dromerig gradient-ontwerp waarin typografie vervaagt in de leegte als verbeelding van het uiteindelijke gemis.
 
-**Opdracht 8 - Crazy8** 
+**Opdracht 9 - Crazy8** 
 
 Ik ben bezig geweest met een crazy8 hierin heb ik gekeken naar draaiende tekst en een verticale scroll functie. Dit past bij poster 1, de elementen doen denken aan een optische tunnel wat het gevoel van de mentale gedachtes weergeeft. Voor poster 2 heb ik rekening gehouden met hoekige elementen, schuine teksten, overlappende teksten en verspringende kolommen. Dit geeft het gevoel van de digitale ruis en controleverlies weer. Ik heb ook gewerkt met grote lay-outs, opvallende fotokaders en grote teksten en koppen die van het scherm aflopen. Dit geeft het gevoel alsof de tekst schreeuwt. Vanuit de laatste poster heb ik het minimalistische meegenomen, dus veel witruimte en subtiele typografie dat schuin wegloopt. Dit zorgt voor onbereikbaarheid. Al deze punten heb ik gecombineerd in mijn crazy8 schetsen om een mooie balans hier tussen te krijgen. 
 
 <img width="5712" height="4284" alt="tempImageRRI620" src="https://github.com/user-attachments/assets/58c5d1b7-2f89-4945-b4dc-4bf207e1de35" />
+
+**Opdracht 10 - Crazy 8 beoordelen**
+Ik heb mijn eigen crazy 8 beoordeelt aan de eisen van een Webby website. Hieruit blijkt dat nummer 3,4,6,7,8 allemaal best goed scoren. Dit zullen dan ook de schetsen zijn die ik mee neem in mijn mobile-first ontwerpen. 
+<img width="4858" height="3644" alt="tempImageCer9gw" src="https://github.com/user-attachments/assets/1f34a3b9-0c50-4cc9-9faa-5a377e079739" />
+
+
+
 
 
 ### Dinsdag 8 sept - Huiswerk
@@ -147,6 +154,81 @@ Ik ben bezig geweest met een crazy8 hierin heb ik gekeken naar draaiende tekst e
 1. Presentatie eigen onderwerp:
     Collage van de afbeeldingen: <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/16bd7f8f-aa8f-46c8-a7d8-55d263445483" />
 2. Deepdive Light & Dark mode
+
+Aantekeningen: 
+Custom properties zijn CSS-variabelen die je gebruikt om bijvoorbeeld kleuren, lettergroottes, afstanden en andere designwaarden één keer vast te leggen.
+Een custom property begint altijd met -- en krijgt een duidelijke naam, bijvoorbeeld: --brand-primary: #221100; Vervolgens gebruik je de waarde later met var(): background: var(--brand-primary);
+
+Het grote voordeel: je hoeft een waarde maar op één plek aan te passen. Alle onderdelen die deze property gebruiken veranderen automatisch mee.
+Custom properties zijn daarom handig voor het vastleggen van een huisstijl, thema of design system.
+Je kunt ze gebruiken voor:
+    - kleuren
+    - witruimte/afstanden
+    - lettertypen en groottes
+    - border-radius
+    - schaduwen
+Je kunt hiermee ook makkelijk light en dark themes maken door de waarden van de properties aan te passen.
+
+Er verschillende manieren om je eigen lichte en donkere thema te maken:
+- color-scheme 
+- @media (prefers-color-scheme:dark)
+- light-dark()
+
+1. Een browser heeft zelf al een lichte en donkere stylesheet. Standaard staat alleen de lichte versie aan. Met color-scheme kun je ook de donkere versie aanzetten. Dat is de eerste stap om een licht en donker thema te realiseren:
+- html {
+  color-scheme: light dark;
+}
+Op deze manier gebruikt de browser de donkere stylesheet als bezoekers voor het donker thema kiezen op hun apparaat.
+
+2. De traditionele manier om een licht en donker thema te maken, is door de prefers-color-scheme media query te gebruiken.
+
+Stappenplan:
+- Definieer in de HTML-selector je custom properties voor je lichte thema.
+- Maak een prefers-color-scheme media query voor het donkere thema.
+- Geef binnen deze media query dezelfde custom properties waarden voor je donkere theme. Deze overschrijven de waarden van het lichte thema.
+
+3. Een modernere en compacte manier om een licht en donker thema te maken, is door de light-dark() functie te gebruiken.
+Met de light-dark() functie definieer je in één keer een lichte en donkere waarde voor je custom properties. De eerste waarde is de lichte, de tweede de donkere.
+
+Afbeeldingen 
+Om verschillende afbeeldingen te gebruiken voor je lichte en donkere thema, kun je het <picture> element gebruiken. Daarmee zet je in je HTML twee afbeeldingen. Met een media query geef je aan welke afbeelding in dark mode gebruikt moet worden. Je hebt hiervoor geen CSS nodig.
+
+Je begint met het opnemen van de <img> als gewoonlijk. Vervolgens voeg je in de <source> de afbeelding voor het donker thema toe. Met een media query geef je aan dat deze afbeelding getoond moet worden als dark mode actief is. Je krijgt dan deze code:
+
+- <picture>
+  <source srcset="images/iphone-dark.jpg" media="(prefers-color-scheme: dark)" />
+  <img src="images/iphone-light.jpg" alt="de iPhone 17" />
+</picture>
+
+Je kunt ook verschillende afbeeldingen laten zien op verschillende grootte schermen. Je begint weer met <img> en voegt een tweede afbeelding toe met <source>. Vervolgens geef je met media="(width > 40em)aan welke afbeelding gebruikt moet worden als het scherm groter wordt.
+
+De volgorde waarin je de afbeeldingen neerzet is van onder naar boven dus van klein naar steeds groter.
+
+Light en dark iconen
+Je moet ook rekening houden met je iconen bij een lichte/donker mode. Dit kan op verschillende manieren: 
+1. inline SVG
+2. een CSS filter
+3. het <picture> element
+
+De makkelijkstee manier is om SVG-bestanden te gebruiken voor je iconen en die rechtstreeks in je HTML op te nemen. Je kunt de kleur van de iconen dan met custom properties laten veranderen.
+
+Je begint met het rechtstreeks in je HTML zetten van de SVG. Daarna definieer je een custom property in de html-selector met de light-dark() functie. De laatste stap is de custom property gebruiken voor de fill van de SVG. De vulling van een SVG-element bepaal je met fill, niet met background-color.
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="m450.236 290.295c-4.075-4.376-9.12-8.051-14.762-10.961  ...  6.829 12.907 3.675 20.514z"></path>
+</svg>
+
+html {
+  color-scheme:light dark;
+  --fill-icon:light-dark(darkgreen, lightgreen);
+}
+
+svg {
+  fill:var(--fill-icon);
+}
+
+Mijn resultaten van de DeepDive: 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63803434-6e38-4eb1-91b4-7f865efc1ec8" />
 
 ### Maandag 7 sept - Check Out
 
