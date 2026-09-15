@@ -25,6 +25,16 @@ Het web was oorspronkelijk bedoeld als een vrij en democratisch netwerk, maar is
 
 Berners-Lee werkt aan Solid om de afhankelijkheid van techgiganten te breken. Met zogenaamde “pods” (digitale rugzakken) beheren gebruikers hun eigen data weer zelf een bepalen ze per situatie welk bedrijf of welke instantie tijdelijk toegang krijgt. Hij zegt dat maatregelen zoals het vergoeden van sociale media voor jongeren onder de 16 niet optimaal is. Hij ziet meer in kindvriendelijke hardware en gerichte filters, omdat hij digitale communicatie ook als iets nuttigs ziet. De ongecontroleerde ontwikkeling van AI door commerciële bedrijven is gesloten silo’s baart hem zorgen. Hij pleit dan ook voor internationaal, onafhankelijk wetenschappelijk instituut om AI veilig en transparant te onderzoeken en te controleren voordat het te laat is. 
 
+### Woensdag 9 sept - Check out
+    - Leg uit waar het Visual Research in 3 stappen naartoe werkt
+Visueel Research is er om uit het cliché denken te treden. Het is een manier om met een abstractere blik te kijken naar je ontwerpproces. Met Visual Research ga je opzoek naar kenmerken en eigenschappen die uit je onderwerp naar voren komen en kunnen dienen als uitgangspunten voor je ontwerp. 
+
+    - Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+Mijn Garden gaat over het gevoel dat je niet goed genoeg bent. Ik ga dit laten zien door beeld, tekst en animaties. 
+
+    - Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. 
+   Ik wil graag een combinatie van schets 2, 4, 6 en 7 uitwerken, omdat hierin een mooie balans ontstaat tussen speelsheid en een strakke redactionele lay-out. Ik wil  experimenteren met het effect van zwevende afbeeldingen en bewegende teksten, terwijl  ik tegelijkertijd een duidelijke visuele hiërarchie vasthoud.
+
 ### Woensdag 9 sept - Algmene werkgroep
 
 **Opdracht 4 - Presenteren van je presentatie en vragen beantwoorden**
@@ -130,10 +140,11 @@ Samen vormen de 4 posters het complete emotionele spectrum van het concept Never
         Vorm: Een samenspel van vervormde en draaiende rasters, strakke kaders/uitsnedes en zachte, uitvloeiende gradiëntvormen.
         Typografie: Een duidelijke gelaagdheid die varieert van onleesbare, trillende letters, tot harde vette koppen die het beeld overnemen gecombineerd met dunne subtiele tekstjes         die oplossen in de achtergrond.
 3. Wat ga je concreet schetsen als totale serie?
-- Een draaikolk-ontwerp dat de beklemmende gedachtenmolen verbeeldt.
-- Een glitch-ontwerp waarin tekst fysiek uit elkaar valt door ruis.
-- Een neon-close-up die de kijker confronteert met een onstilbare drang naar prikkels.
-- Een dromerig gradient-ontwerp waarin typografie vervaagt in de leegte als verbeelding van het uiteindelijke gemis.
+- Typografische concepten die de online druk en overprikkeling visueel uitbeelden.
+- Wireframes voor schermen en webpagina's met carrousels, artikelen en lijsten.
+- Magazine-achtige pagina's die tekst, quotes en fotoframes combineren.
+- Vervormde, draaiende rasters en strakke kaders gecombineerd met vloeiende gradiëntvormen.
+- Sterke gelaagdheid, variërend van trillende letters en vette koppen tot dunne teksten die vervagen.
 
 **Opdracht 9 - Crazy8** 
 
@@ -144,10 +155,6 @@ Ik ben bezig geweest met een crazy8 hierin heb ik gekeken naar draaiende tekst e
 **Opdracht 10 - Crazy 8 beoordelen**
 Ik heb mijn eigen crazy 8 beoordeelt aan de eisen van een Webby website. Hieruit blijkt dat nummer 3,4,6,7,8 allemaal best goed scoren. Dit zullen dan ook de schetsen zijn die ik mee neem in mijn mobile-first ontwerpen. 
 <img width="4858" height="3644" alt="tempImageCer9gw" src="https://github.com/user-attachments/assets/1f34a3b9-0c50-4cc9-9faa-5a377e079739" />
-
-
-
-
 
 ### Dinsdag 8 sept - Huiswerk
 
