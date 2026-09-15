@@ -1,10 +1,6 @@
-# Model
-
-Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
-
 ## Learning Log
 
-### Huiswerk bi-weekly geek 1 
+### bi-weekly geek 1 Maandag 14 sept
 
 Ik heb als voorbereiding op de bi-weekly geek de video gekekene en de artikelen gelezen hier heb ik ook wat aantekeningen bij gemaakt: 
 1. YouTube video: How Does The Internet Work? - BBC Click 
@@ -24,6 +20,30 @@ De afhankelijkheid van buitenlandse cloudgiganten wordt gezien als een groot str
 Het web was oorspronkelijk bedoeld als een vrij en democratisch netwerk, maar is door commerciële doeleinde gecorrumpeerd. Grote platforms gebruiken algoritmes die zijn gemaakt voor verslaving, polarisatie en surveillance, kortom het netwerk is geoptimaliseerd voor gemeenheid. Technologie is niet neutraal, de manier waarop een platform is ontwerpen bepaalt hoe mensen zich online gedragen. Monopolies zoals Google en Meta versterken dit probleem op data op te sluiten in gesloten, niet-transparante systemen. 
 
 Berners-Lee werkt aan Solid om de afhankelijkheid van techgiganten te breken. Met zogenaamde “pods” (digitale rugzakken) beheren gebruikers hun eigen data weer zelf een bepalen ze per situatie welk bedrijf of welke instantie tijdelijk toegang krijgt. Hij zegt dat maatregelen zoals het vergoeden van sociale media voor jongeren onder de 16 niet optimaal is. Hij ziet meer in kindvriendelijke hardware en gerichte filters, omdat hij digitale communicatie ook als iets nuttigs ziet. De ongecontroleerde ontwikkeling van AI door commerciële bedrijven is gesloten silo’s baart hem zorgen. Hij pleit dan ook voor internationaal, onafhankelijk wetenschappelijk instituut om AI veilig en transparant te onderzoeken en te controleren voordat het te laat is. 
+
+### Check-out vrijdag 11 sept 
+Ik heb vanwege omstandigheden weinig tijd gehad om aan mijn schoolwerk te zitten, daarom had ik tijdens het feedback moment weinig om te laten zien. Ik heb wel mijn onderwerp uitgelegd en Vasilis vond het een heel tof en interessant onderwerp. Ook zag mijn learning-log er tot nu toe goed uit, maar ik moet iets mer vertellen wat ik nog niet wist en wat ik heb geleerd. Daarnaast moet ik mezelf blijven uitdagen om feedback te vragen, omdat dit een punt is waar ik nog moeite mee heb. Wel heeft hij en ik zelf er vertrouwen in dat het goed gaat komen. 
+
+### Vrijdag 11 sept - Algemene werkgroep 
+***Opdracht 12 - Bespreek de uitgewerkte mobile-first schetsen** 
+
+**Opdracht 13/14 - Eerste html opzet**
+
+### Vrijdag 11 sept - Voorbereiding
+
+**Opdracht 11 - 5 mobile-first** 
+
+
+**Deep Dive - Mooie kleuren, gradients en verlopen**
+Ik ben begonnen met het doen van de spelletjes die benoemd werken als voorbereiding van de deepdive: 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56d8c521-385c-4aa1-972b-f39ac96949d6" />
+
+Tijdens deze spelletjes kwam ik erachter dat ik maar weinig namen van web kleuren weet. Maar dat ik wel goed kleuren en kleurverschillen kan herkennen.
+
+Ik heb hierna de opdrachten gedaan en theorie gelezen, maar moet zeggen dat ik dit nog best ingewikkeld vond. 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c4c7d13-4bd8-42b8-9225-2b0095061277" />
+Het is mij wel gelukt alle gradients te maken, maar heb hiervoor wel een paar keer terug moeten kijken naar de antwoorden. Ook heb ik een paar vlaggen nagemaakt, omdat ik zelf niet heel veel ga doen hiermee heb ik het bij de basics gehouden. Dit was redelijk te doen. Wel was ik regelmatig de komma's vergeten waardoor de codes niet werkte. Dit is dan ook iets waar ik echt beter op wil letten. 
 
 ### Woensdag 9 sept - Check out
 - Leg uit waar het Visual Research in 3 stappen naartoe werkt
@@ -156,7 +176,7 @@ Ik ben bezig geweest met een crazy8 hierin heb ik gekeken naar draaiende tekst e
 Ik heb mijn eigen crazy 8 beoordeelt aan de eisen van een Webby website. Hieruit blijkt dat nummer 3,4,6,7,8 allemaal best goed scoren. Dit zullen dan ook de schetsen zijn die ik mee neem in mijn mobile-first ontwerpen. 
 <img width="4858" height="3644" alt="tempImageCer9gw" src="https://github.com/user-attachments/assets/1f34a3b9-0c50-4cc9-9faa-5a377e079739" />
 
-### Dinsdag 8 sept - Huiswerk
+### Woensdag 9 sept - Voorbereiding 
 
 1. Presentatie eigen onderwerp:
     Collage van de afbeeldingen: <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/16bd7f8f-aa8f-46c8-a7d8-55d263445483" />
@@ -295,7 +315,6 @@ In tegenstelling tot Nuel.pw had edwinwenink.xyz een duidelijke visuele hierachi
 
 
 Hierna hebben we als groepje gekeken naar onze acht website en hebben we gekeken welke het meest en minst webby zijn. Uiteindelijk kwamen we tot de conclusie dat melonland.net het meest webby is omdat het er ontzettend tof uitzag maar ook goed over nagedacht is. Met een hoverstate, veel animaties, goed kleuren palette en contras, goede typografie en het vooral een hele persoonlijke site is. Als minst webby site hebben wij gekozen voor churchbasement, omdat het een ontzettend simpele site is. Hij was niet overzichtelijk omdat er alleen maar likjes zonder uitleg zichtbaar zijn. Daarnaast is er geen gebruik gemaakt van focus- of hoverstates. Ook is het kleurcontrast minimaal en waren er geen animaties of waarschuwingen voor data-gebruik. Overal een hele saaie site dus. <img width="auto" height="auto" alt="tempImagezrUso3" src="https://github.com/user-attachments/assets/1541491a-40d1-43c8-9713-e46962dab8ce" />
-
 
 Opdracht 3 - Eigen verkenning
 
