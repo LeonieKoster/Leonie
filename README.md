@@ -26,13 +26,13 @@ Het web was oorspronkelijk bedoeld als een vrij en democratisch netwerk, maar is
 Berners-Lee werkt aan Solid om de afhankelijkheid van techgiganten te breken. Met zogenaamde “pods” (digitale rugzakken) beheren gebruikers hun eigen data weer zelf een bepalen ze per situatie welk bedrijf of welke instantie tijdelijk toegang krijgt. Hij zegt dat maatregelen zoals het vergoeden van sociale media voor jongeren onder de 16 niet optimaal is. Hij ziet meer in kindvriendelijke hardware en gerichte filters, omdat hij digitale communicatie ook als iets nuttigs ziet. De ongecontroleerde ontwikkeling van AI door commerciële bedrijven is gesloten silo’s baart hem zorgen. Hij pleit dan ook voor internationaal, onafhankelijk wetenschappelijk instituut om AI veilig en transparant te onderzoeken en te controleren voordat het te laat is. 
 
 ### Woensdag 9 sept - Check out
-    - Leg uit waar het Visual Research in 3 stappen naartoe werkt
+- Leg uit waar het Visual Research in 3 stappen naartoe werkt
 Visueel Research is er om uit het cliché denken te treden. Het is een manier om met een abstractere blik te kijken naar je ontwerpproces. Met Visual Research ga je opzoek naar kenmerken en eigenschappen die uit je onderwerp naar voren komen en kunnen dienen als uitgangspunten voor je ontwerp. 
 
-    - Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+- Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
 Mijn Garden gaat over het gevoel dat je niet goed genoeg bent. Ik ga dit laten zien door beeld, tekst en animaties. 
 
-    - Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. 
+- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. 
    Ik wil graag een combinatie van schets 2, 4, 6 en 7 uitwerken, omdat hierin een mooie balans ontstaat tussen speelsheid en een strakke redactionele lay-out. Ik wil  experimenteren met het effect van zwevende afbeeldingen en bewegende teksten, terwijl  ik tegelijkertijd een duidelijke visuele hiërarchie vasthoud.
 
 ### Woensdag 9 sept - Algmene werkgroep
