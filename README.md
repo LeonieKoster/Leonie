@@ -214,7 +214,7 @@ De makkelijkstee manier is om SVG-bestanden te gebruiken voor je iconen en die r
 
 Je begint met het rechtstreeks in je HTML zetten van de SVG. Daarna definieer je een custom property in de html-selector met de light-dark() functie. De laatste stap is de custom property gebruiken voor de fill van de SVG. De vulling van een SVG-element bepaal je met fill, niet met background-color.
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<svg xmlns="..." viewBox="0 0 512 512">
   <path d="m450.236 290.295c-4.075-4.376-9.12-8.051-14.762-10.961  ...  6.829 12.907 3.675 20.514z"></path>
 </svg>
 
