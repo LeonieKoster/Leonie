@@ -8,20 +8,18 @@
 
 html {
   color-scheme: light dark;
-  --bg-rood: red;
-  --bg-lichtroze: #f5b3ce;
+  --bg-roodblauw: light-dark (red, #2a2fe8);
+  --bg-lichtroze: ligth-dark (#f5b3ce, #d671f5);
   --bg-wit: white;
-  --color-p-header: red;
   --tekst-wit: white;
-  --color-h1: #f5b3ce;
-  --bg-paars: #d671f5;
-  --bg-blauw: #2a2fe8;
+  --color-h1: ligth-dark (#f5b3ce, #d671f5);
   --tekst-blauw: #2a2fe8;
+  --color-p: light-dark (red, #2a2fe8);
 }
 
 header h1 {
   color: var(--color-h1);
-  background-color: var(--bg-rood);
+  background-color: var(--bg-roodblauw);
 }
 header p {
   color: var(--color-p-header);
