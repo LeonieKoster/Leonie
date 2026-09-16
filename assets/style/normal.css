@@ -20,18 +20,12 @@ html {
   --color-p: light-dark(red, #2a2fe8);
 }
 
-[data-theme="dark"] {
-  display: none;
+html:has([value="light"]:checked) {
+  color-scheme: light;
 }
 
-@media (prefers-color-scheme: dark) {
-  [data-theme="light"] {
-    display: none;
-  }
-
-  [data-theme="dark"] {
-    display: revert;
-  }
+html:has([value="dark"]:checked) {
+  color-scheme: dark;
 }
 
 header h1 {
@@ -52,6 +46,8 @@ main {
 body {
   font-family: ui-sans-serif, sans-serif;
   text-align: center;
+  background-color: var(--bg-roodblauw);
+  color: var(--tekst-wit);
 }
 
 img,
