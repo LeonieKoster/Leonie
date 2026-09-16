@@ -17,6 +17,9 @@ main {
   }
 }
 
+header {
+  background-color: var(--color-bg-primary);
+}
 body {
   --color-bg-primary: #e60000;
   --color-bg-secondary: #ffb3c6;
@@ -27,7 +30,6 @@ body {
 body {
   color-scheme: light dark;
   font-family: sans-serif;
-  background-color: var(--color-bg-primary);
   color: var(--color-text-main);
   line-height: 1.5;
   padding-bottom: 3rem;
