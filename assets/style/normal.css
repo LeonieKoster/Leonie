@@ -6,44 +6,23 @@
   font-style: normal;
 }
 
-main {
-  max-width: 30em;
-  margin: auto;
+html {
+  --bg-rood: red;
+  --bg-lichtroze: lightpink;
+  --bg-wit: white;
+  --tekst-rood: red;
+  --tekst-wit: white;
+  --tekst-roze: lightpink;
 }
 
-@media (min-width: 768px) {
-  main {
-    max-width: 50em; /* Maak de inhoud wat breder */
-  }
-}
-
-header {
-  background-color: var(--color-bg-primary);
-}
-body {
-  --color-bg-primary: #e60000;
-  --color-bg-secondary: #ffb3c6;
-  --color-text-main: #ffffff;
-  --color-text-accent: #e60000;
-}
-
-body {
-  color-scheme: light dark;
-  font-family: sans-serif;
-  color: var(--color-text-main);
-  line-height: 1.5;
-  padding-bottom: 3rem;
-}
-
-Main,
-header,
-footer {
+Main {
   max-width: 30em;
   margin: auto;
 }
 
 body {
   font-family: ui-sans-serif, sans-serif;
+  text-align: center;
 }
 
 img,
@@ -58,8 +37,4 @@ button,
 summary {
   cursor: pointer;
   font: inherit;
-}
-
-ul {
-  list-style-type: none;
 }
