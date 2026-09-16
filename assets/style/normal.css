@@ -6,6 +6,17 @@
   font-style: normal;
 }
 
+main {
+  max-width: 30em;
+  margin: auto;
+}
+
+@media (min-width: 768px) {
+  main {
+    max-width: 50em; /* Maak de inhoud wat breder */
+  }
+}
+
 body {
   --color-bg-primary: #e60000;
   --color-bg-secondary: #ffb3c6;
