@@ -20,12 +20,17 @@ html {
   --color-p: light-dark(red, #2a2fe8);
 }
 
-html:has([value="light"]:checked) {
-  color-scheme: light;
+[data-scheme="dark"] {
+  display: none;
 }
 
-html:has([value="dark"]:checked) {
-  color-scheme: dark;
+@media (prefers-color-scheme: dark) {
+  [data-scheme="light"] {
+    display: none;
+  }
+  [data-scheme="dark"] {
+    display: block;
+  }
 }
 
 header h1 {
