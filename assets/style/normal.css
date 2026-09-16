@@ -42,7 +42,7 @@ header {
 header h1 {
   color: var(--color-h1);
   background-color: var(--bg-roodblauw);
-  font-size: 17vw;
+  font-size: 15vw;
   font-weight: 900;
   line-height: 0.85;
   margin: 0;
