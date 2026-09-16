@@ -7,8 +7,46 @@
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
-  color: CanvasText;
+  --color-bg-primary: #e60000;
+  --color-bg-secondary: #ffb3c6;
+  --color-text-main: #ffffff;
+  --color-text-accent: #e60000;
+}
+
+body {
   color-scheme: light dark;
+  font-family: sans-serif;
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-main);
+  line-height: 1.5;
+  padding-bottom: 3rem;
+}
+
+Main,
+header,
+footer {
+  max-width: 30em;
+  margin: auto;
+}
+
+body {
+  font-family: ui-sans-serif, sans-serif;
+}
+
+img,
+svg,
+video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+button,
+summary {
+  cursor: pointer;
+  font: inherit;
+}
+
+ul {
+  list-style-type: none;
 }

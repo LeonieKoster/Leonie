@@ -2,66 +2,69 @@
 
 ### bi-weekly geek 1 Maandag 14 sept
 
-Ik heb als voorbereiding op de bi-weekly geek de video gekekene en de artikelen gelezen hier heb ik ook wat aantekeningen bij gemaakt: 
-1. YouTube video: How Does The Internet Work? - BBC Click 
+Ik heb als voorbereiding op de bi-weekly geek de video gekekene en de artikelen gelezen hier heb ik ook wat aantekeningen bij gemaakt:
 
-In 1969 is het internet bedacht, dit is gedaan door de Amerikaans minister defensie (Darpa). Ze hadden een netwerk nodig om 12 universiteren computersystemen te verbinden met elkaar. Zodat het delen van informatie werd bevorderd en om onderzoek na ai te versnellen. Daarom stimuleerde de Darpa de ontwikkeling van een packet switchen netwerk, dat ze Arpanet noemde. 29 oktober 1969 werd het eerste bericht verzonden via het Arpanet. Het wordt “internet” is een stuk later bedacht door Vint Cerf en Rober Kevin. 
+1. YouTube video: How Does The Internet Work? - BBC Click
 
-Iets om te onthouden: Het internet is NIET het World Wide Web. Het web is de manier waarop data, webpagina’s, services en documenten worden georganiseerd, geraadpleegd en geadresseerd. Dit gebeurt op de hardware van het internet waardoor talloze netwerken op een zeer slimme manier met elkaar kunnen communiceren. 
+In 1969 is het internet bedacht, dit is gedaan door de Amerikaans minister defensie (Darpa). Ze hadden een netwerk nodig om 12 universiteren computersystemen te verbinden met elkaar. Zodat het delen van informatie werd bevorderd en om onderzoek na ai te versnellen. Daarom stimuleerde de Darpa de ontwikkeling van een packet switchen netwerk, dat ze Arpanet noemde. 29 oktober 1969 werd het eerste bericht verzonden via het Arpanet. Het wordt “internet” is een stuk later bedacht door Vint Cerf en Rober Kevin.
+
+Iets om te onthouden: Het internet is NIET het World Wide Web. Het web is de manier waarop data, webpagina’s, services en documenten worden georganiseerd, geraadpleegd en geadresseerd. Dit gebeurt op de hardware van het internet waardoor talloze netwerken op een zeer slimme manier met elkaar kunnen communiceren.
 
 2. Artikel The Guardian: The Guardian view over de cloudcrash: een storing die liet zien wie echt het internet beheert
 
-Het internet draait niet primair op satellieten, maar op een wereldwijd netwerk van onderzeese glasvezelkabels. Data wordt hier doorheen gestuurd als opgeknipte digitale “pakketjes” (packet switching)  die via IP-adressen en routers naar hun bestemming navigeren. Vandaag de dag leunen het internet en het World Wide Web op een extreem klein aantal cloudproviders. Amazon AWS, Microsoft Azure en Google Cloud beheren meer dan 60% van de wereldwijde cloudinfrastructuur.  Omdat enorme hoeveelheden dataverkeer via een beperkt aantal fysieke locaties lopen kan een enkele storing of aanval meteen duizenden bedrijven, overheidsdiensten, ziekenhuizen en apps wereldwijd platleggen.
+Het internet draait niet primair op satellieten, maar op een wereldwijd netwerk van onderzeese glasvezelkabels. Data wordt hier doorheen gestuurd als opgeknipte digitale “pakketjes” (packet switching) die via IP-adressen en routers naar hun bestemming navigeren. Vandaag de dag leunen het internet en het World Wide Web op een extreem klein aantal cloudproviders. Amazon AWS, Microsoft Azure en Google Cloud beheren meer dan 60% van de wereldwijde cloudinfrastructuur. Omdat enorme hoeveelheden dataverkeer via een beperkt aantal fysieke locaties lopen kan een enkele storing of aanval meteen duizenden bedrijven, overheidsdiensten, ziekenhuizen en apps wereldwijd platleggen.
 
-De afhankelijkheid van buitenlandse cloudgiganten wordt gezien als een groot strategisch risico. Landen en regio's (zoals de EU) proberen daarom eigen soevereine clouddiensten, open standaarden en lokale infrastructuur op te bouwen om te voorkomen dat ze digitaal afhankelijk worden van superpowers zoals de VS of China. En risico’s tot datalek of storingen voorkomen. 
+De afhankelijkheid van buitenlandse cloudgiganten wordt gezien als een groot strategisch risico. Landen en regio's (zoals de EU) proberen daarom eigen soevereine clouddiensten, open standaarden en lokale infrastructuur op te bouwen om te voorkomen dat ze digitaal afhankelijk worden van superpowers zoals de VS of China. En risico’s tot datalek of storingen voorkomen.
 
 3. Artikel The Guardian: ‘It’s not too late to fix it’: web inventor Tim Berners-Lee says he is in a ‘battle for the soul’ of the internet
 
-Het web was oorspronkelijk bedoeld als een vrij en democratisch netwerk, maar is door commerciële doeleinde gecorrumpeerd. Grote platforms gebruiken algoritmes die zijn gemaakt voor verslaving, polarisatie en surveillance, kortom het netwerk is geoptimaliseerd voor gemeenheid. Technologie is niet neutraal, de manier waarop een platform is ontwerpen bepaalt hoe mensen zich online gedragen. Monopolies zoals Google en Meta versterken dit probleem op data op te sluiten in gesloten, niet-transparante systemen. 
+Het web was oorspronkelijk bedoeld als een vrij en democratisch netwerk, maar is door commerciële doeleinde gecorrumpeerd. Grote platforms gebruiken algoritmes die zijn gemaakt voor verslaving, polarisatie en surveillance, kortom het netwerk is geoptimaliseerd voor gemeenheid. Technologie is niet neutraal, de manier waarop een platform is ontwerpen bepaalt hoe mensen zich online gedragen. Monopolies zoals Google en Meta versterken dit probleem op data op te sluiten in gesloten, niet-transparante systemen.
 
-Berners-Lee werkt aan Solid om de afhankelijkheid van techgiganten te breken. Met zogenaamde “pods” (digitale rugzakken) beheren gebruikers hun eigen data weer zelf een bepalen ze per situatie welk bedrijf of welke instantie tijdelijk toegang krijgt. Hij zegt dat maatregelen zoals het vergoeden van sociale media voor jongeren onder de 16 niet optimaal is. Hij ziet meer in kindvriendelijke hardware en gerichte filters, omdat hij digitale communicatie ook als iets nuttigs ziet. De ongecontroleerde ontwikkeling van AI door commerciële bedrijven is gesloten silo’s baart hem zorgen. Hij pleit dan ook voor internationaal, onafhankelijk wetenschappelijk instituut om AI veilig en transparant te onderzoeken en te controleren voordat het te laat is. 
+Berners-Lee werkt aan Solid om de afhankelijkheid van techgiganten te breken. Met zogenaamde “pods” (digitale rugzakken) beheren gebruikers hun eigen data weer zelf een bepalen ze per situatie welk bedrijf of welke instantie tijdelijk toegang krijgt. Hij zegt dat maatregelen zoals het vergoeden van sociale media voor jongeren onder de 16 niet optimaal is. Hij ziet meer in kindvriendelijke hardware en gerichte filters, omdat hij digitale communicatie ook als iets nuttigs ziet. De ongecontroleerde ontwikkeling van AI door commerciële bedrijven is gesloten silo’s baart hem zorgen. Hij pleit dan ook voor internationaal, onafhankelijk wetenschappelijk instituut om AI veilig en transparant te onderzoeken en te controleren voordat het te laat is.
 
-### Check-out vrijdag 11 sept 
-Ik heb vanwege omstandigheden weinig tijd gehad om aan mijn schoolwerk te zitten, daarom had ik tijdens het feedback moment weinig om te laten zien. Ik heb wel mijn onderwerp uitgelegd en Vasilis vond het een heel tof en interessant onderwerp. Ook zag mijn learning-log er tot nu toe goed uit, maar ik moet iets mer vertellen wat ik nog niet wist en wat ik heb geleerd. Daarnaast moet ik mezelf blijven uitdagen om feedback te vragen, omdat dit een punt is waar ik nog moeite mee heb. Wel heeft hij en ik zelf er vertrouwen in dat het goed gaat komen. 
+### Check-out vrijdag 11 sept
 
-### Vrijdag 11 sept - Algemene werkgroep 
-***Opdracht 12 - Bespreek de uitgewerkte mobile-first schetsen** 
+Ik heb vanwege omstandigheden weinig tijd gehad om aan mijn schoolwerk te zitten, daarom had ik tijdens het feedback moment weinig om te laten zien. Ik heb wel mijn onderwerp uitgelegd en Vasilis vond het een heel tof en interessant onderwerp. Ook zag mijn learning-log er tot nu toe goed uit, maar ik moet iets mer vertellen wat ik nog niet wist en wat ik heb geleerd. Daarnaast moet ik mezelf blijven uitdagen om feedback te vragen, omdat dit een punt is waar ik nog moeite mee heb. Wel heeft hij en ik zelf er vertrouwen in dat het goed gaat komen.
+
+### Vrijdag 11 sept - Algemene werkgroep
+
+**\*Opdracht 12 - Bespreek de uitgewerkte mobile-first schetsen**
 
 **Opdracht 13/14 - Eerste html opzet**
 
 ### Vrijdag 11 sept - Voorbereiding
 
-**Opdracht 11 - 5 mobile-first** 
-
+**Opdracht 11 - 5 mobile-first**
 
 **Deep Dive - Mooie kleuren, gradients en verlopen**
-Ik ben begonnen met het doen van de spelletjes die benoemd werken als voorbereiding van de deepdive: 
+Ik ben begonnen met het doen van de spelletjes die benoemd werken als voorbereiding van de deepdive:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56d8c521-385c-4aa1-972b-f39ac96949d6" />
 
 Tijdens deze spelletjes kwam ik erachter dat ik maar weinig namen van web kleuren weet. Maar dat ik wel goed kleuren en kleurverschillen kan herkennen.
 
-Ik heb hierna de opdrachten gedaan en theorie gelezen, maar moet zeggen dat ik dit nog best ingewikkeld vond. 
+Ik heb hierna de opdrachten gedaan en theorie gelezen, maar moet zeggen dat ik dit nog best ingewikkeld vond.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c4c7d13-4bd8-42b8-9225-2b0095061277" />
-Het is mij wel gelukt alle gradients te maken, maar heb hiervoor wel een paar keer terug moeten kijken naar de antwoorden. Ook heb ik een paar vlaggen nagemaakt, omdat ik zelf niet heel veel ga doen hiermee heb ik het bij de basics gehouden. Dit was redelijk te doen. Wel was ik regelmatig de komma's vergeten waardoor de codes niet werkte. Dit is dan ook iets waar ik echt beter op wil letten. 
+Het is mij wel gelukt alle gradients te maken, maar heb hiervoor wel een paar keer terug moeten kijken naar de antwoorden. Ook heb ik een paar vlaggen nagemaakt, omdat ik zelf niet heel veel ga doen hiermee heb ik het bij de basics gehouden. Dit was redelijk te doen. Wel was ik regelmatig de komma's vergeten waardoor de codes niet werkte. Dit is dan ook iets waar ik echt beter op wil letten.
 
 ### Woensdag 9 sept - Check out
+
 - Leg uit waar het Visual Research in 3 stappen naartoe werkt
-Visueel Research is er om uit het cliché denken te treden. Het is een manier om met een abstractere blik te kijken naar je ontwerpproces. Met Visual Research ga je opzoek naar kenmerken en eigenschappen die uit je onderwerp naar voren komen en kunnen dienen als uitgangspunten voor je ontwerp. 
+  Visueel Research is er om uit het cliché denken te treden. Het is een manier om met een abstractere blik te kijken naar je ontwerpproces. Met Visual Research ga je opzoek naar kenmerken en eigenschappen die uit je onderwerp naar voren komen en kunnen dienen als uitgangspunten voor je ontwerp.
 
 - Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
-Mijn Garden gaat over het gevoel dat je niet goed genoeg bent. Ik ga dit laten zien door beeld, tekst en animaties. 
+  Mijn Garden gaat over het gevoel dat je niet goed genoeg bent. Ik ga dit laten zien door beeld, tekst en animaties.
 
-- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken. 
-   Ik wil graag een combinatie van schets 2, 4, 6 en 7 uitwerken, omdat hierin een mooie balans ontstaat tussen speelsheid en een strakke redactionele lay-out. Ik wil  experimenteren met het effect van zwevende afbeeldingen en bewegende teksten, terwijl  ik tegelijkertijd een duidelijke visuele hiërarchie vasthoud.
+- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+  Ik wil graag een combinatie van schets 2, 4, 6 en 7 uitwerken, omdat hierin een mooie balans ontstaat tussen speelsheid en een strakke redactionele lay-out. Ik wil experimenteren met het effect van zwevende afbeeldingen en bewegende teksten, terwijl ik tegelijkertijd een duidelijke visuele hiërarchie vasthoud.
 
 ### Woensdag 9 sept - Algmene werkgroep
 
 **Opdracht 4 - Presenteren van je presentatie en vragen beantwoorden**
 
-Aangezien ik tijdens de les afwezig was heb ik deze opdracht ingehaald met Joy. Ik heb mijn presentatie gedaan en hebben gezamenlijk de vragen beantwoord.  
+Aangezien ik tijdens de les afwezig was heb ik deze opdracht ingehaald met Joy. Ik heb mijn presentatie gedaan en hebben gezamenlijk de vragen beantwoord.
 
-1. Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? 
+1. Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
 
 Mijn onderwerp gaat over het gevoel dat iets nooit genoeg is. Met FOMO en de “just one more”-mindset laat ik zien hoe we steeds op zoek zijn naar meer, terwijl we misschien al genoeg hebben. Met mijn website wil ik dit herkenbaar maken en zet ik andere aan het denken over hun eigen gedrag. Ik wil laten zien dat het idee van nooit genoeg hebben een heel actueel onderwerp is en mensen laten zien dat ze niet de enige zijn die dit ervaren. ​
 
@@ -69,7 +72,7 @@ Mijn onderwerp gaat over het gevoel dat iets nooit genoeg is. Met FOMO en de “
 
 Woorden die goed bij mijn onderwerp passen zijn dynamisch, herkenbaar, modern, prikkelend, chaotisch, confronterend en nieuwsgierig. Het onderwerp gaat over de constante drang naar meer en het gevoel dat iets nooit genoeg is. Daarom mag het ook wat onrustig en overweldigend aanvoelen.​
 
-3. Heeft 'de ander' een aanvulling op je onderwerp?​ 
+3. Heeft 'de ander' een aanvulling op je onderwerp?​
 
 Ja. Joy gaf aan dat mijn afbeeldingen nu erg “clean girl” zijn, terwijl mijn onderwerp ook juist een rommelige en chaotische kant heeft. Dit past goed bij het gevoel van FOMO en “just one more”: je hoofd kan vol zitten met prikkels, keuzes en dingen die je nog moet of wilt doen. Ik ga dit zeker meenemen en wil daarom niet alleen maar perfecte en rustige beelden gebruiken, maar ook beelden die wat chaotischer, drukker of imperfecter zijn.
 
@@ -90,149 +93,154 @@ Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe onderw
 
 **Opdracht 5 - Sfeerwoorden**
 Mijn onderwerp is Nooit genoeg zijn. De sfeer waarin ik denk is, onrustig, verlangend en prikkelend
-Ik voel mij onrustig 
-Ik voel mij verlangend 
-Ik voel mij prikkelend 
+Ik voel mij onrustig
+Ik voel mij verlangend
+Ik voel mij prikkelend
 
 **Opdracht 6 - Directe visuele vertaling**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75545095-d040-4bcb-9d1d-a17763d25c10" />
-Ik heb voor mijn sfeerwoorden collages gemaakt met foto's passend bij het woord. Hierbij heb ik ook steekwoorden staan die ik uit de afbeeldingen heb gehaald. 
+Ik heb voor mijn sfeerwoorden collages gemaakt met foto's passend bij het woord. Hierbij heb ik ook steekwoorden staan die ik uit de afbeeldingen heb gehaald.
 
 1. Zie je patronen in je verzameling?
-Onrustig: De beelden hebben veel onscherpte, beweging, vervorming en beklemmende texturen.
-Prikkelend: Deze beelden hebben scherpe details, sterke contrasten en vuur.
-Verlangend: Er zijn duidelijke silhouetten, voelbare structuren, schaduwen en licht zichtbaar.
+   Onrustig: De beelden hebben veel onscherpte, beweging, vervorming en beklemmende texturen.
+   Prikkelend: Deze beelden hebben scherpe details, sterke contrasten en vuur.
+   Verlangend: Er zijn duidelijke silhouetten, voelbare structuren, schaduwen en licht zichtbaar.
 
 2. Wat kun je beschrijven als kenmerken die passen bij je sfeerwoord en je gevonden beelden? Wat maakt het dat het past bij de sfeer van je onderwerp van je Garden.
-Onrustig: Deze beelden laten de mentale chaos en gejaagdheid van het constante gevoel dat het nooit genoeg is zien. 
-Prikkelend: De collage verbeeldt de honger naar méér: een continue zoektocht naar nieuwe, intense prikkels die de leegte moeten vullen.
-Verlangend: De afbeeldingen laten het onbereikbare zien: de zucht naar intimiteit en vervulling die net buiten bereik blijft.
+   Onrustig: Deze beelden laten de mentale chaos en gejaagdheid van het constante gevoel dat het nooit genoeg is zien.
+   Prikkelend: De collage verbeeldt de honger naar méér: een continue zoektocht naar nieuwe, intense prikkels die de leegte moeten vullen.
+   Verlangend: De afbeeldingen laten het onbereikbare zien: de zucht naar intimiteit en vervulling die net buiten bereik blijft.
 
 **Opdracht 7 - Abstracte vertaling**
-Ik ben opzoek gegaan naar de abstracte vertaling van mijn kenmerken en ben op de volgende posters gekomen. 
+Ik ben opzoek gegaan naar de abstracte vertaling van mijn kenmerken en ben op de volgende posters gekomen.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a68a25b9-7eb6-4f14-ab87-7910b3b98028" />
 
-Voor onrustig ben ik opzoek gegaan naar beelden die een ruis, draaierigheid en vervorming weergeven. Dit straalt de mentale chaos en druk van het thema Never Enough uit. 
-De beelden voor prikkelend schreeuwen om aandacht, prikkelt en schuurt, perfect bij het thema. En voor het laatste sfeerwoord heb ik gezocht naar posters die zachtheid en onbereikbaarheid uitstralen. 
+Voor onrustig ben ik opzoek gegaan naar beelden die een ruis, draaierigheid en vervorming weergeven. Dit straalt de mentale chaos en druk van het thema Never Enough uit.
+De beelden voor prikkelend schreeuwen om aandacht, prikkelt en schuurt, perfect bij het thema. En voor het laatste sfeerwoord heb ik gezocht naar posters die zachtheid en onbereikbaarheid uitstralen.
 
-**Opdracht 8 - Uitgangspunten voor schetsen** 
+**Opdracht 8 - Uitgangspunten voor schetsen**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/523428f7-1fb4-4ee5-8ef4-662bf410c9c2" />
 
-Vanuit mijn abstracte vertaling heb ik vier posters uitgekozen die ik het beste vind passen binnen het thema en mijn sfeerwoorden/kenmerken dit is waarom: 
+Vanuit mijn abstracte vertaling heb ik vier posters uitgekozen die ik het beste vind passen binnen het thema en mijn sfeerwoorden/kenmerken dit is waarom:
 
 Poster 1: Onrustig
+
 1. Kenmerken met het sfeerwoord: Mentale chaos, beklemming, draaierigheid, controleverlies en een meeslepende maalstroom van gedachten.
 2. Ontwerpeigenschappen:
-        Kleur: Hard, contrastrijk zwart-wit om het beklemmende en mechanische gevoel te versterken.
-        Vorm: Een oneindige spiraal of tunnelvorm (optische illusie) die de blik naar het diepste punt trekt.
-        Typografie: Herhaalde, vervormde tekst die met de vorm mee buigt en naar het centrum toe steeds kleiner en onleesbaarder wordt.
+   Kleur: Hard, contrastrijk zwart-wit om het beklemmende en mechanische gevoel te versterken.
+   Vorm: Een oneindige spiraal of tunnelvorm (optische illusie) die de blik naar het diepste punt trekt.
+   Typografie: Herhaalde, vervormde tekst die met de vorm mee buigt en naar het centrum toe steeds kleiner en onleesbaarder wordt.
 3. Schetsidee: Een pagina waarin het woord "MORE" in een spiraalvormige draaikolk naar het midden verdwijnt. De tekst start groot en strak aan de buitenranden, maar vervormt en krimpt naarmate hij dieper de donkere tunnel in wordt gezogen. Met het idee dat de gedachte voor altijd door blijft gaan.
 
 Poster 2: Onrustig
+
 1. Kenmerken met het sfeerwoord: Gejaagdheid, overprikkeling, ruis, innerlijke hectiek en mentale storing.
 2. Ontwerpeigenschappen:
-        Kleur: Zwart-wit gecombineerd met snijdende RGB-ruis (felle, vloekende kleuren).
-        Vorm: Verspringende rasters en een gelaagde, doorgesneden vlakverdeling die aanvoelt als een digitale glitch.
-        Typografie: Een zware, vette schreefloze letter die horizontaal is doorgesneden, uitgerekend en dubbel over elkaar heen is geprint.
+   Kleur: Zwart-wit gecombineerd met snijdende RGB-ruis (felle, vloekende kleuren).
+   Vorm: Verspringende rasters en een gelaagde, doorgesneden vlakverdeling die aanvoelt als een digitale glitch.
+   Typografie: Een zware, vette schreefloze letter die horizontaal is doorgesneden, uitgerekend en dubbel over elkaar heen is geprint.
 3. Schetsidee: Een typografische compositie van het woord "Just One More" dat in meerdere horizontale stroken is 'gebroken'. De lagen schuiven uit elkaar met een felgekleurd trillingseffect (chromatische aberratie), alsof de typografie onder te veel druk staat.
 
 Poster 3: Prikkelend
+
 1. Kenmerken met het sfeerwoord: Intensiteit, hongerige nieuwsgierigheid, directe confrontatie en zintuiglijke overprikkeling.
 2. Ontwerpeigenschappen:
-        Kleur: Knallend, oververzadigd neon-rood en cyaan-blauw die fel tegen elkaar afsteken.
-        Vorm: Een krappe uitsnede (framing) van een gezicht/blik met een grove, uitvergrote korrel of rasterstructuur.
-        Typografie: Agressieve, grote typografie die dwars over het beeld heen stempelt en de randen van het kader raakt. En typografie wat van het blad af lijkt te draaien.
+   Kleur: Knallend, oververzadigd neon-rood en cyaan-blauw die fel tegen elkaar afsteken.
+   Vorm: Een krappe uitsnede (framing) van een gezicht/blik met een grove, uitvergrote korrel of rasterstructuur.
+   Typografie: Agressieve, grote typografie die dwars over het beeld heen stempelt en de randen van het kader raakt. En typografie wat van het blad af lijkt te draaien.
 3. Schetsidee: Een close-up schets van een intense blik die achter een strak digitaal kader vandaan kijkt. Over de ogen heen wordt in felrode, gigantische letters "MORE" geplaatst, waarbij de typografie deels wegvalt achter de harde schaduwen van het gezicht.
 
 Poster 4: Verlangend
+
 1. Kenmerken met het sfeerwoord: Onbereikbaarheid, broeierige aantrekkingskracht, emotionele leegte en afstand.
 2. Ontwerpeigenschappen:
-        Kleur: Een warm, vloeibaar kleurverloop, gradient, van een vurige oranje-roze kern naar diep, beklemmend zwart.
-        Vorm: Zachte, organische zandlopervorm met veel lege ruimte aan de zijkanten.
-        Typografie: Dunne, kwetsbare en elegante typografie (serif) met veel interlinie en ruime spatiëring, waarbij de woorden uit elkaar lijken te vallen
+   Kleur: Een warm, vloeibaar kleurverloop, gradient, van een vurige oranje-roze kern naar diep, beklemmend zwart.
+   Vorm: Zachte, organische zandlopervorm met veel lege ruimte aan de zijkanten.
+   Typografie: Dunne, kwetsbare en elegante typografie (serif) met veel interlinie en ruime spatiëring, waarbij de woorden uit elkaar lijken te vallen
 3. Schetsidee: Een schets met een diepe, gloeiende oranje vorm in het centrum die aan de zijkanten langzaam oplost in het zwart. Aan de uiterste onderkant staat de tekst "Never Enough" in een piepklein, flinterdun lettertype—bijna onbereikbaar klein in de grote leegte van het scherm.
 
-Algemene specificaties: 
+Algemene specificaties:
+
 1. Welke kenmerken verbind je met de sfeerwoorden als geheel?
-Samen vormen de 4 posters het complete emotionele spectrum van het concept Never Enough: de mentale chaos en gejaagdheid, de actieve honger naar prikkels en de leegte van het onbereikbare.
+   Samen vormen de 4 posters het complete emotionele spectrum van het concept Never Enough: de mentale chaos en gejaagdheid, de actieve honger naar prikkels en de leegte van het onbereikbare.
 2. Ontwerpeigenschappen over de gehele serie:
-        Kleur: Een krachtige mix tussen hard monochroom zwart-wit en felle botsende neon-accenten en vloeiende zachte kleuroverlopen.
-        Vorm: Een samenspel van vervormde en draaiende rasters, strakke kaders/uitsnedes en zachte, uitvloeiende gradiëntvormen.
-        Typografie: Een duidelijke gelaagdheid die varieert van onleesbare, trillende letters, tot harde vette koppen die het beeld overnemen gecombineerd met dunne subtiele tekstjes         die oplossen in de achtergrond.
+   Kleur: Een krachtige mix tussen hard monochroom zwart-wit en felle botsende neon-accenten en vloeiende zachte kleuroverlopen.
+   Vorm: Een samenspel van vervormde en draaiende rasters, strakke kaders/uitsnedes en zachte, uitvloeiende gradiëntvormen.
+   Typografie: Een duidelijke gelaagdheid die varieert van onleesbare, trillende letters, tot harde vette koppen die het beeld overnemen gecombineerd met dunne subtiele tekstjes die oplossen in de achtergrond.
 3. Wat ga je concreet schetsen als totale serie?
+
 - Typografische concepten die de online druk en overprikkeling visueel uitbeelden.
 - Wireframes voor schermen en webpagina's met carrousels, artikelen en lijsten.
 - Magazine-achtige pagina's die tekst, quotes en fotoframes combineren.
 - Vervormde, draaiende rasters en strakke kaders gecombineerd met vloeiende gradiëntvormen.
 - Sterke gelaagdheid, variërend van trillende letters en vette koppen tot dunne teksten die vervagen.
 
-**Opdracht 9 - Crazy8** 
+**Opdracht 9 - Crazy8**
 
-Ik ben bezig geweest met een crazy8 hierin heb ik gekeken naar draaiende tekst en een verticale scroll functie. Dit past bij poster 1, de elementen doen denken aan een optische tunnel wat het gevoel van de mentale gedachtes weergeeft. Voor poster 2 heb ik rekening gehouden met hoekige elementen, schuine teksten, overlappende teksten en verspringende kolommen. Dit geeft het gevoel van de digitale ruis en controleverlies weer. Ik heb ook gewerkt met grote lay-outs, opvallende fotokaders en grote teksten en koppen die van het scherm aflopen. Dit geeft het gevoel alsof de tekst schreeuwt. Vanuit de laatste poster heb ik het minimalistische meegenomen, dus veel witruimte en subtiele typografie dat schuin wegloopt. Dit zorgt voor onbereikbaarheid. Al deze punten heb ik gecombineerd in mijn crazy8 schetsen om een mooie balans hier tussen te krijgen. 
+Ik ben bezig geweest met een crazy8 hierin heb ik gekeken naar draaiende tekst en een verticale scroll functie. Dit past bij poster 1, de elementen doen denken aan een optische tunnel wat het gevoel van de mentale gedachtes weergeeft. Voor poster 2 heb ik rekening gehouden met hoekige elementen, schuine teksten, overlappende teksten en verspringende kolommen. Dit geeft het gevoel van de digitale ruis en controleverlies weer. Ik heb ook gewerkt met grote lay-outs, opvallende fotokaders en grote teksten en koppen die van het scherm aflopen. Dit geeft het gevoel alsof de tekst schreeuwt. Vanuit de laatste poster heb ik het minimalistische meegenomen, dus veel witruimte en subtiele typografie dat schuin wegloopt. Dit zorgt voor onbereikbaarheid. Al deze punten heb ik gecombineerd in mijn crazy8 schetsen om een mooie balans hier tussen te krijgen.
 
 <img width="5712" height="4284" alt="tempImageRRI620" src="https://github.com/user-attachments/assets/58c5d1b7-2f89-4945-b4dc-4bf207e1de35" />
 
 **Opdracht 10 - Crazy 8 beoordelen**
-Ik heb mijn eigen crazy 8 beoordeelt aan de eisen van een Webby website. Hieruit blijkt dat nummer 3,4,6,7,8 allemaal best goed scoren. Dit zullen dan ook de schetsen zijn die ik mee neem in mijn mobile-first ontwerpen. 
+Ik heb mijn eigen crazy 8 beoordeelt aan de eisen van een Webby website. Hieruit blijkt dat nummer 3,4,6,7,8 allemaal best goed scoren. Dit zullen dan ook de schetsen zijn die ik mee neem in mijn mobile-first ontwerpen.
 <img width="4858" height="3644" alt="tempImageCer9gw" src="https://github.com/user-attachments/assets/1f34a3b9-0c50-4cc9-9faa-5a377e079739" />
 
-### Woensdag 9 sept - Voorbereiding 
+### Woensdag 9 sept - Voorbereiding
 
 1. Presentatie eigen onderwerp:
-    Collage van de afbeeldingen: <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/16bd7f8f-aa8f-46c8-a7d8-55d263445483" />
+   Collage van de afbeeldingen: <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/16bd7f8f-aa8f-46c8-a7d8-55d263445483" />
 2. Deepdive Light & Dark mode
 
-Aantekeningen: 
+Aantekeningen:
 Custom properties zijn CSS-variabelen die je gebruikt om bijvoorbeeld kleuren, lettergroottes, afstanden en andere designwaarden één keer vast te leggen.
-Een custom property begint altijd met -- en krijgt een duidelijke naam, bijvoorbeeld: --brand-primary: #221100; Vervolgens gebruik je de waarde later met var(): background: var(--brand-primary);
+Een custom property begint altijd met -- en krijgt een duidelijke naam, bijvoorbeeld: --brand-primary: #221100;Vervolgens gebruik je de waarde later met var(): background: var(--brand-primary);
 
 Het grote voordeel: je hoeft een waarde maar op één plek aan te passen. Alle onderdelen die deze property gebruiken veranderen automatisch mee.
 Custom properties zijn daarom handig voor het vastleggen van een huisstijl, thema of design system.
-Je kunt ze gebruiken voor:
-    - kleuren
-    - witruimte/afstanden
-    - lettertypen en groottes
-    - border-radius
-    - schaduwen
+Je kunt ze gebruiken voor: - kleuren - witruimte/afstanden - lettertypen en groottes - border-radius - schaduwen
 Je kunt hiermee ook makkelijk light en dark themes maken door de waarden van de properties aan te passen.
 
 Er verschillende manieren om je eigen lichte en donkere thema te maken:
-- color-scheme 
+
+- color-scheme
 - @media (prefers-color-scheme:dark)
 - light-dark()
 
 1. Een browser heeft zelf al een lichte en donkere stylesheet. Standaard staat alleen de lichte versie aan. Met color-scheme kun je ook de donkere versie aanzetten. Dat is de eerste stap om een licht en donker thema te realiseren:
+
 - html {
   color-scheme: light dark;
-}
-Op deze manier gebruikt de browser de donkere stylesheet als bezoekers voor het donker thema kiezen op hun apparaat.
+  }
+  Op deze manier gebruikt de browser de donkere stylesheet als bezoekers voor het donker thema kiezen op hun apparaat.
 
 2. De traditionele manier om een licht en donker thema te maken, is door de prefers-color-scheme media query te gebruiken.
 
 Stappenplan:
+
 - Definieer in de HTML-selector je custom properties voor je lichte thema.
 - Maak een prefers-color-scheme media query voor het donkere thema.
 - Geef binnen deze media query dezelfde custom properties waarden voor je donkere theme. Deze overschrijven de waarden van het lichte thema.
 
 3. Een modernere en compacte manier om een licht en donker thema te maken, is door de light-dark() functie te gebruiken.
-Met de light-dark() functie definieer je in één keer een lichte en donkere waarde voor je custom properties. De eerste waarde is de lichte, de tweede de donkere.
+   Met de light-dark() functie definieer je in één keer een lichte en donkere waarde voor je custom properties. De eerste waarde is de lichte, de tweede de donkere.
 
-Afbeeldingen 
+Afbeeldingen
 Om verschillende afbeeldingen te gebruiken voor je lichte en donkere thema, kun je het <picture> element gebruiken. Daarmee zet je in je HTML twee afbeeldingen. Met een media query geef je aan welke afbeelding in dark mode gebruikt moet worden. Je hebt hiervoor geen CSS nodig.
 
 Je begint met het opnemen van de <img> als gewoonlijk. Vervolgens voeg je in de <source> de afbeelding voor het donker thema toe. Met een media query geef je aan dat deze afbeelding getoond moet worden als dark mode actief is. Je krijgt dan deze code:
 
 - <picture>
-  <source srcset="images/iphone-dark.jpg" media="(prefers-color-scheme: dark)" />
-  <img src="images/iphone-light.jpg" alt="de iPhone 17" />
-</picture>
+    <source srcset="images/iphone-dark.jpg" media="(prefers-color-scheme: dark)" />
+    <img src="images/iphone-light.jpg" alt="de iPhone 17" />
+  </picture>
 
 Je kunt ook verschillende afbeeldingen laten zien op verschillende grootte schermen. Je begint weer met <img> en voegt een tweede afbeelding toe met <source>. Vervolgens geef je met media="(width > 40em)aan welke afbeelding gebruikt moet worden als het scherm groter wordt.
 
 De volgorde waarin je de afbeeldingen neerzet is van onder naar boven dus van klein naar steeds groter.
 
 Light en dark iconen
-Je moet ook rekening houden met je iconen bij een lichte/donker mode. Dit kan op verschillende manieren: 
+Je moet ook rekening houden met je iconen bij een lichte/donker mode. Dit kan op verschillende manieren:
+
 1. inline SVG
 2. een CSS filter
 3. het <picture> element
@@ -246,15 +254,15 @@ Je begint met het rechtstreeks in je HTML zetten van de SVG. Daarna definieer je
 </svg>
 
 html {
-  color-scheme:light dark;
-  --fill-icon:light-dark(darkgreen, lightgreen);
+color-scheme:light dark;
+--fill-icon:light-dark(darkgreen, lightgreen);
 }
 
 svg {
-  fill:var(--fill-icon);
+fill:var(--fill-icon);
 }
 
-Mijn resultaten van de DeepDive: 
+Mijn resultaten van de DeepDive:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63803434-6e38-4eb1-91b4-7f865efc1ec8" />
 
 ### Maandag 7 sept - Check Out
@@ -312,7 +320,6 @@ Opdracht 2 - Rangschikken van websites
 We hebben in groepjes onderzoek gedaan naar acht website en hebben hierbij gekeken welke het meest Webby is en welke het minst. Ik heb zelf onderzoek gedaan naar <a href="https://www.Edwinwenink.xyz">Edwinwenink.xyz</a> en <a href="https://nuel.pw">nuel.pw</a>. Twee totaal verschillende site die beide aan best veel "eisen" voldoen. Zo waren ze beiden er fluide, ze zagen er nog steeds goed uit op een kleiner scherm en zijn dan nog goed te bedienen. Beide website hebben een duidelijke hoverstate, maar een focus-state ontbreekt.
 In tegenstelling tot Nuel.pw had edwinwenink.xyz een duidelijke visuele hierachie en waren en duidelijke beschrijving onder de afbeeldingen te vinden. In Nuel.pw moet je iets meer zelf ontdekken. Beide website gaven geen waarschuwing van het opslaan van gegevens. Nuel.pw heeft veel leuke animaties, de ene iets duidelijker dan de ander. Maar dit ontbreekt bij edwinwenink.xyz waardoor het een vrij simpele site is. Mijn persoonlijke voorkeur gaat meer naar de stijl van edwinwenink.xyz, omdat dit een hele overzichtelijke site was. Ook weet je hierop precies wat je te wachten staat en is alles makkelijke te vinden. Maar de andere site is een stuk speelser en moet je meer zelf ontdekken. Dit heeft natuurlijk ook iets.
 <img width="auto" height="auto" alt="tempImagedpcTCe" src="https://github.com/user-attachments/assets/935736c0-a3bc-4cd4-bb4d-c2a01b6ba459" />
-
 
 Hierna hebben we als groepje gekeken naar onze acht website en hebben we gekeken welke het meest en minst webby zijn. Uiteindelijk kwamen we tot de conclusie dat melonland.net het meest webby is omdat het er ontzettend tof uitzag maar ook goed over nagedacht is. Met een hoverstate, veel animaties, goed kleuren palette en contras, goede typografie en het vooral een hele persoonlijke site is. Als minst webby site hebben wij gekozen voor churchbasement, omdat het een ontzettend simpele site is. Hij was niet overzichtelijk omdat er alleen maar likjes zonder uitleg zichtbaar zijn. Daarnaast is er geen gebruik gemaakt van focus- of hoverstates. Ook is het kleurcontrast minimaal en waren er geen animaties of waarschuwingen voor data-gebruik. Overal een hele saaie site dus. <img width="auto" height="auto" alt="tempImagezrUso3" src="https://github.com/user-attachments/assets/1541491a-40d1-43c8-9713-e46962dab8ce" />
 
@@ -378,15 +385,14 @@ Voor vandaag had ik me ingescreven voor de volgende twee deep dives:
 - Praktische CSS
 - CSS: fonts met kleur en effecten
 
-Ik ben begonnen met de deepdive Praktische CSS hiervoor kregen we de taak om als huiswerk een lelijke website te maken. Ik heb een website gemaakt met een guide to Amsterdam, met een h1, h2, afbeelding, orderd list, button en verschillende paragrafen. <img 
-     <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/3727ad2b-2dd6-4930-8d58-d28d035b1ddb" />
+Ik ben begonnen met de deepdive Praktische CSS hiervoor kregen we de taak om als huiswerk een lelijke website te maken. Ik heb een website gemaakt met een guide to Amsterdam, met een h1, h2, afbeelding, orderd list, button en verschillende paragrafen. <img
+<img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/3727ad2b-2dd6-4930-8d58-d28d035b1ddb" />
 
      alt="Een lelijke website van een guide to Amsterdam zonder enige opmaak">
 
 Daarnaast heb ik ook de dinner game gedaan, maar tijdens dit spel merkte ik dat ik toch nog vest wat moeite had met de CSS begrijpen. Naarmate de levels moeilijker werden, duurde het steeds langer voordat ik klaar was. Ik hoop dat ik dit blok hier sneller in wordt en het me beter afgaat.
 
 Tijdens de deepdive heeft Vasilis ons stap voor stap meegenomen in het proces en heb ik uiteindelijk een goede basis voor een website neergezet. En is het al een stuk duidelijker geworden voor mij. <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/7cf3a757-8c04-4191-98b4-f33019860dd5" />
-
 
 Voor de tweede deepdive van de dag had ik me ingeschreven voor CSS: fonts met kleur en effecten. Hiervoor heb ik de eerste opdracht al huiswerk gedaan. Hierbij moest je een afbeelding namaken. <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/f0486d93-5aa5-46ee-8a7e-2361db6c9b0d" />
 .
@@ -407,19 +413,18 @@ Ik heb gekozen om vandaag de volgende deep dives te volgen:
 
 Voor de eerste deepdive HTML & CSS Basics heb ik de artikelen gelezen die we als huiswerk hadden gekregen, hier heb ik aantekeningen bij gemaakt.
 <img 
-     src="file:///Users/leoniekoster/Downloads/IMG_5540.HEIC" 
+     src="../../Afbeeldingen//Aantekening1.HEIC" 
      alt="Afbeelding van aantekening van de gelezen artikelen">
 <img 
-     src="file:///Users/leoniekoster/Downloads/IMG_5541.HEIC" 
+     src="../../Afbeeldingen//Aantekening2.HEIC"
      alt="Afbeelding van aantekening van de gelezen artikelen">
 <img 
-     src="file:///Users/leoniekoster/Downloads/IMG_5542.HEIC" 
+     src="../../Afbeeldingen//Aantekening3.HEIC"
      alt="Afbeelding van aantekening van de gelezen artikelen">
 <img 
-     src="file:///Users/leoniekoster/Downloads/IMG_5543.HEIC" 
+     src="../../Afbeeldingen//Aantekening4.HEIC"
      alt="Afbeelding van aantekening van de gelezen artikelen">
-
-     Tijdens het lezen van deze artikelen kwamen de volgende vragen bij mij op:
+Tijdens het lezen van deze artikelen kwamen de volgende vragen bij mij op:
 
 - Wat is het verschil tussen "b" en "strong"?
   Beide taggs zorgen ervoor dat de tekst visueel hetzelfde eruit zien, maar ze betekenen iets anders. "strong" geeft aan dat de tekst inhoudelijk belangrijk, dringend of ernstig is. Zoekmachines zorgen er dan meestal automatisch voor dat deze tekst vetgedrukt wordt. Daarnaast wordt deze tekst door een schermlezen anders voorgelezen omdat "strong" extra waarde aan de tekst geeft. De "b"-tagg is enkel visueel en zorgt ervoor dat een tekst vet gedrukt worden en hierdoor aandacht trekt. Maar het geeft niet aan dat de tekst inhoudelijk belangrijk is, hier zullen zoekmachines of schermlezer geen speciale beteknis aan geven. <a href="https://www.freecodecamp.org/news/difference-between-b-and-strong-in-html/">Dit is de bron van deze tekst</a>
