@@ -10,13 +10,16 @@ Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx
 }
 
 @font-face {
-  font-family: "Anton-regular";
-  src: url("../Anton-Regular.ttf");
+  font-family: "BebasNeue";
+  src: url("../type/BebasNeue-Regular.ttf");
+  font-weight: 100;
+  font-style: normal;
 }
 
 html {
   /*basics*/
   margin: auto;
+  max-width: 100%;
   color-scheme: light dark;
 
   /*kleur properties*/
@@ -28,7 +31,7 @@ html {
   --tekst-wit: white;
   --tekst-blauw: #2a2fe8;
 
-  --color-h1: light-dark(#f5b3ce, #d671f5);
+  --color-rozepaars: light-dark(#f5b3ce, #d671f5);
   --color-roodblauw: light-dark(red, #2a2fe8);
 }
 
@@ -50,10 +53,98 @@ body {
   background-color: var(--bg-roodblauw);
   margin: 0;
   padding: 0;
-  font-family: "Anton-regular";
+  font-family: "BebasNeue", sans-serif;
 }
 
 header {
   position: fixed;
-  color:;
+  top: 0;
+  inset-inline: 0;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem; /*0 ruimte boven/onder, 2rem ruimte links/rechts*/
+  background-color: var(--bg-roodblauw);
+  z-index: 100;
+}
+
+header h1 {
+  color: var(--color-rozepaars);
+  font-size: 2.5rem;
+  letter-spacing: 0.1em;
+}
+
+header nav a {
+  color: var(--color-rozepaars);
+  text-decoration: none;
+  margin-left: 1.25rem;
+  font-size: 1.8rem;
+  letter-spacing: 0.1em;
+}
+
+main {
+  block-size: 100vh;
+  overflow-y: auto; /*inhoud hoger dan de ruimte, mag je verticaal scrollen*/
+  scroll-snap-type: y mandatory; /*scroll verticaal tot een snap-punt*/
+  scroll-behavior: smooth;
+}
+
+main section {
+  block-size: 100vh; /* hoogte */
+  inline-size: 100%; /* breedte */
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main section:nth-of-type(1) img {
+  inline-size: 100%; /* breedte */
+  block-size: 100vh; /* hoogte */
+  object-fit: cover; /*De afbeelding wordt zo geschaald dat het hele vlak gevuld wordt.*/
+}
+
+main section:nth-of-type(2) {
+  /* pak de tweede section */
+  background-color: var(--color-rozepaars);
+  color: var(--bg-roodblauw);
+  block-size: 100vh; /* hoogte */
+  inline-size: 70vh; /* breedte */
+}
+
+main section:nth-of-type(3) {
+  background-color: var(--bg-roodblauw);
+  color: var(--bg-wit);
+  block-size: 30vh; /* hoogte */
+  inline-size: 240vh; /* breedte */
+}
+
+article {
+  text-align: center;
+  padding: 2rem;
+  max-inline-size: 60ch; /* Goede leesbare breedte in relative eenheid */
+}
+
+section:nth-of-type(2) h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+section:nth-of-type(2) p {
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+section:nth-of-type(3) h2 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  font-weight: 900;
+}
+
+section:nth-of-type(3) p {
+  font-size: 2rem;
+  font-weight: bold;
 }
