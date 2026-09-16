@@ -20,6 +20,20 @@ html {
   --color-p: light-dark(red, #2a2fe8);
 }
 
+[data-theme="dark"] {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  [data-theme="light"] {
+    display: none;
+  }
+
+  [data-theme="dark"] {
+    display: block;
+  }
+}
+
 header h1 {
   color: var(--color-h1);
   background-color: var(--bg-roodblauw);
@@ -30,7 +44,7 @@ header p {
   background-color: var(--bg-wit);
 }
 
-Main {
+main {
   max-width: 30em;
   margin: auto;
 }
@@ -52,16 +66,4 @@ button,
 summary {
   cursor: pointer;
   font: inherit;
-}
-
-@media (prefers-color-scheme: dark) {
-  header p {
-    color: blue;
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  header p {
-    color: red;
-  }
 }
