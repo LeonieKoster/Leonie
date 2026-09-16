@@ -9,11 +9,11 @@
 html {
   color-scheme: light dark;
   --bg-rood: red;
-  --bg-lichtroze: lightpink;
+  --bg-lichtroze: #f5b3ce;
   --bg-wit: white;
   --color-p-header: red;
   --tekst-wit: white;
-  --color-h1: lightpink;
+  --color-h1: #f5b3ce;
   --bg-paars: #d671f5;
   --bg-blauw: #2a2fe8;
   --tekst-blauw: #2a2fe8;
