@@ -14,6 +14,9 @@ html {
   --color-p-header: red;
   --tekst-wit: white;
   --color-h1: lightpink;
+  --bg-paars: #d671f5;
+  --bg-blauw: #2a2fe8;
+  --tekst-blauw: #2a2fe8;
 }
 
 header h1 {
