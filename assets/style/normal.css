@@ -12,7 +12,14 @@ html {
   margin: auto;
   color-scheme: light dark;
 
+  /*witruimte properties*/
+  --whitespace-s: 1rem;
+  --whitespace-m: calc(var(--whitespace-s) * 2);
+  --whitespace-l: calc(var(--whitespace-s) * 4);
+  --whitespace-xs: calc(var(--whitespace-s) * 0.5);
+
   /*kleur properties*/
+
   --bg-roodblauw: light-dark(red, #2a2fe8);
   --bg-lichtroze: light-dark(#f5b3ce, #d671f5);
   --bg-wit: white;
@@ -22,6 +29,26 @@ html {
 
   --color-h1: light-dark(#f5b3ce, #d671f5);
   --color-roodblauw: light-dark(red, #2a2fe8);
+
+  --step-0: clamp(1rem, 0.9167rem + 0.3704vw, 1.25rem);
+  --step-1: clamp(1.2rem, 0.975rem + 1vw, 1.875rem);
+  --step-2: clamp(1.44rem, 0.9825rem + 2.0333vw, 2.8125rem);
+  --step-3: clamp(1.728rem, 0.8978rem + 3.69vw, 4.2188rem);
+  --step-4: clamp(2.0736rem, 0.6554rem + 6.303vw, 6.3281rem);
+  --step-5: clamp(2.4883rem, 0.1537rem + 10.3761vw, 9.4922rem);
+}
+
+h1 {
+  font-size: var(--step-4);
+}
+h2 {
+  font-size: var(--step-3);
+}
+h3 {
+  font-size: var(--step-2);
+}
+h4 {
+  font-size: var(--step-1);
 }
 
 /*licht/donker modus*/
@@ -36,6 +63,14 @@ html {
   [data-scheme="dark"] {
     display: block;
   }
+}
+
+body {
+  font-family: ui-sans-serif, sans-serif;
+  text-align: center;
+  background-color: var(--bg-roodblauw);
+  color: var(--tekst-wit);
+  margin-block: var(--whitespace-s);
 }
 
 /*header ontwerp - titel/tickers*/
@@ -89,34 +124,37 @@ header h1 {
   }
 }
 
+h2 {
+  margin-block-start: var(--whitespace-l);
+  margin-block-end: var(--whitespace-s);
+}
+
 blockquote {
   background-color: var(--bg-lichtroze);
   color: var(--color-roodblauw);
-  font-size: 3em;
+  font-size: 1em;
   font-weight: 800;
   padding: 3em;
+  margin-block: var(--whitespace-s);
 }
 
+/*MORE lijst*/
 ul {
   list-style: none;
-  font-size: 2em;
+  font-size: 1em;
 }
 
-body {
-  font-family: ui-sans-serif, sans-serif;
-  text-align: center;
-  background-color: var(--bg-roodblauw);
-  color: var(--tekst-wit);
-}
-
+/*basis instellingen voor een afbeelding/svg/video*/
 img,
 svg,
 video {
   max-width: 100%;
   height: auto;
   display: block;
+  margin-block: var(--whitespace-m);
 }
 
+/*basis instellingen voor een cursor*/
 button,
 summary {
   cursor: pointer;
