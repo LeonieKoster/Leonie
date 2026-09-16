@@ -12,9 +12,11 @@ html {
   --bg-roodblauw: light-dark(red, #2a2fe8);
   --bg-lichtroze: light-dark(#f5b3ce, #d671f5);
   --bg-wit: white;
+
   --tekst-wit: white;
-  --color-h1: light-dark(#f5b3ce, #d671f5);
   --tekst-blauw: #2a2fe8;
+
+  --color-h1: light-dark(#f5b3ce, #d671f5);
   --color-p: light-dark(red, #2a2fe8);
 }
 
@@ -50,4 +52,16 @@ button,
 summary {
   cursor: pointer;
   font: inherit;
+}
+
+@media (prefers-color-scheme: dark) {
+  header p {
+    color: blue;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  header p {
+    color: red;
+  }
 }
