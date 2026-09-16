@@ -22,7 +22,7 @@ header h1 {
   background-color: var(--bg-roodblauw);
 }
 header p {
-  color: var(--color-p-header);
+  color: var(--color-p);
   background-color: var(--bg-wit);
 }
 
