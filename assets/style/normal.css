@@ -1,3 +1,6 @@
+/* Bronnen & bronvermelding:
+Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEXOvwREbxQI-Jrwtu28LpYMecb5lRC2Gbw14JWvxRtnyC2WQ */
+
 /* HIER KOMT JOUW CSS */
 @font-face {
   font-family: "Comic Relief";
@@ -6,8 +9,51 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "Anton-regular";
+  src: url("../Anton-Regular.ttf");
+}
+
 html {
   /*basics*/
   margin: auto;
   color-scheme: light dark;
+
+  /*kleur properties*/
+
+  --bg-roodblauw: light-dark(red, #2a2fe8);
+  --bg-lichtroze: light-dark(#f5b3ce, #d671f5);
+  --bg-wit: white;
+
+  --tekst-wit: white;
+  --tekst-blauw: #2a2fe8;
+
+  --color-h1: light-dark(#f5b3ce, #d671f5);
+  --color-roodblauw: light-dark(red, #2a2fe8);
+}
+
+/*licht/donker modus*/
+[data-scheme="dark"] {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  [data-scheme="light"] {
+    display: none;
+  }
+  [data-scheme="dark"] {
+    display: block;
+  }
+}
+
+body {
+  background-color: var(--bg-roodblauw);
+  margin: 0;
+  padding: 0;
+  font-family: "Anton-regular";
+}
+
+header {
+  position: fixed;
+  color:;
 }
