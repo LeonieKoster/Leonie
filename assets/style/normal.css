@@ -7,12 +7,18 @@
 }
 
 html {
+  color-scheme: light dark;
   --bg-rood: red;
   --bg-lichtroze: lightpink;
   --bg-wit: white;
-  --tekst-rood: red;
+  --color-p-header: red;
   --tekst-wit: white;
-  --tekst-roze: lightpink;
+  --color-h1: lightpink;
+}
+
+header h1 {
+  color: var(--color-h1);
+  background-color: var(--bg-rood);
 }
 
 Main {
