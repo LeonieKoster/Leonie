@@ -7,6 +7,8 @@
 }
 
 html {
+  max-width: 30em;
+  margin: auto;
   color-scheme: light dark;
 
   --bg-roodblauw: light-dark(red, #2a2fe8);
@@ -42,7 +44,7 @@ header {
 header h1 {
   color: var(--color-h1);
   background-color: var(--bg-roodblauw);
-  font-size: clamp(80px, 17vw, 220px);
+  font-size: 3.7em;
   font-weight: 900;
   line-height: 0.85;
   margin: 0;
@@ -101,10 +103,6 @@ blockquote {
 ul {
   list-style: none;
   font-size: 2em;
-}
-main {
-  max-width: 30em;
-  margin: auto;
 }
 
 body {
