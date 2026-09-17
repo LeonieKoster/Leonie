@@ -5,17 +5,17 @@
 
 Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
 
--Nabijheid:  Elementen die dicht bij elkaar staan, dit wordt vaak gezien als een groep of eenheid.
--Symmetrie: Elementen zijn hetzelfde opgemaakt, dit zorgt vaak voor rust maar kan ook saai worden.
--Vorm/restvorm: Elementen waarbij de ruimte eromheen ook een vorm zijn, je ziet twee soorten vormen.
+- Nabijheid:  Elementen die dicht bij elkaar staan, dit wordt vaak gezien als een groep of eenheid.
+- Symmetrie: Elementen zijn hetzelfde opgemaakt, dit zorgt vaak voor rust maar kan ook saai worden.
+- Vorm/restvorm: Elementen waarbij de ruimte eromheen ook een vorm zijn, je ziet twee soorten vormen.
 
 Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? 
 
--Een grid zorgt ervoor dat lijnen consistent zijn maar je kunt hier eindeloze variaties op maken.
+- Een grid zorgt ervoor dat lijnen consistent zijn maar je kunt hier eindeloze variaties op maken.
 
 Welk principe neem je mee in een laatste iteratie van je ontwerp? 
 
--Heel eerlijk denk ik dat ik momenteel nog geen van de principes meeneem in mijn ontwerp, ik wil in de toekomst hier wel meer mee werken.
+- Heel eerlijk denk ik dat ik momenteel nog geen van de principes meeneem in mijn ontwerp, ik wil in de toekomst hier wel meer mee werken.
 
 
 ### Deep dive grid 101 + media queries 
