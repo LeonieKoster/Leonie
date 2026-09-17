@@ -1,5 +1,7 @@
 /* Bronnen & bronvermelding:
-Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEXOvwREbxQI-Jrwtu28LpYMecb5lRC2Gbw14JWvxRtnyC2WQ */
+Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEXOvwREbxQI-Jrwtu28LpYMecb5lRC2Gbw14JWvxRtnyC2WQ 
+Website voor inspiratie: https://codepen.io/marlowD/full/zYVRKge 
+Gesprek met chat.gpt voor uitleg inspiratie code:  https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15.*/
 
 /* HIER KOMT JOUW CSS */
 @font-face {
@@ -34,8 +36,8 @@ html {
   /*basics*/
   margin: auto;
   max-width: 100%;
-  color-scheme: light dark;
   box-sizing: border-box;
+  color-scheme: light dark;
 
   /*kleur properties*/
 
@@ -59,15 +61,16 @@ html {
   [data-scheme="light"] {
     display: none;
   }
+
   [data-scheme="dark"] {
     display: block;
   }
 }
 
 body {
-  background-color: var(--bg-roodblauw);
   margin: 0;
   padding: 0;
+  background-color: var(--bg-roodblauw);
   font-family: "BebasNeue", sans-serif;
 }
 
@@ -75,14 +78,20 @@ header {
   position: fixed;
   top: 0;
   inset-inline: 0;
+  z-index: 100;
+
   width: 100%;
+  max-width: 100%;
   height: 4.5rem;
+
+  margin: auto;
+  padding: 0 2rem; /*0 ruimte boven/onder, 2rem ruimte links/rechts*/
+
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 2rem; /*0 ruimte boven/onder, 2rem ruimte links/rechts*/
+
   background-color: var(--bg-roodblauw);
-  z-index: 100;
 }
 
 header h1 {
@@ -100,8 +109,8 @@ header nav a {
 }
 
 main {
-  block-size: 100vh;
   width: 100%;
+  block-size: 100vh;
   overflow-x: hidden; /*niet horizontaal verschuiven*/
   overflow-y: auto; /*inhoud hoger dan de ruimte, mag je verticaal scrollen*/
   scroll-snap-type: y mandatory; /*scroll verticaal tot een snap-punt*/
@@ -109,76 +118,81 @@ main {
 }
 
 main section {
-  block-size: 100vh;
-  inline-size: 100%;
   position: sticky;
   top: 0;
+
+  width: 100%;
+  block-size: 100vh;
+
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 main section:nth-of-type(1) img {
-  inline-size: 100%; /* breedte */
+  width: 100%; /* breedte */
   block-size: 100vh; /* hoogte */
-  object-fit: cover; /*De afbeelding wordt zo geschaald dat het hele vlak gevuld wordt.*/
+  object-fit: cover; /* De afbeelding wordt zo geschaald dat het hele vlak gevuld wordt.*/
 }
 
 main section:nth-of-type(2) {
-  /* pak de tweede section */
+  width: 70%; /* breedte */
   background-color: var(--color-rozepaars);
   color: var(--bg-roodblauw);
-  inline-size: 70%; /* breedte */
 }
 
 main section:nth-of-type(3) {
+  width: 100%;
+  height: 50vh;
+
   background-color: var(--bg-roodblauw);
   color: var(--bg-wit);
 
-  width: 100%;
-  min-height: 50vh;
-  height: 50vh;
-
-  position: sticky;
-  top: 0;
   z-index: 2;
   overflow: hidden;
 }
 
 article {
-  text-align: center;
-  padding: 2rem;
   position: relative;
+
+  padding: 2rem;
+
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
+  text-align: center;
 }
 
 section:nth-of-type(2) h2 {
   position: absolute;
   bottom: 20rem;
+
   font-size: 3rem;
   margin-bottom: 0;
 }
 
 section:nth-of-type(2) p {
-  font-size: 1.6rem;
-  margin-bottom: 12rem;
+  margin-bottom: 10rem;
   margin-top: -10rem;
+
   font-family: "NotoSans";
+  font-size: 1.6rem;
 }
 
 section:nth-of-type(3) h2 {
+  margin: 0 0 0.2rem 0;
+
   font-size: 8rem;
   font-weight: 900;
-  margin: 0 0 0.2rem 0;
 }
 
 section:nth-of-type(3) ul {
+  margin: 0;
+  padding: 0;
+
   font-size: 2rem;
   font-weight: bold;
   list-style: none;
-  margin: 0;
-  padding: 0;
 }
