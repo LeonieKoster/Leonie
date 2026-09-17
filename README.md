@@ -47,7 +47,9 @@ Ik vind het belangrijk dat het onderwerp van de site duidelijk is, deze staat da
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f093a0d1-97b9-4411-8dd5-dfb690d86cc8" />
 
+
 **Deep Dive - Mooie kleuren, gradients en verlopen**
+
 Ik ben begonnen met het doen van de spelletjes die benoemd werken als voorbereiding van de deepdive:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56d8c521-385c-4aa1-972b-f39ac96949d6" />
 
