@@ -22,21 +22,21 @@ Het web was oorspronkelijk bedoeld als een vrij en democratisch netwerk, maar is
 
 Berners-Lee werkt aan Solid om de afhankelijkheid van techgiganten te breken. Met zogenaamde “pods” (digitale rugzakken) beheren gebruikers hun eigen data weer zelf een bepalen ze per situatie welk bedrijf of welke instantie tijdelijk toegang krijgt. Hij zegt dat maatregelen zoals het vergoeden van sociale media voor jongeren onder de 16 niet optimaal is. Hij ziet meer in kindvriendelijke hardware en gerichte filters, omdat hij digitale communicatie ook als iets nuttigs ziet. De ongecontroleerde ontwikkeling van AI door commerciële bedrijven is gesloten silo’s baart hem zorgen. Hij pleit dan ook voor internationaal, onafhankelijk wetenschappelijk instituut om AI veilig en transparant te onderzoeken en te controleren voordat het te laat is.
 
-### Check-out vrijdag 11 sept
-
-Ik heb vanwege omstandigheden weinig tijd gehad om aan mijn schoolwerk te zitten, daarom had ik tijdens het feedback moment weinig om te laten zien. Ik heb wel mijn onderwerp uitgelegd en Vasilis vond het een heel tof en interessant onderwerp. Ook zag mijn learning-log er tot nu toe goed uit, maar ik moet iets mer vertellen wat ik nog niet wist en wat ik heb geleerd. Daarnaast moet ik mezelf blijven uitdagen om feedback te vragen, omdat dit een punt is waar ik nog moeite mee heb. Wel heeft hij en ik zelf er vertrouwen in dat het goed gaat komen.
-
-### Vrijdag 11 sept - Algemene werkgroep
-
-**\*Opdracht 12 - Bespreek de uitgewerkte mobile-first schetsen**
-
-**Opdracht 13/14 - Eerste html opzet**
+### Eerste ontwerp website 
 
 Voor mijn website heb ik een beetje inspiratie opgedaan op codestudio.io. Hier kwam ik een heel leuk website design (https://codepen.io/mobalti/pen/YzBWgpW) tegen die ik als inspiratie heb gebruikt voor mijn eigen website. Aangezien ik een deel van de code niet helemaal begreep heb ik aan chat.gpt gevraagd of hij stap voor stap de code kan uitleggen, https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15. Met deze uitleg ben ik gaan kijken welke elementen ik voor mijn eigen website nodig heb en heb ik voor mezelf aantekening gemaakt in mijn css-bestand. Op deze manier ben ik op een code gekomen, die ik nu zelf begrijp maar ook laat zien wat ik voor ogen heb. 
 
 Wel loop ik nog tegen het probleem aan dat de site er niet goed uitziet op mijn mobiel, de tekst loopt over elkaar en de tekst wordt ingekort. Ik moet hier nog even goed voor gaan zitten, om te kijken hoe ik dit kan oplossen. 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe13af49-7f2c-4a2d-865a-8a1444339c39" />
+
+### Check-out vrijdag 11 sept
+
+Ik heb vanwege omstandigheden weinig tijd gehad om aan mijn schoolwerk te zitten, daarom had ik tijdens het feedback moment weinig om te laten zien. Ik heb wel mijn onderwerp uitgelegd en Vasilis vond het een heel tof en interessant onderwerp. Ook zag mijn learning-log er tot nu toe goed uit, maar ik moet iets mer vertellen wat ik nog niet wist en wat ik heb geleerd. Daarnaast moet ik mezelf blijven uitdagen om feedback te vragen, omdat dit een punt is waar ik nog moeite mee heb. Wel heeft hij en ik zelf er vertrouwen in dat het goed gaat komen.
+
+### Vrijdag 11 sept - Algemene werkgroep
+
+** Opdracht 12 - Bespreek de uitgewerkte mobile-first schetsen**
 
 ### Vrijdag 11 sept - Voorbereiding
 
