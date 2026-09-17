@@ -1,5 +1,18 @@
 ## Learning Log
 
+
+### Check out - woensdag 16 september 
+
+Noem 3 Gestaltprincipes op en laat de ander uitleggen wat ze betekenen en doen.
+-Nabijheid:  Elementen die dicht bij elkaar staan, dit wordt vaak gezien als een groep of eenheid.
+-Symmetrie: Elementen zijn hetzelfde opgemaakt, dit zorgt vaak voor rust maar kan ook saai worden.
+-Vorm/restvorm: Elementen waarbij de ruimte eromheen ook een vorm zijn, je ziet twee soorten vormen.
+Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld? 
+-Een grid zorgt ervoor dat lijnen consistent zijn maar je kunt hier eindeloze variaties op maken.
+Welk principe neem je mee in een laatste iteratie van je ontwerp? 
+-Heel eerlijk denk ik dat ik momenteel nog geen van de principes meeneem in mijn ontwerp, ik wil in de toekomst hier wel meer mee werken.
+
+
 ### Deep dive grid 101 + media queries 
 
 Ik heb een begin gemaakt aan de deepdive, maar merk dat ik er nog enorm veel moeite mee heb. Van de eerste opdracht gingen de eerste paar sommetjes prima tot sommetje 7, hier kreeg ik echt meer moeite en heb ik regelmatig naar de antwoorden gekeken. Het is me uiteindelijk gelukt om alle sommetje behalve 11 te maken. 
