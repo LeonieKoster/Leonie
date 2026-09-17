@@ -96,18 +96,17 @@ header {
 
 header h1 {
   color: var(--color-rozepaars);
-  font-size: 2.5rem;
+  font-size: clamp(1.5rem, 4vw, 2.5rem);
   letter-spacing: 0.1em;
 }
 
 header nav a {
   color: var(--color-rozepaars);
   text-decoration: none;
-  margin-right: 2.5rem;
-  font-size: 1.8rem;
+  margin-right: clamp(1rem, 3vw, 2.5rem);
+  font-size: clamp(1.1rem, 2.5vw, 1.8rem);
   letter-spacing: 0.1em;
 }
-
 main {
   width: 100%;
   block-size: 100vh;
@@ -166,33 +165,29 @@ article {
 }
 
 section:nth-of-type(2) h2 {
-  position: absolute;
-  bottom: 20rem;
-
-  font-size: 3rem;
-  margin-bottom: 0;
+  font-size: clamp(1.8rem, 5vw, 3.2rem);
+  margin-bottom: 1rem;
 }
 
 section:nth-of-type(2) p {
-  margin-bottom: 10rem;
-  margin-top: -10rem;
-
-  font-family: "NotoSans";
-  font-size: 1.6rem;
+  font-family: "NotoSans", sans-serif;
+  font-size: clamp( 1rem, 2vw,1.35rem);
+  line-height: 1.5;
+  margin: 0;
 }
 
+/* Sectie 3 typografie */
 section:nth-of-type(3) h2 {
-  margin: 0 0 0.2rem 0;
-
-  font-size: 8rem;
+  font-size: clamp( 2.8rem, 8vw, 5.5rem)
   font-weight: 900;
+  line-height: 1.1;
+  margin: 0 0 0.5rem 0;
 }
 
 section:nth-of-type(3) ul {
-  margin: 0;
-  padding: 0;
-
-  font-size: 2rem;
+  font-size: clamp(2rem, 3vw, 1.8rem);
   font-weight: bold;
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
