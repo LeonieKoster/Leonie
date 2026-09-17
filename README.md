@@ -32,6 +32,10 @@ Ik heb vanwege omstandigheden weinig tijd gehad om aan mijn schoolwerk te zitten
 
 **Opdracht 13/14 - Eerste html opzet**
 
+Voor mijn website heb ik een beetje inspiratie opgedaan op codestudio.io. Hier kwam ik een heel leuk website design (https://codepen.io/mobalti/pen/YzBWgpW) tegen die ik als inspiratie heb gebruikt voor mijn eigen website. Aangezien ik een deel van de code niet helemaal begreep heb ik aan chat.gpt gevraagd of hij stap voor stap de code kan uitleggen, https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15. Met deze uitleg ben ik gaan kijken welke elementen ik voor mijn eigen website nodig heb en heb ik voor mezelf aantekening gemaakt in mijn css-bestand. Op deze manier ben ik op een code gekomen, die ik nu zelf begrijp maar ook laat zien wat ik voor ogen heb. 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe13af49-7f2c-4a2d-865a-8a1444339c39" />
+
 ### Vrijdag 11 sept - Voorbereiding
 
 **Opdracht 11 - 5 mobile-first**
