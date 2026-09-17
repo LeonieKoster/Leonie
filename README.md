@@ -1,5 +1,13 @@
 ## Learning Log
 
+### Deep dive grid 101 + media queries 
+
+Ik heb een begin gemaakt aan de deepdive, maar merk dat ik er nog enorm veel moeite mee heb. Van de eerste opdracht gingen de eerste paar sommetjes prima tot sommetje 7, hier kreeg ik echt meer moeite en heb ik regelmatig naar de antwoorden gekeken. Het is me uiteindelijk gelukt om alle sommetje behalve 11 te maken. 
+
+<img width="1920" height="1080" alt="deepdive grid" src="https://github.com/user-attachments/assets/c3da562f-ff41-472c-b0c7-8e0770bd27bb" />
+
+Ik heb nog geen tijd gehad om naar de rest van de deepdive te kijken.
+
 ### bi-weekly geek 1 Maandag 14 sept
 
 Ik heb als voorbereiding op de bi-weekly geek de video gekekene en de artikelen gelezen hier heb ik ook wat aantekeningen bij gemaakt:
