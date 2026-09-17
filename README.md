@@ -35,6 +35,7 @@ Ik heb vanwege omstandigheden weinig tijd gehad om aan mijn schoolwerk te zitten
 ### Vrijdag 11 sept - Voorbereiding
 
 **Opdracht 11 - 5 mobile-first**
+
 Ik ben bezig geweest met het maken van mijn mobile-first schetsen. Ik heb verschillende lay-outs geprobeerd waarbij ik wel dezelfde elementen steeds terug laat komen. 
 Ik vind het belangrijk dat het onderwerp van de site duidelijk is, deze staat daarom ook boven aan de website. Verder heb ik de teksten en categorieën op verschillende plekken geplaatst om de leesbaarheid te vergelijken. Voor het beeldgebruik ben ik gaan kijken naar vaste fotovakken, achtergrondafbeelding en zwevende beeldelementen. Ik heb een afwisseling gemaakt van koppen naast elkaar, een verdeling in kolommen en  onder elkaar geplaatste lijsten.
 
