@@ -200,7 +200,7 @@ section:nth-of-type(3) ul {
 @media (min-width: 940px) {
   section:nth-of-type(2) h2 {
     margin-top: 10rem;
-    font-size: 3rem;
+    font-size: 4rem;
   }
 
   section:nth-of-type(2) p {
@@ -210,4 +210,7 @@ section:nth-of-type(3) ul {
   header nav a {
     font-size: 2rem;
   }
+  section:nth-of-type(3) h2 {
+    margin-top: 2rem;
+    
 }
