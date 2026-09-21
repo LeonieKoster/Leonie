@@ -17,16 +17,75 @@ Welk principe neem je mee in een laatste iteratie van je ontwerp? 
 
 - Heel eerlijk denk ik dat ik momenteel nog geen van de principes meeneem in mijn ontwerp, ik wil in de toekomst hier wel meer mee werken.
 
+### Voorbereiding woensdag 16 september
+**Deep dive responsive grid + grid-areas**
 
-### Deep dive grid 101 + media queries 
+**Responsiveness toegevoegd**
+<img width="580" height="1088" alt="image" src="https://github.com/user-attachments/assets/554e09ea-5a1e-49f6-a9c9-55eae6538aa1" />
 
-Ik heb een begin gemaakt aan de deepdive, maar merk dat ik er nog enorm veel moeite mee heb. Van de eerste opdracht gingen de eerste paar sommetjes prima tot sommetje 7, hier kreeg ik echt meer moeite en heb ik regelmatig naar de antwoorden gekeken. Het is me uiteindelijk gelukt om alle sommetje behalve 11 te maken. 
+Met behulp van een student-assistent heb ik een @media media query toegepast om de lay-out en typografie aan te passen voor verschillende grote schermen. Deze code bevordert op deze manier de responsiveness van mijn site. De standaard CSS richt zich op mobiele schermen. Pas vanaf een schermbreedte van 940px treden deze specifieke stijlen in werking, waardoor de site op elk apparaat optimaal schaalt.   
 
-<img width="1920" height="1080" alt="deepdive grid" src="https://github.com/user-attachments/assets/c3da562f-ff41-472c-b0c7-8e0770bd27bb" />
+Op grotere schermen is er meer ruimte, dus worden de koppen en typografie vergroot (zoals font-size: 4rem en 2rem) om een duidelijke visuele hiërarchie en goede leesbaarheid te behouden. Door de margin-top te vergroten op specifieke secties (section:nth-of-type), krijgt de content op een breed scherm meer ademruimte, wat voorkomt dat. Door te werken met rem-eenheden schaalt de typografie en afstand netjes mee met de toegankelijkheidsinstellingen van de browser van de gebruiker.
 
-Ik heb nog geen tijd gehad om naar de rest van de deepdive te kijken.
+**Artikel: 5 Principes van Visueel Design in UX**
 
-### bi-weekly geek 1 Maandag 14 sept
+Visueel ontwerp gaat verder dan het mooi of esthetisch aantrekkelijk maken van lay-outs. Wanneer het doordacht wordt toegepast, kan het de bruikbaarheid vergroten, emotie oproepen en de merkperceptie versterken. Dit kan op vijf manieren: 
+
+1. Schaal (Scale): Het principe van schaal houdt in dat je relatieve grootte gebruikt om het belang en de rangorde in een compositie aan te geven.
+De belangrijkste elementen maak je groter dan minder belangrijke elementen, omdat grote dingen sneller opvallen. Het wordt aangeraden niet meer dan 3 verschillende maten te gebruiken. Dit zorgt voor variatie én helpt een visuele hiërarchie op te bouwen.
+
+2. Visuele Hiërarchie: Visuele hiërarchie leidt het oog van de gebruiker over de pagina, zodat elementen worden opgemerkt in volgorde van hun belang.
+Gebruik 2 tot 3 lettertypes/groottes (zoals titel, ondertitel en lopende tekst) om informatie aan te duiden. Maak daarnaast gebruik van felle kleuren voor belangrijke items en gedempte kleuren voor minder belangrijke onderdelen.
+
+3. Balans: Balans ontstaat wanneer er een gelijkmatig verdeelde (maar niet per se symmetrische) hoeveelheid visueel "gewicht" aan beide kanten van een denkbeeldige as zit. Het zorgt ervoor dat een pagina stabiel en geordend te laten aanvoelen. Door een denkbeeldige as (verticaal of horizontaal) over je ontwerp te maken kun je bepalen hoe het visuele gewicht verdeeld is.
+
+4. Contrast: Het principe van contrast verwijst naar het naast elkaar plaatsen van visueel verschillende elementen om aan te tonen dat deze elementen een andere functie of betekenis hebben. Het zorgt ervoor dat elementen zoals knoppen en acties direct herkenbaar zijn en verhoogt de leesbaarheid. Gebruik altijd een color-contrast checker om te controleren of tekst en elementen goed leesbaar zijn voor alle gebruikers (toegankelijkheid).
+  
+5. Gestaltprincipes: Gestaltprincipes beschrijven de menselijke neiging om losse visuele elementen te zien als één georganiseerd geheel in plaats van als afzonderlijke onderdelen. Onze hersenen groeperen automatisch dingen die dicht bij elkaar staan (nabijheid), op elkaar lijken (gelijkvormigheid) of in hetzelfde kader zitten (gemeenschappelijk gebied). Gebruik deze principes om gerelateerde informatie en knoppen visueel bij elkaar te laten horen.
+
+**Design Consistency Guide UI and UX Best Practices**
+
+Visuele en functionele consistentie zorgt voor herkenbaarheid en vertrouwen bij gebruikers, vermindert de cognitieve belasting en versnelt het ontwerpproces. Consistentie in UI/UX-design betekent dat vergelijkbare elementen op dezelfde manier reageren en er hetzelfde uitzien op alle pagina’s en apparaten.
+
+1. Visuele Consistentie: Visuele consistentie draait om het hanteren van dezelfde stijlkeuzes door het hele product. Gebruik een vast palet van kleuren, typografie, iconen en ruimtelijke verhoudingen (margins/padding).Maak gebruik van herbruikbare UI-componenten zodat knoppen, invoervelden en kaarten er overal op de pagina exact hetzelfde uitzien.
+
+2. Functionele Consistentie: Functionele consistentie zorgt ervoor dat elementen op een voorspelbare manier werken voor de gebruiker.
+Als een actie (zoals swipen, klikken of openklappen) op de ene pagina iets bepaalds doet, moet dat op de rest van de site hetzelfde effect hebben. Gebruik bekende UI-patronen en conventies, zodat gebruikers niet opnieuw hoeven te leren hoe jouw interface werkt.
+
+3. Interne vs. Externe Consistentie:Het aanhouden van dezelfde ontwerp- en gedragsregels binnen jouw eigen website of app.
+of het aansluiten bij bestaande platform- en webstandaarden zodat de site direct vertrouwd aanvoelt.
+
+Consistentie is essentieel zodat gebruikers niet na hoeven te denken over hoe elementen werken en kunnen zich volledig op de inhoud richten.
+Ook verhoogt het de efficiëntie zo kunnen ontwerpers en ontwikkelaars sneller bouwen met herbruikbare bouwstenen. Daarnaast komt een consistente ervaring professioneel, stabiel en 'volwassen' over op de gebruiker.
+
+### Maandag 14 sept - Check out
+
+1. Wanneer wordt een website 'lelijk' en hoe fix je dat?
+Een website wordt 'lelijk' en onoverzichtelijk als afbeeldingen heel groot zijn, tekst te weinig witruimte heeft en de content op mobiel het hele scherm overneemt. Dit fix je door max-width toe te voegen op afbeeldingen, media queries toe te passen en royale witruimte (padding/margins) te gebruiken.   
+
+2. Wat is je volgende stap om je site responsive te maken?
+Mijn volgende stap is het toepassen van de Deep Dives. Vanuit daar kijk ik welke technieken—zoals CSS Grid, Flexbox en relatieve eenheden ik kan inzetten om de mobiele lay-out verder te verfijnen en schaalbaar te maken voor grotere schermen.   
+
+3. Onderbouwing van mijn eigen Garden in Webby-vocabulaire
+Mijn Garden is gebouwd op een volwassen en semantische HTML5-basis. Ik hoop dat het mij gaat lukken om de lay-out fluïde en adaptief te maken door verticale stapeling die perfect schaalt op elk mobiel scherm. Qua toegankelijkheid zorgt het heldere kleurcontrast en de duidelijke hiërarchie voor optimale leesbaarheid. Tot slot is mijn site expressief, dynamisch en verrassend gemaakt via data-scheme attributen (light en dark), waarmee niet alleen het kleurenpalet verandert, maar ook de inhoudelijke boodschap met de gebruiker meebeweegt.
+
+### Maandag 14 sept - Algemene werkgroep 
+
+**Opdracht 17 - Responsive voorbeelden zoeken**
+Ik ben opzoek gegaan naar drie verschillende responsive websites: 
+1. href="https://www.affinity.studio">Affinity Studio</a> 
+Wat mij hier direct aan opviel, is het slimme gebruik van een fluid grid en meeschalende typografie. Op desktop benut de site de volle breedte met een hele ruimtelijke indeling en interactieve projectkaarten. Zodra je de site op mobiel bekijkt, transformeren die complexe grid-elementen heel strak naar een enkele kolom. De typografie past zich perfect aan, waardoor de focus op mobiel volledig op de inhoud en beelden blijft liggen.
+2. href="https://cydstumpel.nl">Cydstumpel.nl</a> 
+Dit portfolio vind ik echt een meesterwerk als het gaat om micro-interacties. Op desktop beweegt de interactieve visualisatie dynamisch mee met je muis. Wat ik erg sterk vind, is hoe dit op mobiel is opgelost: in plaats van de zware interacties gewoon uit te zetten, zijn ze vervangen door hele vloeiende scroll-animaties en swipe-gestures. De pagina blijft daardoor razendsnel zonder dat het ten koste gaat van de visuele beleving.
+3. href="https://landonorris.com>landonorris.com</a> 
+Als derde voorbeeld heb ik gekeken naar de officiële site van Lando Norris. Dit is een extreem dynamische site die bewijst dat heel expressieve content ook mobiel kan werken. Op desktop voelt het bijna als een 3D-experience, maar op een mobiel scherm vouwt de content zich slim samen tot overzichtelijke, swipebare kaarten en een toegankelijk menu.
+
+Alle drie de sites durven af te stappen van een standaard, saaie lay-out. Ze gebruiken typografie en interactie echt als het belangrijkste ontwerpelement.
+Ik zag een mooi verschil in aanpak: Cyd Stumpel kiest voor hele subtiele scroll-transities, Affinity Studio leunt op een strakke typografische hiërarchie, en Lando Norris gebruikt vooral opvallende visuele media.
+
+Uiteindelijk vind ik zelf de portfolio-website van Cyd Stumpel het beste. Wat mij hierin het meeste aansprak vanuit responsive design, is hoe de maker erin is geslaagd om complexe WebGL-animaties vlekkeloos te laten schalen naar een mobiel touchscreen. In plaats van de animaties op mobiel weg te laten, is de complete interactie aangepast aan touch en scrollen. Dit liet mij heel goed zien dat responsive design niet alleen gaat om het 'passend maken' van vakjes, maar om het herontwerpen van de totale ervaring per apparaat.
+
+### Voorbereidingen Maandag 14 sept
 
 Ik heb als voorbereiding op de bi-weekly geek de video gekekene en de artikelen gelezen hier heb ik ook wat aantekeningen bij gemaakt:
 
@@ -48,7 +107,7 @@ Het web was oorspronkelijk bedoeld als een vrij en democratisch netwerk, maar is
 
 Berners-Lee werkt aan Solid om de afhankelijkheid van techgiganten te breken. Met zogenaamde “pods” (digitale rugzakken) beheren gebruikers hun eigen data weer zelf een bepalen ze per situatie welk bedrijf of welke instantie tijdelijk toegang krijgt. Hij zegt dat maatregelen zoals het vergoeden van sociale media voor jongeren onder de 16 niet optimaal is. Hij ziet meer in kindvriendelijke hardware en gerichte filters, omdat hij digitale communicatie ook als iets nuttigs ziet. De ongecontroleerde ontwikkeling van AI door commerciële bedrijven is gesloten silo’s baart hem zorgen. Hij pleit dan ook voor internationaal, onafhankelijk wetenschappelijk instituut om AI veilig en transparant te onderzoeken en te controleren voordat het te laat is.
 
-### Eerste ontwerp website 
+**Eerste ontwerp website** 
 
 Voor mijn website heb ik een beetje inspiratie opgedaan op codestudio.io. Hier kwam ik een heel leuk website design (https://codepen.io/mobalti/pen/YzBWgpW) tegen die ik als inspiratie heb gebruikt voor mijn eigen website. Aangezien ik een deel van de code niet helemaal begreep heb ik aan chat.gpt gevraagd of hij stap voor stap de code kan uitleggen, https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15. Met deze uitleg ben ik gaan kijken welke elementen ik voor mijn eigen website nodig heb en heb ik voor mezelf aantekening gemaakt in mijn css-bestand. Op deze manier ben ik op een code gekomen, die ik nu zelf begrijp maar ook laat zien wat ik voor ogen heb. 
 
@@ -56,23 +115,56 @@ Wel loop ik nog tegen het probleem aan dat de site er niet goed uitziet op mijn 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe13af49-7f2c-4a2d-865a-8a1444339c39" />
 
+### Deep dive grid 101 + media queries 
+
+Ik heb een begin gemaakt aan de deepdive, maar merk dat ik er nog enorm veel moeite mee heb. Van de eerste opdracht gingen de eerste paar sommetjes prima tot sommetje 7, hier kreeg ik echt meer moeite en heb ik regelmatig naar de antwoorden gekeken. Het is me uiteindelijk gelukt om alle sommetje behalve 11 te maken. 
+
+<img width="1920" height="1080" alt="deepdive grid" src="https://github.com/user-attachments/assets/c3da562f-ff41-472c-b0c7-8e0770bd27bb" />
+
+Ik heb nog geen tijd gehad om naar de rest van de deepdive te kijken.
+
 ### Check-out vrijdag 11 sept
 
 Ik heb vanwege omstandigheden weinig tijd gehad om aan mijn schoolwerk te zitten, daarom had ik tijdens het feedback moment weinig om te laten zien. Ik heb wel mijn onderwerp uitgelegd en Vasilis vond het een heel tof en interessant onderwerp. Ook zag mijn learning-log er tot nu toe goed uit, maar ik moet iets mer vertellen wat ik nog niet wist en wat ik heb geleerd. Daarnaast moet ik mezelf blijven uitdagen om feedback te vragen, omdat dit een punt is waar ik nog moeite mee heb. Wel heeft hij en ik zelf er vertrouwen in dat het goed gaat komen.
 
+Het is mij gelukt om al de opdrachten bij te werken en in te houden en heb dit hieronder verwerkt. Hierboven is dus de feedback die ik hiervoor gehad heb. 
+
 ### Vrijdag 11 sept - Algemene werkgroep
 
-** Opdracht 12 - Bespreek de uitgewerkte mobile-first schetsen**
+**Opdracht 12 - Bespreek de uitgewerkte mobile-first schetsen**
+Ik heb voor mezelf gekeken naar mijn schetsen en hoe deze ten opzichte van de Webby punten scoren. Ik ben tot deze conclusie gekomen: 
+
+Schets 1 (Uiterst links): Wel Webby. Dit ontwerp is erg fluïde en toegankelijk voor mobiel. Dit komt door de duidelijke visuele hiërarchie, goed leesbare paragrafen en logische verticale stapeling van elementen. Het is technisch zeer volwassen en haalbaar in HTML/CSS, en biedt een interactieve basis waar via de hamburger-navigatie en eventuele scroll-animaties dynamiek aan toegevoegd kan worden.   
+
+Schets 2 (Tweede van links): Wel Webby. Scoort sterk op interactiviteit en toegankelijkheid doordat de twee naast elkaar gelegen blokken (MINDS en BODIES) direct fungeren als duidelijke keuzeknoppen voor de gebruiker. De lay-out is volwassen en schaalt moeiteloos mee naar grotere schermen, al moet er qua fluïditeit in CSS op gelet worden dat de twee knoppen op smalle schermen breed genoeg blijven voor 'dikke vingers'.   
+
+Schets 3 (Middelste schets): Beperkt Webby / Twijfelgeval. Deze schets is qua expressiviteit en leuk/verrassend heel sterk door de creatieve, asymmetrische opbouw. Het schiet echter tekort op fluïditeit en toegankelijkheid: de verticale tekst MORE. neemt te veel kostbare horizontale ruimte in beslag op een mobiel scherm, waardoor de tekst en afbeelding ernaast te opgekropt raken om prettig te lezen.   
+
+Schets 4 (Vierde van links): Wel Webby. Uitstekend op het gebied van interactief/dynamisch; de hero-achtergrondafbeelding met tekst-overlay leent zich perfect voor toffe CSS-transities, hoover-states of parallax-scrolleffecten. Het is volwassen en goed te coderen, mits er qua toegankelijkheid op gelet wordt dat het kleurcontrast tussen de tekst en de achtergrondafbeelding groot genoeg is.   
+
+Schets 5 (Uiterst rechts): Wel Webby (met randvoorwaarde). Dit is de meest expressieve en verrassende schets dankzij het creatieve gebruik van "zwevende afbeeldingen" die de starre web-grid doorbreken. Het is interactief en heeft een duidelijke knoppenstructuur onderin, maar vraagt qua fluïditeit om slimme CSS-positionering om te voorkomen dat zwevende elementen op kleinere schermen de leesbare tekst afdekken.
+
+Om van papier naar digitaal te schalen, heb ik de eerste drie concepten uit mijn Crazy Eights-fase visueel uitgewerkt. Mijn eerste concept (links) richt zich op een strakke, verticale opbouw met duidelijke kleurvlakken en een sterke typografische hiërarchie. In het tweede concept (midden) heb ik de nadruk gelegd op interactieve categorie-knoppen (OUR MINDS, OUR BODIES, OUR LIVES), terwijl ik bij het derde concept (rechts) heb geëxperimenteerd met een meer expressieve, magazine-achtige lay-out met verticale tekst-accenten (MORE.).   
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b057221-948c-47b3-86d0-8dcd3e92120e" />
+
+Uiteindelijk heb ik ervoor gekozen om het eerste concept volledig uit te werken tot mijn definitieve website. Naar mijn mening biedt dit ontwerp veruit de beste gebruikerservaring op mobiel: de heldere verticale structuur en het sterke kleurcontrast schalen moeiteloos mee op elk schermformaat zonder rommelig te worden, wat bij de complexere en krappere indelingen van concept 2 en 3 een groter risico vormde. Daarnaast versterkt de strakke balans tussen de opvallende header NEVER ENOUGH en de fotoblokken mijn thema het beste, terwijl het ontwerp voor mij technisch uiterst haalbaar en volwassen te coderen is.
+
+**Opdracht 14 - eerste html opzet** 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52ff7ef4-affd-4ede-89ac-13597d384200" />
+
+Na verschillende manieren te hebben geprobeerd om de HTML-structuur op te zetten, ben ik uiteindelijk gekomen tot deze code-opbouw. De basis is logisch ingedeeld met een <header> met daarin het <h1>-element en een <nav> voor de navigatielinks, gevolgd door een <main>-tag voor de inhoud. Om mijn pagina’s betekenisvol te structureren, maak ik gebruik van <section>- en <article>-elementen om foto- en tekstblokken netjes van elkaar te scheiden.   
+
+Ik heb vanuit de lessen custom attributes gebruikt. Denk aan de kleuren, maar heb dit ook toegevoegd om een duidelijke light/dark modus in te stellen. Hiermee kan ik in HTML al rekening houden met het verschil in content en boodschap tussen een lichte en donkere stand (de switch tussen "NEVER ENOUGH" en "YOU ARE ENOUGH").
 
 ### Vrijdag 11 sept - Voorbereiding
 
 **Opdracht 11 - 5 mobile-first**
 
 Ik ben bezig geweest met het maken van mijn mobile-first schetsen. Ik heb verschillende lay-outs geprobeerd waarbij ik wel dezelfde elementen steeds terug laat komen. 
-Ik vind het belangrijk dat het onderwerp van de site duidelijk is, deze staat daarom ook boven aan de website. Verder heb ik de teksten en categorieën op verschillende plekken geplaatst om de leesbaarheid te vergelijken. Voor het beeldgebruik ben ik gaan kijken naar vaste fotovakken, achtergrondafbeelding en zwevende beeldelementen. Ik heb een afwisseling gemaakt van koppen naast elkaar, een verdeling in kolommen en  onder elkaar geplaatste lijsten.
+Ik vind het belangrijk dat het onderwerp van de site duidelijk is, deze staat daarom ook boven aan de website. Verder heb ik de teksten en categorieën op verschillende plekken geplaatst om de leesbaarheid te vergelijken. Voor het beeldgebruik ben ik gaan kijken naar vaste fotovakken, achtergrondafbeelding en zwevende beeldelementen. Ik heb een afwisseling gemaakt van koppen naast elkaar, een verdeling in kolommen en  onder elkaar geplaatste lijsten. Ook heb ik de drie beste schetsen online uitgewerkt om nog een beter beeld te krijgen van het idee. 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f093a0d1-97b9-4411-8dd5-dfb690d86cc8" />
-
 
 **Deep Dive - Mooie kleuren, gradients en verlopen**
 
@@ -127,8 +219,7 @@ Uit mijn afbeeldingen kan ik vooral inspiratie halen uit de combinatie van clean
 
 Ik wil anderen laten nadenken over waarom we vaak het gevoel hebben dat iets nooit genoeg is. We willen steeds meer, beter, mooier of interessanter: nog één video kijken, nog iets kopen, nog harder werken of onszelf nog verder verbeteren. Ik wil laten zien dat dit gedrag heel normaal is geworden, maar dat we ons soms niet eens afvragen waarom we dit eigenlijk doen. Ik zie mijn Digital Garden voor me als een plek waar je dit gedrag zelf kunt ontdekken. Niet als een website die meteen alles uitlegt, maar als een verzameling van beelden, korte teksten, links en voorbeelden die je nieuwsgierig maken. De website mag zowel clean als rommelig zijn, zodat het contrast tussen perfectie en chaos zichtbaar wordt. Uiteindelijk wil ik dat iemand na het bekijken van mijn Garden denkt: “Doe ik dit zelf eigenlijk ook?”
 
-"Ik wil mijn Digital Garden laten gaan over het gevoel dat iets nooit genoeg is, zoals FOMO en de “just one more”-mindset, en wil dat laten zien door afbeeldingen, teksten, links en voorbeelden uit het dagelijks leven aan content te tonen. Ik begin met een stukje eigen content over waarom we steeds meer willen en waarom “genoeg” vaak niet genoeg voelt.
-Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe onderwerpen toe te voegen, zoals social media, perfectionisme, glow-up culture, productiviteit en de drang om steeds beter te worden".​
+"Ik wil mijn Digital Garden laten gaan over het gevoel dat iets nooit genoeg is, zoals FOMO en de “just one more”-mindset, en wil dat laten zien door afbeeldingen, teksten, links en voorbeelden uit het dagelijks leven aan content te tonen. Ik begin met een stukje eigen content over waarom we steeds meer willen en waarom “genoeg” vaak niet genoeg voelt. Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door nieuwe onderwerpen toe te voegen, zoals social media, perfectionisme, glow-up culture, productiviteit en de drang om steeds beter te worden".​
 
 **Opdracht 5 - Sfeerwoorden**
 Mijn onderwerp is Nooit genoeg zijn. De sfeer waarin ik denk is, onrustig, verlangend en prikkelend
@@ -388,7 +479,7 @@ Dingen die ik graag wil toepassen zijn:
 Een leuk eerste idee is bijvoorbeeld om “Just One More” letterlijk in de website te verwerken. De bezoeker krijgt bijvoorbeeld een knop met “One more?”. Na het klikken verschijnt er steeds iets nieuws. Hierdoor ervaart de bezoeker zelf hoe makkelijk het is om door te blijven gaan.
 
 3. Welke eigen content zou ik over het onderwerp kunnen schrijven?
-   Mijn eigen content zou vooral gaan over de kleine dingen die we dagelijks doen zonder er echt bij stil te staan. Het onderwerp Never Enough raakt mij omdat het zo herkenbaar is. Het idee van "nog één aflevering" of fomo maak ik zelf ook vaak mee.
+Mijn eigen content zou vooral gaan over de kleine dingen die we dagelijks doen zonder er echt bij stil te staan. Het onderwerp Never Enough raakt mij omdat het zo herkenbaar is. Het idee van "nog één aflevering" of fomo maak ik zelf ook vaak mee.
 
 De toon van de website wil ik herkenbaar, licht kritisch en een beetje speels maken. Het moet niet voelen alsof ik de bezoeker vertel dat hun gedrag fout is. Ik wil juist dat iemand denkt: “Oh shit, ik doe dit ook.”
 
@@ -402,7 +493,7 @@ Mijn belangrijkste onderwerpen zouden zijn:
 - Our Lives: Let's Romanticize Life, Main character syndrome, Bucket lists, slow living
 
 4. Gebruik ik content van anderen?
-   Voor mijn website wil ik zeker gebruikmaken van bestaande bronnen, bijvoorbeeld onderzoeken, statistieken, artikelen en inzichten van psychologen of andere experts. Deze gebruik ik vooral om mijn eigen verhaal te onderbouwen, niet om bestaande content simpelweg over te nemen.
+Voor mijn website wil ik zeker gebruikmaken van bestaande bronnen, bijvoorbeeld onderzoeken, statistieken, artikelen en inzichten van psychologen of andere experts. Deze gebruik ik vooral om mijn eigen verhaal te onderbouwen, niet om bestaande content simpelweg over te nemen.
 
 5. Op welke manier is de content te ervaren?
    Ik wil dat Never Enough niet alleen gelezen, maar ook ervaren wordt. De bezoeker zou bijvoorbeeld door middel van interactie kunnen ontdekken hoe het voelt om steeds meer te willen. Dit zijn een paar eerste ideeen die ik heb:
@@ -479,9 +570,7 @@ Ook zijn er een paar zaken die mij verwonderen:
 
 Ook ben ik naar de deep dive Interactie: MMD, micro-interacties, forms. Tijdens deze deepdive hebben we een opfrissing gekregen van interacties, hier kwam ik er achter dat ik dit eigenlijk nog super goed weet. En vond ik dat er weinig nieuwe dingen vertelt zijn. We hebben tijdens de les een begin gemaakt aan een ontwerp voor een take-away menu voor een noodleshop. Ik ben hier zelf niet heel ver mee gekomen, maar wil dit wel nog een keer afmaken als ik hier de tijd voor heb. Maar wil momenteel meer de focus leggen op html/css dan op figma.
 
-### 31 aug - Kickoff
-
-Een fork van de model repository gemaakt en gepubliceerd via mijn eigen Github omgeving.
+### maandag 31 aug - Check-out
 
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 
