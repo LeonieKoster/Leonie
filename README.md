@@ -217,7 +217,7 @@ Uiteindelijk heb ik ervoor gekozen om het eerste concept volledig uit te werken 
 **Opdracht 14 - eerste html opzet** 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52ff7ef4-affd-4ede-89ac-13597d384200" />
 
-Na verschillende manieren te hebben geprobeerd om de HTML-structuur op te zetten, ben ik uiteindelijk gekomen tot deze code-opbouw. De basis is logisch ingedeeld met een <header> met daarin het <h1>-element en een <nav> voor de navigatielinks, gevolgd door een <main>-tag voor de inhoud. Om mijn pagina’s betekenisvol te structureren, maak ik gebruik van <section>- en <article>-elementen om foto- en tekstblokken netjes van elkaar te scheiden.   
+Na verschillende manieren te hebben geprobeerd om de HTML-structuur op te zetten, ben ik uiteindelijk gekomen tot deze code-opbouw. De basis is logisch ingedeeld met een header met daarin het h1-element en een nav voor de navigatielinks, gevolgd door een main-tag voor de inhoud. Om mijn pagina’s betekenisvol te structureren, maak ik gebruik van section- en article-elementen om foto- en tekstblokken netjes van elkaar te scheiden.   
 
 Ik heb vanuit de lessen custom attributes gebruikt. Denk aan de kleuren, maar heb dit ook toegevoegd om een duidelijke light/dark modus in te stellen. Hiermee kan ik in HTML al rekening houden met het verschil in content en boodschap tussen een lichte en donkere stand (de switch tussen "NEVER ENOUGH" en "YOU ARE ENOUGH").
 
