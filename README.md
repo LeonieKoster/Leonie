@@ -27,6 +27,7 @@ Met behulp van een student-assistent heb ik een @media media query toegepast om 
 
 Op grotere schermen is er meer ruimte, dus worden de koppen en typografie vergroot (zoals font-size: 4rem en 2rem) om een duidelijke visuele hiërarchie en goede leesbaarheid te behouden. Door de margin-top te vergroten op specifieke secties (section:nth-of-type), krijgt de content op een breed scherm meer ademruimte, wat voorkomt dat. Door te werken met rem-eenheden schaalt de typografie en afstand netjes mee met de toegankelijkheidsinstellingen van de browser van de gebruiker.
 
+
 **Artikel: 5 Principes van Visueel Design in UX**
 
 Visueel ontwerp gaat verder dan het mooi of esthetisch aantrekkelijk maken van lay-outs. Wanneer het doordacht wordt toegepast, kan het de bruikbaarheid vergroten, emotie oproepen en de merkperceptie versterken. Dit kan op vijf manieren: 
