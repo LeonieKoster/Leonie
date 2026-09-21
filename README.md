@@ -23,7 +23,7 @@ Welk principe neem je mee in een laatste iteratie van je ontwerp? 
 **Responsiveness toegevoegd**
 
 
-<img width="380" height="888" alt="image" src="https://github.com/user-attachments/assets/554e09ea-5a1e-49f6-a9c9-55eae6538aa1" />
+<img width="180" height="588" alt="image" src="https://github.com/user-attachments/assets/554e09ea-5a1e-49f6-a9c9-55eae6538aa1" />
 
 Met behulp van een student-assistent heb ik een @media media query toegepast om de lay-out en typografie aan te passen voor verschillende grote schermen. Deze code bevordert op deze manier de responsiveness van mijn site. De standaard CSS richt zich op mobiele schermen. Pas vanaf een schermbreedte van 940px treden deze specifieke stijlen in werking, waardoor de site op elk apparaat optimaal schaalt.   
 
