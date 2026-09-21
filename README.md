@@ -34,7 +34,7 @@ Reflecteren en evalueren was een vast onderdeel van mijn hele ontwerpproces, ond
 ### vrijdag 18 september - Retrospect
 
 **1/2 Rangschikken**
-<img width="1920" height="1080" alt="Rangschikken" src="https://github.com/user-attachments/assets/c7f770a8-7b2c-4cdc-8bb2-2a5ca0f9c1b5" />
+<img width="1920" height="580" alt="Rangschikken" src="https://github.com/user-attachments/assets/c7f770a8-7b2c-4cdc-8bb2-2a5ca0f9c1b5" />
 
 De meest linker tekeningen zijn chaotisch en overvol. Er is geen duidelijke structuur of witruimte, waardoor het onleesbaar is en je niet weet waar je moet kijken. De tekeningen in het midden zijn al beter gestructureerd met kaders en titels. Maar zijn soms te leeg, te licht geschetst of niet goed in balans qua indeling. De paar aan de rechter kant zijn zeer overzichtelijk dankzij grote titels, duidelijke kaders en een perfecte balans tussen tekst, illustraties en rustgevende witruimte.
 
