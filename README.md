@@ -36,7 +36,7 @@ Reflecteren en evalueren was een vast onderdeel van mijn hele ontwerpproces, ond
 **1/2 Rangschikken**
 De meest linker tekeningen zijn chaotisch en overvol. Er is geen duidelijke structuur of witruimte, waardoor het onleesbaar is en je niet weet waar je moet kijken. De tekeningen in het midden zijn al beter gestructureerd met kaders en titels. Maar zijn soms te leeg, te licht geschetst of niet goed in balans qua indeling. De paar aan de rechter kant zijn zeer overzichtelijk dankzij grote titels, duidelijke kaders en een perfecte balans tussen tekst, illustraties en rustgevende witruimte.
 
-<img width="400" height="200" alt="Ontwerp zonder titel" src="https://github.com/user-attachments/assets/aee8a254-3f9f-4ab3-aa50-7913c0563ac6" />
+<img width="800" height="400" alt="Ontwerp zonder titel" src="https://github.com/user-attachments/assets/aee8a254-3f9f-4ab3-aa50-7913c0563ac6" />
 
 **1/2 Do’s en don’ts** 
 
