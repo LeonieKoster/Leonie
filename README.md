@@ -1,5 +1,45 @@
 ## Learning Log
 
+### Check out - maandag 21 september 
+- Wat zijn HTML landmark role elements?
+HTML landmark role elements zijn specifieke HTML-elementen die grote, structurele gebieden van een webpagina aanduiden. Ze helpen hulptechnologieën  zoals screenreaders en hun gebruikers om snel door een pagina te navigeren en te begrijpen hoe de pagina is opgebouwd.
+- Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+Heading elementen (<h1> tot en met <h6>) zijn HTML-tags die worden gebruikt om koppen en subkoppen op een pagina te definiëren. Ze geven de hiërarchische structuur van de tekst weer, vergelijkbaar met een inhoudsopgave van een boek. Ze moeten in een hiërarchische volgorde staan.Je kunt bijvoorbeeld nier van de <h1> opeens naar de <h4>. De koppen zijn er niet om tekst groter of vetter maken, maar voor de inhoudelijke structuur.  
+
+- Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+Ik klik net zoals vele andere denk ik altijd standaard op akkoord, aangezien ik geen zin heb om alle te lezen. Maar na deze college ga ik hier wel beter over nadenken. Vooral bij grotere sites, omdat ik denk dat die met meer andere sites mijn gegevens kunnen delen.
+
+### maandag 21 september - Algemene werkgroep 
+
+**Geïnformeerd cookies accepteren**
+<img width="2000" height="1414" alt="Geïnformeerd cookies accepteren" src="https://github.com/user-attachments/assets/2933b616-e56f-4bdb-a11b-3e745587e14c" />
+
+De drie cookie banners proberen bezoekers te sturen naar het accepteren van alle tracking door sturende vormgeving (UX) te gebruiken: de knop voor volledige toestemming heeft steeds een opvallende kleur (geel of groen), terwijl de weiger- of instelopties neutraal grijs of wit zijn. Bij De Volkskrant krijgt de bezoeker een uitgebreide tekst, maar leidt akkoord gaan tot het delen van privacy- en locatiegegevens met meer dan 100 externe partners voor advertentie-inkomsten. Bij Paradiso en Songhoy Blues is de tekst op het eerste scherm juist erg beknopt en zitten details verstopt achter tabbladen. Kies je op die sites voor "Liever niet", dan worden niet-noodzakelijke cookies geblokkeerd, maar werken embedded media (zoals YouTube-video's) niet meer direct.
+
+### Check out - vrijdag 18 september 
+
+- Oriënteren en begrijpen
+In de afgelopen weken heb ik geleerd dat oriënteren en begrijpen niet een beginfase is, maar een doorlopend proces dat vooral vormkrijgt door te doen. De docenten gaven deze opdracht met het doel om via een 'Digital Garden' niet alleen te leren coderen, maar ook om te begrijpen hoe semantische HTML en moderne CSS de structuur, toegankelijkheid en beleving van een site sturen. Met mijn overkoepelende thema "Never Enough" heb ik onderzocht hoe ik inhoud over onderwerpen als FOMO en overthinking kon vertalen naar het web. Qua techniek gebruik ik semantische HTML-elementen (<header>, <main>, <section>, <article>) voor een logische opbouw, gecombineerd met CSS-technieken zoals Grid, Flexbox, custom properties en media queries. Belangrijke randvoorwaarden hierbij waren de 'Webby'-principes (een volwassen, expressieve en schaalbare ervaring), een mobile-first benadering en het waarborgen van toegankelijkheid zoals kleurcontrast en toetsenbordnavigatie. Door te experimenteren met de code ontdekte ik dat HTML dient voor de inhoud van de site, terwijl CSS zorgt voor de visuele hiërarchie, verhoudingen, ademruimte en een soepele Schakeling tussen thema's.   
+
+- Verbeelden en conceptualiseren
+Verbeelden en conceptualiseren deed ik continu door ideeën visueel en technisch uit te proberen. Ik ben gestart met een Visual Research-fase waarin ik vier abstracte conceptposters maakte (Onrustig, Prikkelend, Verlangend en de Optische Tunnel), die ik via een Crazy Eights-sessie vertaalde naar acht verschillende lay-out-ideeën op papier. Door te schetsen zag ik meteen welke elementen werkelijk functioneerden op een klein scherm en welke teksten, bv de krappe verticale tekst MORE. in schets 3, te opgekropt raakten. Ik heb vervolgens drie concepten digitaal uitgewerkt voor mobiel om ze goed te kunnen vergelijken. Vervolgens ging ik ook 'spelen met het materiaal' in CSS: door te experimenteren met data-scheme ontdekte ik dat styling de inhoudelijke boodschap kan versterken, de twee verschillende stijlen van NEVER ENOUGH en YOU ARE ENOUGH. En door te testen met typografie zag ik hoe ik het gejaagde gevoel van de site visueel kracht bij kan zetten.   
+
+- Prototypen en uitwerken
+Het bouwen van werkende prototypes in HTML en CSS hielp mij om direct te toetsen of mijn ideeën in de praktijk standhielden. Door het prototype op mobiel formaat te testen werd duidelijk dat bezoekers de site het beste begrepen wanneer er sprake was van een hele heldere verticale stapeling en een duidelijke visuele hiërarchie. Tijdens feedbackmomenten met de docent (Vasilis) en medestudenten werd het concept "Never Enough" erg positief en herkenbaar ontvangen. Dankzij de deepdive leerde ik nieuwe dingen die het maken van een site veel makkelijker maken, zoals het ontdekken van custom properties en de light-dark(), waarmee je in één klap thema-stijlen door de hele pagina kunt aansturen.   
+
+- Evalueren
+Reflecteren en evalueren was een vast onderdeel van mijn hele ontwerpproces, ondersteund door de werkbladen en retrospects. Wat ik wilde weten en bereiken, was ontdekken hoe ik mijn ideeën over "Never Enough" kon omzetten in een toegankelijke, responsive en 'Webby' Digital Garden. Om daar achter te komen heb ik schetsen gemaakt, bronnen bestudeerd, opdrachten uitgewerkt, semantische HTML geschreven en CSS met media queries toegepast (met hulp van een student-assistent). Het resultaat is een tot nu toe simpele, schaalbaar prototype gebaseerd op Concept 1 met thema-switch via data-scheme. Ik weet nu hoe ik een mobile-first HTML/CSS-structuur moet opzetten en hoe media queries en typografie op grotere schermen werken; tegelijkertijd ben ik me er bewust van dat ik geavanceerde CSS Grids en ingewikkelde scroll-animaties nog niet volledig beheers. Ik vond het ontwerpen en het moment dat de responsiveness echt werkte ontzettend leuk, al was het puzzelen op complexe code soms erg uitdagend. Mijn prototype voldoet volgens mij aan alle voorwaarden en ik zie mijn eigen stijl en keuzes er helemaal in terug.   
+
+### vrijdag 18 september - Retrospect
+
+**1/2 Rangschikken**
+
+**1/2 Do’s en don’ts** 
+
+**2/2 Werkbladen**
+<img width="1920" height="1080" alt="retrospect" src="https://github.com/user-attachments/assets/458a0177-3996-4079-8fa8-84b1aec6953a" />
+
+Ik heb de werkbladen ingevuld. Ik zag de afgelopen twee weken als een achtbaan, met verschillende dalen en hoogtepunten maar een positieve finish. Ik ben de afgelopen twee weken echt op en neer gegaan met hoe ik mij voelde over school. Ik begon positief en met goede moed aan het blok, maar ik merkte al snel dat het best pittig was kwa schoolwerk en tijd die hierin gaat zitten. Ik had hier niet helemaal rekening mee gehouden, aangezien dit vorig jaar anders was. Hierdoor liep ik al gauw achter en een lesdag missen hielp hier ook niet bij. Maar uiteindelijk is het mij gelukt dit redelijk in te halen en tijdens de retrospect kreeg ik positieve feedback wat mij erg gerust heeft gesteld. Ik ga dan ook met goede moed de komende twee weken in. 
 
 ### Check out - woensdag 16 september 
 
