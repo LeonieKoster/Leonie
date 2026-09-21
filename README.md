@@ -20,7 +20,7 @@ De drie cookie banners proberen bezoekers te sturen naar het accepteren van alle
 ### Check out - vrijdag 18 september 
 
 - Oriënteren en begrijpen
-In de afgelopen weken heb ik geleerd dat oriënteren en begrijpen niet een beginfase is, maar een doorlopend proces dat vooral vormkrijgt door te doen. De docenten gaven deze opdracht met het doel om via een 'Digital Garden' niet alleen te leren coderen, maar ook om te begrijpen hoe semantische HTML en moderne CSS de structuur, toegankelijkheid en beleving van een site sturen. Met mijn overkoepelende thema "Never Enough" heb ik onderzocht hoe ik inhoud over onderwerpen als FOMO en overthinking kon vertalen naar het web. Qua techniek gebruik ik semantische HTML-elementen (<header>, <main>, <section>, <article>) voor een logische opbouw, gecombineerd met CSS-technieken zoals Grid, Flexbox, custom properties en media queries. Belangrijke randvoorwaarden hierbij waren de 'Webby'-principes (een volwassen, expressieve en schaalbare ervaring), een mobile-first benadering en het waarborgen van toegankelijkheid zoals kleurcontrast en toetsenbordnavigatie. Door te experimenteren met de code ontdekte ik dat HTML dient voor de inhoud van de site, terwijl CSS zorgt voor de visuele hiërarchie, verhoudingen, ademruimte en een soepele Schakeling tussen thema's.   
+In de afgelopen weken heb ik geleerd dat oriënteren en begrijpen niet een beginfase is, maar een doorlopend proces dat vooral vormkrijgt door te doen. De docenten gaven deze opdracht met het doel om via een 'Digital Garden' niet alleen te leren coderen, maar ook om te begrijpen hoe semantische HTML en moderne CSS de structuur, toegankelijkheid en beleving van een site sturen. Met mijn overkoepelende thema "Never Enough" heb ik onderzocht hoe ik inhoud over onderwerpen als FOMO en overthinking kon vertalen naar het web. Qua techniek gebruik ik semantische HTML-elementen (header, main, section, article) voor een logische opbouw, gecombineerd met CSS-technieken zoals Grid, Flexbox, custom properties en media queries. Belangrijke randvoorwaarden hierbij waren de 'Webby'-principes (een volwassen, expressieve en schaalbare ervaring), een mobile-first benadering en het waarborgen van toegankelijkheid zoals kleurcontrast en toetsenbordnavigatie. Door te experimenteren met de code ontdekte ik dat HTML dient voor de inhoud van de site, terwijl CSS zorgt voor de visuele hiërarchie, verhoudingen, ademruimte en een soepele Schakeling tussen thema's.   
 
 - Verbeelden en conceptualiseren
 Verbeelden en conceptualiseren deed ik continu door ideeën visueel en technisch uit te proberen. Ik ben gestart met een Visual Research-fase waarin ik vier abstracte conceptposters maakte (Onrustig, Prikkelend, Verlangend en de Optische Tunnel), die ik via een Crazy Eights-sessie vertaalde naar acht verschillende lay-out-ideeën op papier. Door te schetsen zag ik meteen welke elementen werkelijk functioneerden op een klein scherm en welke teksten, bv de krappe verticale tekst MORE. in schets 3, te opgekropt raakten. Ik heb vervolgens drie concepten digitaal uitgewerkt voor mobiel om ze goed te kunnen vergelijken. Vervolgens ging ik ook 'spelen met het materiaal' in CSS: door te experimenteren met data-scheme ontdekte ik dat styling de inhoudelijke boodschap kan versterken, de twee verschillende stijlen van NEVER ENOUGH en YOU ARE ENOUGH. En door te testen met typografie zag ik hoe ik het gejaagde gevoel van de site visueel kracht bij kan zetten.   
@@ -41,18 +41,18 @@ De meest linker tekeningen zijn chaotisch en overvol. Er is geen duidelijke stru
 **1/2 Do’s en don’ts** 
 
 Do's
--Gebruik een duidelijke titel: Maak de hoofdtitel groot en opvallend bovenaan de pagina, zodat direct helder is waar de aantekeningen over gaan.   
--Zorg voor een visuele hiërarchie: Werk met duidelijke hoofd- en subkoppen om structuur aan te brengen.   
--Gebruik kaders en containers: Groepeer bij elkaar horende informatie in kaders of vakken om het scanbaar te maken.   
--Bewaak de witruimte: Laat voldoende lege ruimte rondom tekst en illustraties voor een rustig en overzichtelijk beeld.   
--Combineer tekst en simpele beelden: Gebruik eenvoudige icoontjes en pijlverbindingen om de tekst krachtig te ondersteunen.   
+- Gebruik een duidelijke titel: Maak de hoofdtitel groot en opvallend bovenaan de pagina, zodat direct helder is waar de aantekeningen over gaan.   
+- Zorg voor een visuele hiërarchie: Werk met duidelijke hoofd- en subkoppen om structuur aan te brengen.   
+- Gebruik kaders en containers: Groepeer bij elkaar horende informatie in kaders of vakken om het scanbaar te maken.   
+- Bewaak de witruimte: Laat voldoende lege ruimte rondom tekst en illustraties voor een rustig en overzichtelijk beeld.   
+- Combineer tekst en simpele beelden: Gebruik eenvoudige icoontjes en pijlverbindingen om de tekst krachtig te ondersteunen.   
 
 Don'ts
--Prop de pagina niet vol: Vermijd een chaotische lay-out zonder duidelijke structuur of rustpunten.   
--Maak het niet te abstract: Voorkom grote, ingewikkelde tekeningen of kleurvlakken die de inhoud overschaduwen.   
--Sla de structuur niet over: Vermijd het willekeurig verspreiden van losse woorden en pijlen over het hele blad.   
--Tekenen zonder doel: Gebruik illustraties en symbolen niet als opvulling, maar puur om de informatie te verduidelijken.   
--Werken met te lichte schetsen: Zorg voor voldoende contrast; te dunne of lichtgrijze potloodlijnen maken de aantekeningen slecht leesbaar.
+- Prop de pagina niet vol: Vermijd een chaotische lay-out zonder duidelijke structuur of rustpunten.   
+- Maak het niet te abstract: Voorkom grote, ingewikkelde tekeningen of kleurvlakken die de inhoud overschaduwen.   
+- Sla de structuur niet over: Vermijd het willekeurig verspreiden van losse woorden en pijlen over het hele blad.   
+- Tekenen zonder doel: Gebruik illustraties en symbolen niet als opvulling, maar puur om de informatie te verduidelijken.   
+- Werken met te lichte schetsen: Zorg voor voldoende contrast; te dunne of lichtgrijze potloodlijnen maken de aantekeningen slecht leesbaar.
 
 **2/2 Werkbladen**
 <img width="1920" height="1080" alt="retrospect" src="https://github.com/user-attachments/assets/458a0177-3996-4079-8fa8-84b1aec6953a" />
