@@ -34,8 +34,25 @@ Reflecteren en evalueren was een vast onderdeel van mijn hele ontwerpproces, ond
 ### vrijdag 18 september - Retrospect
 
 **1/2 Rangschikken**
+<img width="1920" height="1080" alt="Rangschikken" src="https://github.com/user-attachments/assets/c7f770a8-7b2c-4cdc-8bb2-2a5ca0f9c1b5" />
+
+De meest linker tekeningen zijn chaotisch en overvol. Er is geen duidelijke structuur of witruimte, waardoor het onleesbaar is en je niet weet waar je moet kijken. De tekeningen in het midden zijn al beter gestructureerd met kaders en titels. Maar zijn soms te leeg, te licht geschetst of niet goed in balans qua indeling. De paar aan de rechter kant zijn zeer overzichtelijk dankzij grote titels, duidelijke kaders en een perfecte balans tussen tekst, illustraties en rustgevende witruimte.
 
 **1/2 Do’s en don’ts** 
+
+Do's
+-Gebruik een duidelijke titel: Maak de hoofdtitel groot en opvallend bovenaan de pagina, zodat direct helder is waar de aantekeningen over gaan.   
+-Zorg voor een visuele hiërarchie: Werk met duidelijke hoofd- en subkoppen om structuur aan te brengen.   
+-Gebruik kaders en containers: Groepeer bij elkaar horende informatie in kaders of vakken om het scanbaar te maken.   
+-Bewaak de witruimte: Laat voldoende lege ruimte rondom tekst en illustraties voor een rustig en overzichtelijk beeld.   
+-Combineer tekst en simpele beelden: Gebruik eenvoudige icoontjes en pijlverbindingen om de tekst krachtig te ondersteunen.   
+
+Don'ts
+-Prop de pagina niet vol: Vermijd een chaotische lay-out zonder duidelijke structuur of rustpunten.   
+-Maak het niet te abstract: Voorkom grote, ingewikkelde tekeningen of kleurvlakken die de inhoud overschaduwen.   
+-Sla de structuur niet over: Vermijd het willekeurig verspreiden van losse woorden en pijlen over het hele blad.   
+-Tekenen zonder doel: Gebruik illustraties en symbolen niet als opvulling, maar puur om de informatie te verduidelijken.   
+-Werken met te lichte schetsen: Zorg voor voldoende contrast; te dunne of lichtgrijze potloodlijnen maken de aantekeningen slecht leesbaar.
 
 **2/2 Werkbladen**
 <img width="1920" height="1080" alt="retrospect" src="https://github.com/user-attachments/assets/458a0177-3996-4079-8fa8-84b1aec6953a" />
