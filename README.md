@@ -3,6 +3,7 @@
 ### Check out - maandag 21 september 
 - Wat zijn HTML landmark role elements?
 HTML landmark role elements zijn specifieke HTML-elementen die grote, structurele gebieden van een webpagina aanduiden. Ze helpen hulptechnologieën  zoals screenreaders en hun gebruikers om snel door een pagina te navigeren en te begrijpen hoe de pagina is opgebouwd.
+
 - Wat zijn heading elementen en hoe horen deze 'genest' te worden?
 Heading elementen (<h1> tot en met <h6>) zijn HTML-tags die worden gebruikt om koppen en subkoppen op een pagina te definiëren. Ze geven de hiërarchische structuur van de tekst weer, vergelijkbaar met een inhoudsopgave van een boek. Ze moeten in een hiërarchische volgorde staan.Je kunt bijvoorbeeld nier van de <h1> opeens naar de <h4>. De koppen zijn er niet om tekst groter of vetter maken, maar voor de inhoudelijke structuur.  
 
