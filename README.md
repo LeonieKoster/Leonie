@@ -1,6 +1,47 @@
 ## Learning Log
 
-### Voorbereidingen - woensdag 23 september 
+### Voorbereidingen - Maandag 28 sept 
+Verder werken aan de HTML, CSS (en JS) voor je informed consent oplossing.
+
+**Deep dive position + dialogs doen**
+
+**Bi-weekly Geek**
+Artikelen gelezen en video's bekeken voor de bi-weekly geek en hierbij aantekening gemaakt.
+
+**Video: The Internet Just Changed** 
+
+**Artikel: ChatGPT faces tougher rules under EU online safety regime**
+
+**Artikel: AI chatbots citing Russian propaganda sourced from EU-sanctioned outlet**
+
+### Vrijdag 25 sept - algemene werkgroep 
+
+**Opdracht 21: HTML valideren** 
+
+### Voorbereidingen - vrijdag 25 sept
+
+**Schets van human consent component**
+
+**Begin aan HTML structuur**
+
+**Deep dive: S2 - Buttons + Dialogs**
+
+### Woensdag 23 sept - Check out
+
+1. Wat is een wireflow en wat heb je er aan?
+2. Wat zijn dark UX patterns? Geef drie voorbeelden...
+3. Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+
+### Woensdag 23 sept - Algemene werkgroep 
+
+**Opdracht 18: Nette Wireframes en een Wireflow**
+
+**Opdracht 19: Dark Pattern Herontwerp**
+
+**Opdracht 20: Human Consent Component**
+
+### Voorbereidingen - woensdag 23 sept
+Aantekeningen gemaakt na het lezen/bekijken van de artikelen of video's die we als huiswerk hadden gekregen voor woensdag. 
 
 **Artikel: Deceptive Patterns in UX: How to Recognize and Avoid Them**
 
