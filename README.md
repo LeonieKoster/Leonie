@@ -300,11 +300,24 @@ Wel loop ik nog tegen het probleem aan dat de site er niet goed uitziet op mijn 
 
 ### Deep dive grid 101 + media queries 
 
+Voorbereidingen op de deepdive: 
+
+Ik heb de video's gekeken en heb hierna het spelletje gedaan om even in te komen. Ik merk dat ik het nog erg lastig vind om met grid te werken. Hoe verder in het spelletje hoe langer ik erover deed. Ook is het mij niet gelukt om alle levels te halen met level 26 had ik veel moeite en snap nog steeds niet wat nou het juiste antwoord is. 
+<img width="400" height="200" alt="GRID GARDEN" src="https://github.com/user-attachments/assets/a57ce730-1cc8-4ff5-ada7-ba9076b61e94" />
+
 Ik heb een begin gemaakt aan de deepdive, maar merk dat ik er nog enorm veel moeite mee heb. Van de eerste opdracht gingen de eerste paar sommetjes prima tot sommetje 7, hier kreeg ik echt meer moeite en heb ik regelmatig naar de antwoorden gekeken. Het is me uiteindelijk gelukt om alle sommetje behalve 11 te maken. 
 
 <img width="1920" height="1080" alt="deepdive grid" src="https://github.com/user-attachments/assets/c3da562f-ff41-472c-b0c7-8e0770bd27bb" />
 
-Ik heb nog geen tijd gehad om naar de rest van de deepdive te kijken.
+De tweede opdracht ging me een stuk makkelijker af. Ik heb na de eerste opdracht de video's die als voorbereiding benoemd werden opnieuw gekeken en hierbij echt gekeken naar punten die ik lastig vind. Dit had een positieve invloed. Wel vond ik het af en toe nog steeds lastig, maar vergat ik ook vaker wat tekens (punt,komma etc) waardoor het sowieso niet soepel ging.
+
+<img width="1470" height="845" alt="Scherm­afbeelding 2026-09-25 om 17 05 28" src="https://github.com/user-attachments/assets/9ef4c682-3921-4f30-8614-d9367a82d869" />
+
+Met de derde en laatste opdracht had ik wel weer wat meer moeite, maar dit zat hem meer in de flexbox elementen die weer een beetje waren weg gezakt. Ik heb af en toe op de antwoorden gekeken, maar begreep toen wel wat ik miste of verkeerd deed. 
+
+<img width="400" height="200" alt=" Responsive webshop  " src="https://github.com/user-attachments/assets/653cc358-e4e0-456d-86c7-217cf737922f" />
+
+Na de opdrachten is werken met een grid mij wel iets duidelijker geworden, maar ik blijf het lastig vinden. En zou niet weten hoe ik dat nu in mijn bestaande website moet toepassen. 
 
 ### Check-out vrijdag 11 sept
 
