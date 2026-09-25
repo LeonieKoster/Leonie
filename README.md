@@ -1,5 +1,83 @@
 ## Learning Log
 
+### Voorbereidingen - woensdag 23 september 
+
+**Artikel: Deceptive Patterns in UX: How to Recognize and Avoid Them**
+
+Misleidende patronen bevorderen bedrijfsresultaten ten koste van de gebruiker. Ontwerpers moeten misleidende patronen vermijden door hun ontwerpen zorgvuldig te evalueren. 
+
+Misleidende patronen zijn ontwerpen die de gebruiker dwingen een actie te ondernemen die niet in hun eigen belang is. Ze komen heel veel voor op het web omdat ze fenomenaal effectief zijn in het verhogen van conversies. Het gebruik is alleen onethisch en juridisch problematisch. Het schaad gebruikers door financieel verlies, verlies van privacy en verlies van juridische controle te veroorzaken. 
+
+Het concept misleidend patroon is in 2010 bedacht door Harry Brignull. Het was een woordspeling op de term ontwerppatroon, wat verwijst naar een gebruikelijk gebruikersinterface-ontwerp voor een specifieke ervaring. 
+
+Misleidende patronen zijn deels te verwijten aan: 
+    - A/B testen en de focus op conversie: De toenemende populariteit van a/b- en multivariatie-testen om conversies te optimaliseren heeft geleid tot een toename in het gebruik van misleidende ontwerp patronen. 
+    - Kopieergedrag: veel bedrijven imiteren de ontwerpen van hun concurrenten. Dit heeft geleid tot verspreiding en vermeende legitimering van misleidende patronen. 
+
+Er zijn veel misleidende patronen dit zijn wat voorbeelden: 
+- Obstructie (Obstruction): dit is het moeilijk maken voor een gebruiker om een keuze t maken die het bedrijf niet ten goede komt. 
+- Visuele of taalkundige trucs (Visual or wording tricks): wanneer een ontwerp gebruikt maakt van de grenzen van de menselijke cognitie, inspeelt op cognitieve bases of de verwachtingen van gebruikers verstoort door bekende ontwerp patronen te doorbreken. 
+- Zeuren (Nagging): gebruikers voortdurende blijven vragen om ergens mee akkoord te gaan, zelfs als ze dat verzoek al eerder hebben afgewezen. 
+- Emotioneel manipulatieve ontwerpen (Emotionally manipulative designs): wanneer ontwerpen gebruikers afschrikken, een schuldgevoel aanpraten of beschaamd maken om hen een keuze te laten maken die het bedrijf bevoordeelt. 
+- Stiekem toevoegen of vooraf selecteren (Sneaking or preselection): Wanneer er tijdens het bestelproces automatisch extra artikelen aan het winkelmandje worden toegevoegd of opties worden vooraf geselecteerd die niet noodzakelijk zijn. 
+
+**Artikel: What are dark patterns in UX?** 
+
+Bedrijven bouwen vaak slimme trucs in hun apps en websites om mensen ongemerkt geld te laten uitgeven, abonnementen aan te praten of gegevens te ontfutselen.
+
+Een dark pattern is zo'n ontwerptruc die de belangen van het bedrijf boven die van de klant stelt. Er wordt hierbij misbruik gemaakt van de menselijke gewoonte om snel over een pagina te scannen in plaats van alles rustig te lezen. Omdat knoppen of teksten op een vertrouwde plek staan, klikken mensen automatisch door, om pas achteraf te ontdekken dat ze ergens aan vastzitten.
+
+Deze misleidende patronen zijn onder te verdelen in een tiental duidelijke categorieën. Bedrijven verbergen bijvoorbeeld extra kosten tot aan de kassa, maken het aanmelden heel makkelijk maar het opzeggen een doolhof, of praten de gebruiker een schuldgevoel aan als die een aanbieding weigert. Ook worden er ongemerkt spullen in het winkelmandje gestopt, worden advertenties vermomd als gewone knoppen, of worden er verwarrende strikvragen gesteld in formulieren. Daarnaast wordt de druk verhoogd door te beweren dat een product bijna is uitverkocht, of worden prijzen bewust onvergelijkbaar gemaakt.
+
+Hoewel dit op de korte termijn meer oplevert, is het op de lange termijn schadelijk. Gebruikers die zich opgelicht voelen verliezen hun vertrouwen, haken af en laten slechte beoordelingen achter. Goed UX-design hoort te draaien om transparantie en het helpen van de klant, niet om misleiding.
+Ontwerpers kunnen dit voorkomen door opzegknoppen even duidelijk te maken als aanmeldknoppen, duidelijke taal te spreken en het ontwerp te testen met echte mensen. Ook moeten ontwerpers binnen hun organisatie het gesprek aangaan met de verkoopafdeling om te laten zien dat eerlijkheid op de lange termijn meer oplevert dan snelle, misleidende winst.
+
+**Video: Don’t Trick Users: 2 Ways to Avoid Deceptive Design Patterns**
+
+Misleidende patronen in interface-ontwerp maken het lastig voor mensen om te bereiken wat ze willen, of verleiden hen tot acties die ze nooit van plan waren. Dit bewust toepassen is onethisch en kortzichtig: 
+- Het richt zich op gewin op de korte termijn 
+- Negeert het opbouwen van vertrouwen en klantbehoud op de lange termijn.
+
+Misleiding gebeurt niet opzettelijk, maar de impact is voor de klant exact hetzelfde. Misleiding zit in de beleving van de gebruiker. Als iemand zich misleid voelt, controleert diegene niet de theorie, maar vertrekt simpelweg met een slechte ervaring, waardoor je een klant kwijt bent. Om dit te voorkomen moeten ontwerpers zichzelf twee vragen stellen: 
+- Wie heeft het meeste baat bij dit ontwerp? 
+Als dit voornamelijk het bedrijf is, dan is het eerlijk kijken naar het antwoord noodzakelijk. Op korte termijn levert  levert het meer conversie op. De omzet stijft direct, maar een groot deel van de klanten blijkt achteraf verward en geer
+
+Om dit te voorkomen moeten ontwerpers zichzelf vanaf het begin twee cruciale vragen stellen:
+
+Ten eerste: Wie heeft het meeste baat bij dit ontwerp? Eerlijk kijken naar het antwoord is noodzakelijk als dit voornamelijk het bedrijf is. Misleiding ontstaat vaak door een sterke focus op A/B-testen, waarbij keuzes die op de korte termijn meer conversie opleveren juichend worden ingevoerd. Denk aan het automatisch aanmelden van mensen voor een betaald abonnement. De omzet stijgt weliswaar direct, maar een groot deel van die klanten blijkt achteraf verward en gefrustreerd. Dit is snel te achterhalen door naar de verhouding tussen aanmeldingen en opzeggingen te kijken of navraag te doen bij de klantenservice.
+
+Ten tweede: Hoe goed sluit dit ontwerp aan bij de verwachtingen van de gebruiker?  Ontwerpen voelen als een truc wanneer ze zich anders gedragen dan verwacht, oftewel wanneer ze niet aansluiten bij het mentale model van de gebruiker. Dit gebeurt vaak bij bekende patronen zoals verborgen kosten of nep-schaarste . Zelfs zonder slechte intenties — zoals een pinautomaat in een restaurant die automatisch een fooi van 35% selecteert — voelt de klant zich achteraf opgelicht.
+Onbedoelde misleiding vormt een van de grootste risico's voor organisaties . Door tijdens gebruikerstests scherp te letten op onverwacht gedrag en door langdurig onderzoek te doen, kunnen deze problemen proactief worden opgelost voordat het vertrouwen van de klant wordt beschadigd.
+
+**Video: Microinteractions: Design with Details**
+
+Het verschil tussen een product waar gebruikers van houden en een product dat ze slechts tolereren, zit in de details: de micro-interacties. Waar ontwerpers vaak gefocust zijn op grote, complexe functionaliteiten (features), zijn het juist deze kleine, op zichzelf staande functies die de algehele gebruikerservaring maken of breken.
+Een verkeerd ontworpen micro-interactie (zoals een telefoon waarvan het alarm wél afgaat terwijl de ringer op stil staat) kan enorme frustratie veroorzaken, terwijl een goed doordacht detail juist voor vreugde en loyaliteit zorgt.
+
+Het onderscheid: Micro-interactie vs. Feature
+Feature: Een complexer onderdeel met meerdere doelen of scenario's (bijv. een complete e-mailclient of een geavanceerd dashboard).
+Micro-interactie: Eén specifieke actie die één ding heel goed doet. Denk aan het dempen van het geluid van je telefoon, het leuk vinden van een bericht (de Like-button), of het aanpassen van een enkele instelling.
+
+De 4 bouwstenen van elke micro-interactie
+- Triggers (De aanleiding): Dit is wat de interactie start. Er zijn twee typen:
+        - Handmatig: De gebruiker onderneemt bewust actie (klikken, swipen, een knop indrukken).
+        - Systeem: Het systeem start de actie automatisch op basis van condities (bijv. de Nest-thermostaat die oplicht als je erbij in de buurt loopt, of een app die herkent dat je een pakketcode op je klembord hebt gekopieerd).
+- Rules (De regels): De logica die bepaalt wat er gebeurt nadat de trigger is geactiveerd. Wat kan het systeem wel en niet doen? Goede regels voorkomen menselijke fouten (zoals Gmail dat waarschuwt als het woord "bijlage" in de tekst staat, maar er niets is toegevoegd).
+- Feedback (De reactie): Omdat regels onzichtbaar zijn, begrijpen gebruikers het systeem alleen via feedback. Dit kan visueel, auditief of haptisch zijn. Feedback moet menselijk aanvoelen en slim gebruikmaken van bestaande elementen in het ontwerp (bijv. een 'Verstuur'-knop die direct verandert in een voortgangsbalk).
+- Loops & Modes (De meta-onderdelen)
+        - Modes: Tijdelijke standen voor uitzonderlijke acties (bijv. een stad toevoegen in een weer-app), mits ze het proces niet onderbreken.
+        - Loops: Bepalen hoe een interactie mee verandert over de tijd. Wat gebeurt er als iemand een knop voor de honderdste keer gebruikt? (bijv. knoppen die veranderen in "Koop opnieuw" of indicatoren die slijtage/voortgang over langere tijd tonen).
+
+Praktische ontwerpprincipes
+- Breng data naar voren: Laat informatie al op het hoogste niveau zien, zodat gebruikers het systeem niet helemaal in hoeven te duiken (zoals live tegels op een startscherm).
+- Start niet vanaf nul: Gebruik context (zoals de tijd, locatie of bekende gebruikerstrends) om slimme aannames te doen, bijvoorbeeld een navigatie-app die automatisch je thuisadres voorstelt aan het einde van de werkdag.
+- Spreek mensentaal: Maak feedback herkenbaar, visueel of lichtvoetig als een actie mislukt of lang duurt.
+
+Door grote functionaliteiten op te breken in een reeks van goed uitgedachte micro-interacties, ontstaat een product met oog voor detail. Echte kwaliteit en zorg voor de gebruiker worden zichtbaar in hoe deze kleine momenten zijn afgewerkt.
+
+**Deep-dive S2 - Buttons, states en selectors (Vasilis)**
+
+
 ### Check out - maandag 21 september 
 1. Wat zijn HTML landmark role elements?
 
