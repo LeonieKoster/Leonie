@@ -117,6 +117,9 @@ Praktische ontwerpprincipes
 Door grote functionaliteiten op te breken in een reeks van goed uitgedachte micro-interacties, ontstaat een product met oog voor detail. Echte kwaliteit en zorg voor de gebruiker worden zichtbaar in hoe deze kleine momenten zijn afgewerkt.
 
 **Deep-dive S2 - Buttons, states en selectors (Vasilis)**
+Ik heb de deep-dive als voorbereiding van de les gedaan en moet zeggen dat ik dit eigenlijk best makkelijk vond. Na het lezen van de bijgevoegde artikelen en de informatie in dlo, was het voor mij duidelijk hoe je de verschillende States moet stylen. De opdrachten gingen mij daarom makkelijk af.
+
+<img width="1920" height="1080" alt="_Buttons, states en selectors" src="https://github.com/user-attachments/assets/77b54356-655f-43c6-ae76-5faaac2a0378" />
 
 
 ### Check out - maandag 21 september 
