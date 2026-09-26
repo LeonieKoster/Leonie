@@ -198,10 +198,13 @@ Welk principe neem je mee in een laatste iteratie van je ontwerp? 
 - Heel eerlijk denk ik dat ik momenteel nog geen van de principes meeneem in mijn ontwerp, ik wil in de toekomst hier wel meer mee werken.
 
 ### Voorbereiding woensdag 16 september
+
 **Deep dive responsive grid + grid-areas**
+Ik ben bezig geweest met de deep dive. Ik merkte dat ik nog steeds wel wat moeite had, maar ik deze manier van uitleg wel heel fijn vind. Ik heb al drie de oefeningen gedaan en het ging me eigenlijk redelijk goed af, op een paar punten na. Maar nadat ik hiervoor de antwoorden had bekeken zag ik was ik fout deed en wat dit ook wel duidelijk. 
+
+<img width="1920" height="1080" alt="Deepdive" src="https://github.com/user-attachments/assets/4b04e26c-21ee-4850-bcc0-68d095c97b9c" />
 
 **Responsiveness toegevoegd**
-
 
 <img width="290" height="544" alt="image" src="https://github.com/user-attachments/assets/554e09ea-5a1e-49f6-a9c9-55eae6538aa1" />
 
