@@ -25,6 +25,7 @@ Artikelen gelezen en video's bekeken voor de bi-weekly geek en hierbij aantekeni
 **Begin aan HTML structuur**
 
 **Deep dive: S2 - Buttons + Dialogs**
+
 Ik ben bezig geweest met de deep dive. Het eerste stuk "buttons" vond ik wel te doen en begreep ik ook goed. Maar het tweede deel over dialogs vond ik erg lastig, ook werkte het voorbeeld niet zo goed waardoor je niet precies het effect kreeg wat we moeten krijgen. Hierdoor was het erg lastig om te zien of ik het nou goed deed, omdat er niks in het voorbeeld veranderde. Uiteindelijk heb ik de code's vergeleken en was dit aardig gelijk. 
 
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/e8c3ef8e-7913-405e-9cd8-3ac09b9c1f76" />
