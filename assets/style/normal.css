@@ -75,14 +75,14 @@ body {
   font-family: "BebasNeue", sans-serif;
 }
 
-.cookie {
+cookie {
   position: fixed;
   left: 1rem;
   bottom: 1rem;
   z-index: 100;
 }
 
-.cookie > button {
+cookie button {
   background: none;
   border: none;
   padding: 0;
@@ -90,7 +90,7 @@ body {
   display: flex;
 }
 
-.cookie button img {
+cookie button img {
   width: 4rem;
   height: auto;
 }
@@ -116,14 +116,14 @@ dialog form {
   background-color: var(--bg-roodblauw);
 }
 
-dialog header h1 {
+intro h1 {
   font-size: 2.5rem;
   margin-bottom: -1rem;
   color: var(--bg-lichtroze);
   text-align: center;
 }
 
-dialog header p {
+intro p {
   font-size: 0.9rem;
   line-height: 1.5;
   color: var(--tekst-wit);
@@ -131,7 +131,7 @@ dialog header p {
   text-align: center;
 }
 
-dialog section {
+dialog blok {
   background-color: var(--bg-lichtroze);
   border-radius: 1rem;
   padding: 1rem 1.25rem;
@@ -139,7 +139,14 @@ dialog section {
   margin-top: -1rem;
 }
 
-dialog section h2 {
+dialog blok2 {
+  background-color: var(--bg-lichtroze);
+  border-radius: 1rem;
+  padding: 1rem 1.25rem;
+  display: block;
+}
+
+blok h2 {
   font-size: 1.3rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -148,7 +155,7 @@ dialog section h2 {
   margin-top: 0;
 }
 
-dialog section ul {
+blok ul {
   margin: 0;
   padding-left: 1.25rem;
   font-size: 0.9rem;
@@ -157,18 +164,11 @@ dialog section ul {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-dialog section li {
+blok li {
   padding-left: 1rem;
 }
 
-dialog footer {
-  background-color: var(--bg-lichtroze);
-  border-radius: 1rem;
-  padding: 1rem 1.25rem;
-  display: block;
-}
-
-dialog footer p {
+blok2 p {
   margin: 0;
   font-size: 0.9rem;
   line-height: 1.5;
@@ -185,7 +185,6 @@ dialog form button {
   align-self: center;
   font-family: "BebasNeue", sans-serif;
   font-size: 1.2rem;
-  border: none;
 }
 
 dialog form button:hover {
@@ -193,7 +192,18 @@ dialog form button:hover {
   color: var(--tekst-wit);
 }
 
-.site-header {
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+header {
   position: fixed;
   top: 0;
   inset-inline: 0;
@@ -213,13 +223,13 @@ dialog form button:hover {
   background-color: var(--bg-roodblauw);
 }
 
-.site-header h1 {
+header h1 {
   color: var(--color-rozepaars);
   font-size: 2.5rem;
   letter-spacing: 0.1em;
 }
 
-.site-header nav a {
+header nav a {
   color: var(--color-rozepaars);
   text-decoration: none;
   margin-right: 2.5rem;
@@ -344,7 +354,7 @@ section:nth-of-type(3) ul {
     font-size: 1.5rem;
   }
 
-  .site-header nav a {
+  header nav a {
     font-size: 1.5rem;
   }
   section:nth-of-type(3) h2 {
