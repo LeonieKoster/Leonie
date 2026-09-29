@@ -1,67 +1,122 @@
 <!doctype html>
-<html lang="nl">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="jouw naam" />
-    <meta name="color-scheme" content="dark light" />
-
-    <title>Digital garden van ...</title>
-    <link rel="stylesheet" href="./css/normal.css" />
-
-    <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
+    <meta name="author" content="[jouw naam]" />
+    <link rel="stylesheet" href="./assets/style/normal.css" />
     <script
-      data-page="https://example.com"
-      src="https://digitaaltuintje.nl/webring.js"
+      data-page="https://tuintjevanleonie.nl"
+      src="https://tuintjevanleonie.nl/webring.js"
       defer
     ></script>
+    <title>Never Enough</title>
   </head>
   <body>
-    <header>
-      <h1>Digital garden van ...</h1>
+    <header class="site-header">
+      <h1 data-scheme="light">NEVER ENOUGH</h1>
+      <h1 data-scheme="dark">YOU ARE ENOUGH</h1>
       <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="https://github.com/account/repo">Learning Log</a></li>
-        </ul>
+        <a href="minds.html">OUR MINDS</a>
+        <a href="bodies.html">OUR BODIES</a>
+        <a href="lives.html">OUR LIVES</a>
+        <a href="online.html">ONLINE</a>
       </nav>
     </header>
 
+    <aside class="cookie">
+      <button commandfor="mode-dialog" command="show-modal">
+        <img src="assets/koek.svg" alt="Cookie icoon" />
+      </button>
+
+      <dialog id="mode-dialog">
+        <form method="dialog">
+          <header class="dialog-header">
+            <h1>Welkom op mijn Digitale Tuin!</h1>
+            <p>
+              Ik hou van openheid. Hier zie je precies welke technieken op de
+              achtergrond draaien en wat er met jouw privacy gebeurt.
+            </p>
+          </header>
+
+          <section>
+            <h2>WELKE EXTERNE SYSTEMEN DRAAIEN ER MEE?</h2>
+            <ul>
+              <li>
+                <strong> GitHub Pages:</strong> Verzorgt de technische hosting
+                en het online houden van deze site.
+              </li>
+              <li>
+                <strong> Digitaaltuintje Webring Component:</strong> Koppelt dit
+                platform aan het bredere netwerk van digitale tuinen.
+              </li>
+            </ul>
+          </section>
+
+          <footer>
+            <p>
+              <strong> Eerlijk & transparant:</strong> De rest van deze site heb
+              ik 100% zelf ontworpen en gebouwd. Geen stiekeme
+              advertentienetwerken, geen commerciële trackers en geen onnodige
+              cookies.
+            </p>
+          </footer>
+
+          <button>Sluiten</button>
+        </form>
+      </dialog>
+    </aside>
+
     <main>
-      <article>
-        <h2>Een titel</h2>
+      <section>
+        <img
+          src="assets/beginpagina.jpg"
+          alt="Zwart-wit portret van een vrouw bij een spiegel"
+        />
+      </section>
 
-        <p>Alinea...</p>
-      </article>
+      <section>
+        <article>
+          <h2 data-scheme="light">
+            Je hebt genoeg. Maar waarom voelt het niet zo?
+          </h2>
+          <h2 data-scheme="dark">Je hebt genoeg. Je hebt niks meer nodig</h2>
+          <p data-scheme="light">
+            We willen altijd meer. Maar waar komt dat verlangen vandaag? En
+            wanneer wordt meer eigenlijk genoeg?
+          </p>
+          <p data-scheme="dark">
+            Je hoeft niet altijd meer te willen. Rust begint waar de drang naar
+            meer ophoudt.
+          </p>
+        </article>
+      </section>
 
-      <article>
-        <h2>Nog een titel</h2>
+      <section>
+        <article>
+          <h2><strong>MORE</strong></h2>
+          <ul data-scheme="light">
+            <li>money.</li>
+            <li>likes.</li>
+            <li>beauty.</li>
+            <li>attention.</li>
+            <li>experiences.</li>
+            <li>productivity.</li>
+            <li>life.</li>
+          </ul>
 
-        <p>Nog een alinea...</p>
-      </article>
+          <ul data-scheme="dark">
+            <strong>ENOUGH</strong>
+            <li>money.</li>
+            <li>likes.</li>
+            <li>beauty.</li>
+            <li>attention.</li>
+            <li>experiences.</li>
+            <li>productivity.</li>
+            <li>life.</li>
+          </ul>
+        </article>
+      </section>
     </main>
-
-    <footer>
-      <nav>
-        <button commandfor="cookieModal" command="show-modal">
-          <span>Allow cookies?</span>
-        </button>
-      </nav>
-    </footer>
-
-    <dialog id="cookieModal">
-      <form method="dialog">
-        <p lang="en">
-          We use cookies to personalise content and ads, to provide social media
-          features and to analyse our traffic. We also share information about
-          your use of our site with our social media, advertising and analytics
-          partners who may combine it with other information that you’ve
-          provided to them or that they’ve collected from your use of their
-          services.
-        </p>
-        <button onclick="setCookie()">Allow</button>
-        <button onclick="unsetCookie()">Deny</button>
-      </form>
-    </dialog>
   </body>
 </html>
