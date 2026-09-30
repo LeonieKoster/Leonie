@@ -76,14 +76,14 @@ body {
   font-family: "BebasNeue", sans-serif;
 }
 
-cookie {
+aside {
   position: fixed;
   left: 1rem;
   bottom: 1rem;
   z-index: 100;
 }
 
-cookie button {
+aside button {
   background: none;
   border: none;
   padding: 0;
@@ -91,7 +91,7 @@ cookie button {
   display: flex;
 }
 
-cookie button img {
+aside button img {
   width: 4rem;
   height: auto;
 }
