@@ -117,14 +117,14 @@ dialog form {
   background-color: var(--bg-roodblauw);
 }
 
-intro h1 {
+hgroup h1 {
   font-size: 2.5rem;
   margin-bottom: -1rem;
   color: var(--bg-lichtroze);
   text-align: center;
 }
 
-intro p {
+hgroup p {
   font-size: 0.9rem;
   line-height: 1.5;
   color: var(--tekst-wit);
@@ -132,7 +132,7 @@ intro p {
   text-align: center;
 }
 
-dialog blok {
+dialog section:nth-of-type(1) {
   background-color: var(--bg-lichtroze);
   border-radius: 1rem;
   padding: 1rem 1.25rem;
@@ -140,23 +140,7 @@ dialog blok {
   margin-top: -1rem;
 }
 
-dialog blok2 {
-  background-color: var(--bg-lichtroze);
-  border-radius: 1rem;
-  padding: 1rem 1.25rem;
-  display: block;
-}
-
-blok h2 {
-  font-size: 1.3rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--color-roodblauw);
-  margin-bottom: 0.75rem;
-  margin-top: 0;
-}
-
-blok ul {
+dialog section:nth-of-type(1) ul {
   margin: 0;
   padding-left: 1.25rem;
   font-size: 0.9rem;
@@ -165,11 +149,36 @@ blok ul {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-blok li {
+dialog section:nth-of-type(1) ul {
+  margin: 0;
+  padding-left: 1.25rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  list-style: "✓";
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+dialog section:nth-of-type(1) li {
   padding-left: 1rem;
 }
 
-blok2 p {
+dialog section:nth-of-type(2) {
+  background-color: var(--bg-lichtroze);
+  border-radius: 1rem;
+  padding: 1rem 1.25rem;
+  display: block;
+}
+
+dialog section:nth-of-type(2) h2 {
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-roodblauw);
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+}
+
+dialog section:nth-of-type(2) p {
   margin: 0;
   font-size: 0.9rem;
   line-height: 1.5;
