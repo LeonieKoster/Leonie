@@ -257,25 +257,28 @@ main {
   scroll-behavior: smooth;
 }
 
-main section {
+main article,
+main figure {
   position: sticky;
   top: 0;
-
   width: 100%;
   block-size: 100vh;
-
   display: flex;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  flex-direction: column;
+  margin: 0;
 }
 
-main section:nth-of-type(1) img {
+main figure img {
   width: 100%; /* breedte */
+  height: 100vh;
   block-size: 100vh; /* hoogte */
   object-fit: cover; /* De afbeelding wordt zo geschaald dat het hele vlak gevuld wordt.*/
+  margin: 0;
 }
 
-main section:nth-of-type(2) {
+main article:nth-of-type(1) {
   width: 70%; /* breedte */
   height: 100vh;
   background-color: var(--color-rozepaars);
@@ -283,92 +286,77 @@ main section:nth-of-type(2) {
   align-items: start;
 }
 
-main section:nth-of-type(3) {
+article:nth-of-type(1) h2 {
+  margin-bottom: 0;
+  font-size: 2rem;
+  padding-top: 4rem;
+  align-self: center;
+}
+
+article:nth-of-type(1) p {
+  margin-top: 0rem;
+  font-family: "NotoSans";
+  font-size: 1.3rem;
+  align-self: center;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+main article:nth-of-type(2) {
   width: 100%;
   height: 50vh;
-
   background-color: var(--bg-roodblauw);
   color: var(--bg-wit);
-
   z-index: 2;
   overflow: hidden;
 }
 
-article {
-  /* position: relative; */
-
-  padding: 2rem;
-
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  text-align: center;
-}
-
-section:nth-of-type(2) h2 {
-  margin-bottom: 0;
-
-  font-size: 2rem;
-  margin-top: 7rem;
-}
-
-section:nth-of-type(2) p {
-  /* margin-bottom: 10rem; */
-  margin-top: 0rem;
-
-  font-family: "NotoSans";
-  font-size: 1.3rem;
-}
-
-section:nth-of-type(3) h2 {
+article:nth-of-type(2) h3 {
   margin: 0 0 0.2rem 0;
   font-size: 8rem;
   font-weight: 900;
 }
 
-section:nth-of-type(3) ul {
+article:nth-of-type(2) ul {
   margin: 0;
   padding: 0;
-
   font-size: 2rem;
   font-weight: bold;
   list-style: none;
 }
 
 @media (min-width: 940px) {
-  section:nth-of-type(2) h2 {
+  article:nth-of-type(1) h2 {
     margin-top: 10rem;
     font-size: 3.8rem;
   }
 
-  section:nth-of-type(2) p {
+  article:nth-of-type(1) p {
     font-size: 2rem;
   }
 
   header nav a {
     font-size: 2rem;
   }
-  section:nth-of-type(3) h2 {
+  article:nth-of-type(2) h2 {
     margin-top: 2rem;
   }
 }
 
 @media (min-width: 460px) {
-  section:nth-of-type(2) h2 {
+  article:nth-of-type(1) h2 {
     margin-top: 10rem;
     font-size: 3rem;
   }
 
-  section:nth-of-type(2) p {
+  article:nth-of-type(1) p {
     font-size: 1.5rem;
   }
 
   header nav a {
     font-size: 1.5rem;
   }
-  section:nth-of-type(3) h2 {
+  article:nth-of-type(2) h2 {
     margin-top: 1.5rem;
   }
 }
