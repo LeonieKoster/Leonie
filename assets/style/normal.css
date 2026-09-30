@@ -3,6 +3,7 @@ Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx
 Website voor inspiratie: https://codepen.io/marlowD/full/zYVRKge 
 Gesprek met chat.gpt voor uitleg inspiratie code:  https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15.*/
 
+/* adhfkaflla */
 /* HIER KOMT JOUW CSS */
 @font-face {
   font-family: "Comic Relief";
@@ -181,13 +182,15 @@ dialog form button {
   color: var(--color-roodblauw);
   border-radius: 8px;
   padding: 0.75rem 1rem;
+  font-weight: 600;
   cursor: pointer;
+  transition: background-color 0.2s;
   align-self: center;
   font-family: "BebasNeue", sans-serif;
   font-size: 1.2rem;
 }
 
-dialog form button:hover {
+#mode-dialog form > button:hover {
   background-color: var(--bg-lichtroze);
   color: var(--tekst-wit);
 }
