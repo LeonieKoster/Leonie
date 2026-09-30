@@ -3,7 +3,6 @@ Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx
 Website voor inspiratie: https://codepen.io/marlowD/full/zYVRKge 
 Gesprek met chat.gpt voor uitleg inspiratie code:  https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15.*/
 
-/* adhfkaflla */
 /* HIER KOMT JOUW CSS */
 @font-face {
   font-family: "Comic Relief";
@@ -140,13 +139,13 @@ dialog section:nth-of-type(1) {
   margin-top: -1rem;
 }
 
-dialog section:nth-of-type(1) ul {
-  margin: 0;
-  padding-left: 1.25rem;
-  font-size: 0.9rem;
-  line-height: 1.5;
-  list-style: "✓";
-  font-family: Arial, Helvetica, sans-serif;
+dialog section:nth-of-type(1) h2 {
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-roodblauw);
+  margin-bottom: 0.75rem;
+  margin-top: 0;
 }
 
 dialog section:nth-of-type(1) ul {
@@ -162,23 +161,14 @@ dialog section:nth-of-type(1) li {
   padding-left: 1rem;
 }
 
-dialog section:nth-of-type(2) {
+dialog blok2 {
   background-color: var(--bg-lichtroze);
   border-radius: 1rem;
   padding: 1rem 1.25rem;
   display: block;
 }
 
-dialog section:nth-of-type(2) h2 {
-  font-size: 1.3rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--color-roodblauw);
-  margin-bottom: 0.75rem;
-  margin-top: 0;
-}
-
-dialog section:nth-of-type(2) p {
+blok2 p {
   margin: 0;
   font-size: 0.9rem;
   line-height: 1.5;
