@@ -7,7 +7,6 @@
 Ik heb de punten die mijn website nog miste aangepast zodat mijn site toegankelijk is voor iedereen. 
 <img width="1920" height="1080" alt="WCAGChecklist" src="https://github.com/user-attachments/assets/a288a150-c124-45a3-887e-af53305291b8" />
 
-
 **HTML gevalideerd**
 Ik heb mijn HTML gecheckt met de tool. Hieruit bleek dat ik toch best veel dingen verkeerd deed. Zo had mijn website helemaal geen title en daarnaast had ik een hele boel eigen termen gebruikt, dat geen officiële HTML termen zijn. Dit heb ik aangepast zodat het wel klopt. 
 Daarnaast had ik een fout gemaakt in mijn ul element, wat ik ook aangepast heb. En tot slot had ik verschillende waarschuwingen over het verkeerd gebruiken van h1-h6 elementen, dit heb ik ook verholpen. Hierdoor zijn er geen fouten meer in mijn HTML. 
