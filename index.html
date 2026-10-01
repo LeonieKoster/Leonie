@@ -17,21 +17,37 @@
       <h1 data-scheme="light">NEVER ENOUGH</h1>
       <h1 data-scheme="dark">YOU ARE ENOUGH</h1>
       <nav>
-        <a href="minds.html">OUR MINDS</a>
-        <a href="bodies.html">OUR BODIES</a>
-        <a href="lives.html">OUR LIVES</a>
-        <a href="online.html">ONLINE</a>
+        <a
+          href="minds.html"
+          aria-label="Lees hier meer over de invloed van 'nooit genoeg' onze gedachten"
+          >OUR MINDS</a
+        >
+        <a
+          href="bodies.html"
+          aria-label="Lees hier meer overde invloed van 'nooit genoeg' ons lichaam"
+          >OUR BODIES</a
+        >
+        <a
+          href="lives.html"
+          aria-label="Lees hier meer over de invloed van 'nooit genoeg' op ons leven"
+          >OUR LIVES</a
+        >
+        <a
+          href="online.html"
+          aria-label="Lees hier meer over de invloed van social media op de nooit genoeg mentaliteit"
+          >ONLINE</a
+        >
       </nav>
     </header>
 
     <aside>
-      <button commandfor="mode-dialog" command="show-modal">
-        <img data-scheme="light" src="./assets/koek.svg" alt="Cookie icoon" />
-        <img
-          data-scheme="dark"
-          src="./assets/koekdonker.svg"
-          alt="Cookie icoon"
-        />
+      <button
+        commandfor="mode-dialog"
+        command="show-modal"
+        aria-label="Open cookie en privacy informatie"
+      >
+        <img data-scheme="light" src="./assets/koek.svg" alt="" />
+        <img data-scheme="dark" src="./assets/koekdonker.svg" alt="" />
       </button>
 
       <dialog id="mode-dialog">
@@ -64,7 +80,7 @@
               cookies.
             </p>
           </section>
-          <button>Close</button>
+          <button aria-label="Sluit dialoogvenster">Close</button>
         </form>
       </dialog>
     </aside>
