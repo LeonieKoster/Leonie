@@ -40,16 +40,16 @@ html {
   color-scheme: light dark;
 
   /* kleur properties*/
-  --bg-roodblauw: light-dark(#db0000, #161dd4);
-  --bg-lichtroze: light-dark(#f7c9db, #d470f5);
+  --bg-roodblauw: light-dark(#bd0000, #0b13cb);
+  --bg-lichtroze: light-dark(#ffc2db, #db88f6);
   --bg-wit: white;
 
   --tekst-wit: light-dark(white, white);
   --tekst-zwart: light-dark(black, black);
   --tekst-zwartwit: light-dark(black, white);
 
-  --color-rozepaars: light-dark(#f7c9db, #d470f5);
-  --color-roodblauw: light-dark(#db0000, #161dd4);
+  --color-rozepaars: light-dark(#ffc2db, #db88f6);
+  --color-roodblauw: light-dark(#e90000, #0b13cb);
 }
 
 /* dark/light modus */
@@ -72,6 +72,20 @@ body {
   padding: 0;
   background-color: var(--bg-roodblauw);
   font-family: "BebasNeue", sans-serif;
+}
+
+/*skip naar hoofdinfo */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--bg-wit);
+  color: var(--color-roodblauw);
+  padding: 8px 8px;
+  z-index: 1000;
+}
+.skip-link:focus {
+  top: 0;
 }
 
 /* navigatiebalk */
@@ -99,18 +113,24 @@ header a {
   color: var(--color-rozepaars);
   font-size: 2.5rem;
   letter-spacing: 0.1em;
+}
+
+header h1 a {
   text-decoration: none;
 }
 
 header nav a {
   color: var(--color-rozepaars);
-  text-decoration: none;
   margin-right: 2.5rem;
   margin-left: 1rem;
   font-size: 1.3rem;
   letter-spacing: 0.1em;
   padding: 0.5rem 0.75rem;
   display: inline-block;
+}
+
+a:hover {
+  color: var(--tekst-wit);
 }
 
 a:focus-visible,
