@@ -234,10 +234,11 @@ header {
   background-color: var(--bg-roodblauw);
 }
 
-header h1 {
+header a {
   color: var(--color-rozepaars);
   font-size: 2.5rem;
   letter-spacing: 0.1em;
+  text-decoration: none;
 }
 
 header nav a {
