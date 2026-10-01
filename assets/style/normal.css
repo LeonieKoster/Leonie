@@ -336,30 +336,12 @@ article:nth-of-type(2) ul {
   color: var(--bg-wit);
 }
 
-@media (min-width: 940px) {
-  article:nth-of-type(1) h2 {
-    margin-top: 10rem;
-    font-size: 3.8rem;
-  }
-
-  article:nth-of-type(1) p {
-    font-size: 2rem;
-  }
-
-  header nav a {
-    font-size: 2rem;
-  }
-  article:nth-of-type(2) h2 {
-    margin-top: 2rem;
-  }
-}
-
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   header {
     position: relative;
     width: 100%;
     height: auto;
-    padding: 1.5rem 0; /* Geen zij-padding meer, zodat het echt gecentreerd staat ten opzichte van het scherm */
+    padding: 1.5rem 0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -447,7 +429,6 @@ article:nth-of-type(2) ul {
     text-align: center;
   }
 
-  /* Tweede artikel (MORE lijst) */
   main article:nth-of-type(2) {
     position: relative;
     width: 100%;
@@ -464,13 +445,6 @@ article:nth-of-type(2) ul {
 
   main article:nth-of-type(2) ul {
     font-size: 1.4rem;
-  }
-
-  aside {
-    position: fixed;
-    left: 1rem;
-    bottom: 1rem;
-    z-index: 100;
   }
 
   dialog {
@@ -511,5 +485,39 @@ article:nth-of-type(2) ul {
   dialog form button {
     padding: 0.5rem 0.75rem;
     font-size: 1rem;
+  }
+
+  aside {
+    position: fixed;
+    left: 1rem;
+    bottom: 1rem;
+    z-index: 100;
+  }
+}
+
+@media (max-width: 465px) {
+  header a {
+    font-size: 1.5rem;
+  }
+
+  header nav a {
+    font-size: 0.75rem;
+    padding: 0.15rem 0.3rem;
+  }
+
+  main article:nth-of-type(1) h2 {
+    font-size: 1.6rem;
+  }
+
+  main article:nth-of-type(1) p {
+    font-size: 0.95rem;
+  }
+
+  article:nth-of-type(2) h3 {
+    font-size: 2.8rem; /* Houdt het woord 'MORE' netjes binnen het scherm */
+  }
+
+  article:nth-of-type(2) ul {
+    font-size: 1.2rem;
   }
 }
