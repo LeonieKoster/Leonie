@@ -6,14 +6,14 @@ Gesprek met chat.gpt voor uitleg inspiratie code:  https://chatgpt.com/c/6aab0da
 /* fonts */
 @font-face {
   font-family: "Comic Relief";
-  src: url(../type/ComicRelief-Regular.woff2);
+  src: url(../fonts/ComicRelief-Regular.woff2);
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "BebasNeue";
-  src: url("../type/BebasNeue-Regular.ttf");
+  src: url("../fonts/BebasNeue-Regular.ttf");
   font-weight: 100;
   font-style: normal;
 }
