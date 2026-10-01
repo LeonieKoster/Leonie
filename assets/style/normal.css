@@ -3,7 +3,7 @@ Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx
 Website voor inspiratie: https://codepen.io/marlowD/full/zYVRKge 
 Gesprek met chat.gpt voor uitleg inspiratie code:  https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15.*/
 
-/* HIER KOMT JOUW CSS */
+/* fonts */
 @font-face {
   font-family: "Comic Relief";
   src: url(../type/ComicRelief-Regular.woff2);
@@ -33,11 +33,13 @@ Gesprek met chat.gpt voor uitleg inspiratie code:  https://chatgpt.com/c/6aab0da
 }
 
 html {
+  /* basis */
   margin: auto;
   max-width: 100%;
   box-sizing: border-box;
   color-scheme: light dark;
 
+  /* kleur properties*/
   --bg-roodblauw: light-dark(#db0000, #161dd4);
   --bg-lichtroze: light-dark(#f7c9db, #d470f5);
   --bg-wit: white;
@@ -50,6 +52,7 @@ html {
   --color-roodblauw: light-dark(#db0000, #161dd4);
 }
 
+/* dark/light modus */
 [data-scheme="dark"] {
   display: none;
 }
@@ -71,145 +74,7 @@ body {
   font-family: "BebasNeue", sans-serif;
 }
 
-aside {
-  position: fixed;
-  left: 1rem;
-  bottom: 1rem;
-  z-index: 100;
-}
-
-aside button {
-  background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-  display: flex;
-}
-
-aside button img {
-  width: 4rem;
-  height: auto;
-}
-
-dialog {
-  border: none;
-  border-radius: 16px;
-  padding: 0;
-  max-width: 550px;
-  width: 90%;
-}
-
-dialog::backdrop {
-  background: rgba(0, 0, 0, 0.5);
-  backdrop-filter: blur(4px);
-}
-
-dialog form {
-  padding: 2rem;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-  background-color: var(--bg-roodblauw);
-}
-
-hgroup h1 {
-  font-size: 2.5rem;
-  margin-bottom: -1rem;
-  color: var(--bg-lichtroze);
-  text-align: center;
-}
-
-hgroup p {
-  font-size: 0.9rem;
-  line-height: 1.5;
-  color: var(--tekst-wit);
-  font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
-}
-
-dialog section:nth-of-type(1) {
-  background-color: var(--bg-lichtroze);
-  border-radius: 1rem;
-  padding: 1rem 1.25rem;
-  display: block;
-  margin-top: -1rem;
-}
-
-dialog section:nth-of-type(1) h2 {
-  font-size: 1.3rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--color-roodblauw);
-  margin-bottom: 0.75rem;
-  margin-top: 0;
-}
-
-dialog section:nth-of-type(1) ul {
-  margin: 0;
-  padding-left: 1.25rem;
-  font-size: 0.9rem;
-  line-height: 1.5;
-  list-style: "✓";
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-dialog section:nth-of-type(1) li {
-  padding-left: 1rem;
-}
-
-dialog section:nth-of-type(2) {
-  background-color: var(--bg-lichtroze);
-  border-radius: 1rem;
-  padding: 1rem 1.25rem;
-  display: block;
-}
-
-dialog section:nth-of-type(2) h3 {
-  margin: 0;
-  font-size: 0.9rem;
-  line-height: 1.5;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  color: var(--tekst-zwartwit);
-}
-
-dialog section:nth-of-type(2) p {
-  margin: 0;
-  font-size: 0.9rem;
-  line-height: 1.5;
-  font-family: Arial, Helvetica, sans-serif;
-  color: var(--tekst-zwartwit);
-}
-
-dialog form button {
-  background-color: var(--bg-wit);
-  color: var(--color-roodblauw);
-  border-radius: 8px;
-  padding: 0.75rem 1rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: background-color 0.2s;
-  align-self: center;
-  font-family: "BebasNeue", sans-serif;
-  font-size: 1.2rem;
-}
-
-#mode-dialog form > button:hover {
-  background-color: var(--bg-lichtroze);
-  color: var(--tekst-wit);
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
+/* navigatiebalk */
 header {
   position: fixed;
   top: 0;
@@ -253,6 +118,142 @@ button:focus-visible {
   outline: 3px solid var(--tekst-wit);
 }
 
+/* cookie pop-up */
+aside {
+  position: fixed;
+  left: 1rem;
+  bottom: 1rem;
+  z-index: 100;
+}
+
+/* achtergrond */
+dialog::backdrop {
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+}
+
+/* sluiten knop */
+aside button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+}
+
+aside button img {
+  width: 4rem;
+  height: auto;
+}
+
+dialog form button {
+  background-color: var(--bg-wit);
+  color: var(--color-roodblauw);
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  align-self: center;
+  font-family: "BebasNeue", sans-serif;
+  font-size: 1.2rem;
+}
+
+#mode-dialog form > button:hover {
+  background-color: var(--bg-lichtroze);
+  color: var(--tekst-wit);
+}
+
+/* tekst blok */
+dialog {
+  border: none;
+  border-radius: 16px;
+  padding: 0;
+  max-width: 550px;
+  width: 90%;
+}
+
+dialog form {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background-color: var(--bg-roodblauw);
+}
+
+/* intro blok */
+hgroup h1 {
+  font-size: 2.5rem;
+  margin-bottom: -1rem;
+  color: var(--bg-lichtroze);
+  text-align: center;
+}
+
+hgroup p {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--tekst-wit);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+/* Tekst blok 1 */
+dialog section:nth-of-type(1) {
+  background-color: var(--bg-lichtroze);
+  border-radius: 1rem;
+  padding: 1rem 1.25rem;
+  display: block;
+  margin-top: -1rem;
+}
+
+dialog section:nth-of-type(1) h2 {
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-roodblauw);
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+}
+
+dialog section:nth-of-type(1) ul {
+  margin: 0;
+  padding-left: 1.25rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  list-style: "✓";
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+dialog section:nth-of-type(1) li {
+  padding-left: 1rem;
+}
+
+/* Tekst blok 2 */
+dialog section:nth-of-type(2) {
+  background-color: var(--bg-lichtroze);
+  border-radius: 1rem;
+  padding: 1rem 1.25rem;
+  display: block;
+}
+
+dialog section:nth-of-type(2) h3 {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: var(--tekst-zwartwit);
+}
+
+dialog section:nth-of-type(2) p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--tekst-zwartwit);
+}
+
+/* Algemene pagina */
 main {
   width: 100%;
   block-size: 100vh;
@@ -275,7 +276,7 @@ main figure {
   margin: 0;
   padding: 0;
 }
-
+/* Afbeelding */
 main figure img {
   width: 100%; /* breedte */
   height: 100vh;
@@ -283,7 +284,7 @@ main figure img {
   object-fit: cover; /* De afbeelding wordt zo geschaald dat het hele vlak gevuld wordt.*/
   margin: 0;
 }
-
+/* Roze/paars tekstblok */
 main article:nth-of-type(1) {
   width: 70%; /* breedte */
   height: 100vh;
@@ -309,6 +310,7 @@ article:nth-of-type(1) p {
   padding-right: 2rem;
 }
 
+/* Rood/blauw tekstblok */
 main article:nth-of-type(2) {
   width: 100%;
   height: 50vh;
@@ -335,6 +337,7 @@ article:nth-of-type(2) ul {
 
 @media (max-width: 768px) {
   /* algemene pagina */
+  /* navigatiebalk */
   header {
     height: auto; /* volledige hoogte van het scherm*/
     padding: 1.5rem 0;
@@ -370,6 +373,7 @@ article:nth-of-type(2) ul {
     height: auto;
   }
 
+  /* afbeelding */
   main figure {
     height: auto;
     padding: 0;
@@ -379,6 +383,7 @@ article:nth-of-type(2) ul {
     display: block;
   }
 
+  /* roze/paarse tekstblok */
   main article:nth-of-type(1) {
     position: relative;
     width: 100%;
@@ -398,7 +403,7 @@ article:nth-of-type(2) ul {
     padding: 0;
     margin: 0;
   }
-
+  /* rood/blauwe tekstblok */
   main article:nth-of-type(2) {
     height: auto;
     min-height: auto;
