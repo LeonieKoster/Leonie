@@ -1,5 +1,56 @@
 ## Learning Log
 
+### Voorbereiding - Vrijdag 2 okt
+
+**WCAG checklist afgewerkt**
+
+Ik heb de punten die mijn website nog miste aangepast zodat mijn site toegankelijk is voor iedereen. 
+<img width="1920" height="1080" alt="WCAGChecklist" src="https://github.com/user-attachments/assets/a288a150-c124-45a3-887e-af53305291b8" />
+
+
+**HTML gevalideerd**
+Ik heb mijn HTML gecheckt met de tool. Hieruit bleek dat ik toch best veel dingen verkeerd deed. Zo had mijn website helemaal geen title en daarnaast had ik een hele boel eigen termen gebruikt, dat geen officiële HTML termen zijn. Dit heb ik aangepast zodat het wel klopt. 
+Daarnaast had ik een fout gemaakt in mijn ul element, wat ik ook aangepast heb. En tot slot had ik verschillende waarschuwingen over het verkeerd gebruiken van h1-h6 elementen, dit heb ik ook verholpen. Hierdoor zijn er geen fouten meer in mijn HTML. 
+
+<img width="1920" height="1080" alt="HTML valideren" src="https://github.com/user-attachments/assets/60737811-4660-44f8-87f4-a39cfad28c44" />
+
+Ik ben alleen vergeten hiervan ss te maken dus helaas heb ik hier mijn proces niet duidelijk van in beeld. Hieronder kun je mijn uiteindelijke HTML zien na de aanpassingen. 
+
+<img width="1920" height="1080" alt="Definitieve HTML" src="https://github.com/user-attachments/assets/804bd8b6-3231-482a-8829-2d5ae2f92e5e" />
+
+
+### Woensdag 30 sept - Check out
+ 
+1. Waar staat WCAG en A11y voor? 
+
+- WCAG: Web Content Accessibility Guideline, dit zijn de wetten die bepalen of je website toegankelijk is. 
+- A11y: Is een bruikbare checklist met alle wetten uit de WCAG. 
+
+3. Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+
+Ik vind het allebei ingewikkeld, maar vind met een screenreader lastiger omdat je zo gewend bent te kijken naar het toetsenbord. Dus het is lastig om echt alleen te luisteren. Ook heb ik nog niet alle short cuts onder de knie, dus dit maakt het ook lastig. 
+
+3. Met welke beperking rekening houden vind je het meest lastig? Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+
+Ik vind het het lastigst om voor slechtziende mensen te ontwerpen. Omdat je hiervoor met zoveel dingen rekening moet houden, waar ik (iemand met goed zicht) nooit over na zou denken. Dus ik merk dat ik heel veel dingen vergeet. Je wordt hierin niet perse beperkt maar het is even uitvogelen hoe je elementen zichtbaar maakt. 
+
+### Woensdag 30 sept - Algemene werkgroep
+
+Tijdens de les heb ik met Inger mijn website gecheckt op de WCAG eisen. Hieruit kwam het volgende: 
+
+<img width="1920" height="1080" alt="WCAG checklist" src="https://github.com/user-attachments/assets/c5077e97-d7dd-4161-a04e-27f4a291a624" />
+
+Tijdens het testen en controleren van de toegankelijkheid van mijn website tuintjevanleonie.nl heb ik de WCAG-checklist langsgelopen met Inger. Hieruit kwam het volgende: 
+
+- De cookie pop-up wordt momenteel niet volledig voorgelezen door een screenreader.
+- De mobiele ervaring werkt wel, maar nog niet optimaal.
+- De toetsenbord bediening en de focusstijlen voor interactieve elementen kloppen nog niet helemaal.
+- De HTML-validatie moet ik nog doen.
+- Het consequent aanhouden van een logische kopvolgorde en één h1 element per pagina.
+- Nog even dubbel checken of de alt-teksten kloppen.
+- Zorgen dat links herkenbaar zijn, met focusstates en een hover. Ook moet ik nog een skip-link toevoegen.  
+- Kleurcontrast controleren.
+
 ### Voorbereiding - woensdag 30 sept 
 
 **Maak je website met informed consent oplossing af**
@@ -19,6 +70,9 @@ Vervolgens ben ik de knop gaan stijlen in CSS, zodat hij op de juiste plek komt 
 Deze combinatie van html en css zorgde voor het volgende resultaat:
 
 <img width="1470" height="956" alt="Scherm­afbeelding 2026-09-29 om 16 36 04" src="https://github.com/user-attachments/assets/a871cb00-e681-41e0-9c1f-c76c1060c37b" />
+
+Uiteindelijk is dit het resultaat van mijn cookie pop-up geworden: 
+<img width="1920" height="1080" alt="Cookiepopup" src="https://github.com/user-attachments/assets/ad7f2df8-835d-427f-8ea8-d761e7e20c0c" />
 
 **Deep-dive: Meer interactie met HTML en CSS**
 
