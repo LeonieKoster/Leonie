@@ -33,13 +33,10 @@ Gesprek met chat.gpt voor uitleg inspiratie code:  https://chatgpt.com/c/6aab0da
 }
 
 html {
-  /*basics*/
   margin: auto;
   max-width: 100%;
   box-sizing: border-box;
   color-scheme: light dark;
-
-  /*kleur properties*/
 
   --bg-roodblauw: light-dark(#db0000, #161dd4);
   --bg-lichtroze: light-dark(#f7c9db, #d470f5);
@@ -53,7 +50,6 @@ html {
   --color-roodblauw: light-dark(#db0000, #161dd4);
 }
 
-/*licht/donker modus*/
 [data-scheme="dark"] {
   display: none;
 }
@@ -277,6 +273,7 @@ main figure {
   padding: 2rem;
   flex-direction: column;
   margin: 0;
+  padding: 0;
 }
 
 main figure img {
@@ -335,38 +332,84 @@ article:nth-of-type(2) ul {
   list-style: none;
   color: var(--bg-wit);
 }
-@media (min-width: 940px) {
-  section:nth-of-type(2) h2 {
-    margin-top: 10rem;
-    font-size: 3.8rem;
+
+@media (max-width: 768px) {
+  header {
+    height: auto; /* volledige hoogte van het scherm*/
+    padding: 1.5rem 0;
+    flex-direction: column; /* alle elementen in de header onder elkaar*/
+    justify-content: center;
+    gap: 0.75rem;
   }
 
-  section:nth-of-type(2) p {
-    font-size: 2rem;
+  header h1 {
+    margin: 1rem;
   }
 
-  header nav a {
-    font-size: 2rem;
-  }
-  section:nth-of-type(3) h2 {
-    margin-top: 2rem;
-  }
-}
-
-@media (min-width: 460px) {
-  section:nth-of-type(2) h2 {
-    margin-top: 10rem;
-    font-size: 3rem;
+  header a {
+    font-size: 1.8rem;
   }
 
-  section:nth-of-type(2) p {
-    font-size: 1.5rem;
+  header nav {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.25rem;
   }
 
   header nav a {
-    font-size: 1.5rem;
+    font-size: 0.85rem;
+    padding: 0.2rem 0.4rem;
   }
-  section:nth-of-type(3) h2 {
-    margin-top: 1.5rem;
+
+  main {
+    scroll-snap-type: none; /* schakelt scrolleffecten uit*/
+    overflow-y: visible;
+    height: auto;
+  }
+
+  main figure {
+    height: auto;
+    padding: 0;
+  }
+
+  main figure img {
+    display: block;
+  }
+
+  main article:nth-of-type(1) {
+    position: relative;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    padding: 3rem 1.5rem;
+    box-sizing: border-box;
+  }
+
+  main article:nth-of-type(1) h2 {
+    padding-top: 0;
+    font-size: 2rem;
+  }
+
+  main article:nth-of-type(1) p {
+    font-size: 1.1rem;
+    padding: 0;
+    margin: 0;
+  }
+
+  main article:nth-of-type(2) {
+    height: auto;
+    min-height: auto;
+    margin-top: 1rem;
+    align-items: center;
+    justify-content: center;
+  }
+
+  main article:nth-of-type(2) h3 {
+    font-size: 6rem;
+  }
+
+  main article:nth-of-type(2) ul {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
   }
 }
