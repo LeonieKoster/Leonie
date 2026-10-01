@@ -245,8 +245,16 @@ header nav a {
   color: var(--color-rozepaars);
   text-decoration: none;
   margin-right: 2.5rem;
+  margin-left: 1rem;
   font-size: 1.3rem;
   letter-spacing: 0.1em;
+  padding: 0.5rem 0.75rem;
+  display: inline-block;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid var(--tekst-wit);
 }
 
 main {
@@ -343,6 +351,21 @@ article:nth-of-type(2) ul {
   }
   article:nth-of-type(2) h2 {
     margin-top: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  main {
+    scroll-snap-type: none;
+    overflow-y: visible;
+  }
+
+  main article,
+  main figure {
+    block-size: auto;
+    position: relative;
+    min-height: 80vh;
+    padding: 3rem 1.5rem;
   }
 }
 
