@@ -354,72 +354,14 @@ article:nth-of-type(2) ul {
   }
 }
 
-/* --- AANGEPASTE & EXTRA MOBIELE FIXES --- */
-
-@media (max-width: 768px) {
-  /* Zorg dat de hoofdcontainer normaal scrollbaar is op mobiel */
-  main {
-    scroll-snap-type: none;
-    overflow-y: visible;
-    height: auto;
-  }
-
-  /* Laat artikelen en figuren automatisch meebewegen met de inhoud op mobiel */
-  main article,
-  main figure {
-    position: relative;
-    height: auto;
-    block-size: auto;
-    min-height: 70vh;
-    padding: 4rem 1rem 2rem 1rem;
-  }
-
-  /* Zorg dat de beginfoto zich aanpast op mobiel */
-  main figure img {
-    height: auto;
-    max-height: 70vh;
-    object-fit: cover;
-  }
-
-  /* Eerste article op volle breedte op mobiel i.p.v. 70% */
-  main article:nth-of-type(1) {
-    width: 100%;
-    align-items: center;
-  }
-
-  article:nth-of-type(1) h2 {
-    font-size: 2rem;
-    padding-top: 1rem;
-  }
-
-  article:nth-of-type(1) p {
-    font-size: 1.1rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  /* Tweede article (MORE lijst) passend maken voor mobiel */
-  main article:nth-of-type(2) {
-    height: auto;
-    min-height: auto;
-    padding: 3rem 1rem;
-  }
-
-  /* Maak de enorme '8rem' tekst kleiner op mobiel zodat het past */
-  article:nth-of-type(2) h3 {
-    font-size: 4rem;
-  }
-
-  article:nth-of-type(2) ul {
-    font-size: 1.5rem;
-  }
-
-  /* Header aanpassen zodat navigatie niet crasht op kleine schermen */
+@media (max-width: 400px) {
   header {
+    position: relative;
     height: auto;
     padding: 1rem;
     flex-direction: column;
     gap: 0.5rem;
+    background-color: var(--bg-roodblauw);
   }
 
   header a {
@@ -430,12 +372,91 @@ article:nth-of-type(2) ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 0.5rem;
+    gap: 0.25rem;
   }
 
   header nav a {
     margin: 0;
-    font-size: 0.9rem;
-    padding: 0.25rem 0.5rem;
+    font-size: 0.85rem;
+    padding: 0.2rem 0.4rem;
+  }
+
+  /* Zet scroll-snap uit en haal vaste vh-hoogtes weg op mobiel */
+  main {
+    scroll-snap-type: none;
+    overflow-y: visible;
+    height: auto;
+  }
+
+  /* Laat de figuur (en de foto) de volledige breedte vullen zonder padding */
+  main figure {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+  }
+
+  main figure img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    max-height: none;
+    object-fit: cover;
+    display: block;
+    margin: 0;
+  }
+
+  /* Eerste artikel (het roze vlak) direct onder de foto */
+  main article:nth-of-type(1) {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: auto;
+    background-color: var(--color-rozepaars);
+    color: var(--bg-roodblauw);
+    align-items: center;
+    padding: 3rem 1.5rem;
+    box-sizing: border-box;
+  }
+
+  main article:nth-of-type(1) h2 {
+    margin-top: 0;
+    font-size: 2rem;
+    padding: 0;
+    text-align: center;
+  }
+
+  main article:nth-of-type(1) p {
+    font-size: 1.1rem;
+    padding: 0;
+    text-align: center;
+  }
+
+  /* Tweede artikel (MORE lijst) */
+  main article:nth-of-type(2) {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: auto;
+    padding: 3rem 1.5rem;
+    box-sizing: border-box;
+  }
+
+  main article:nth-of-type(2) h3 {
+    font-size: 3.5rem;
+    margin: 0;
+  }
+
+  main article:nth-of-type(2) ul {
+    font-size: 1.4rem;
+  }
+
+  /* Zorg dat de cookie-knop (aside) netjes fixed links onderin blijft staan */
+  aside {
+    position: fixed;
+    left: 1rem;
+    bottom: 1rem;
+    z-index: 100;
   }
 }
