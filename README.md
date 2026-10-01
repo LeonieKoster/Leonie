@@ -1,6 +1,6 @@
 ## Learning Log
 
-### Voorbereiding - woensdag 30 sept h
+### Voorbereiding - woensdag 30 sept 
 
 **Maak je website met informed consent oplossing af**
 
