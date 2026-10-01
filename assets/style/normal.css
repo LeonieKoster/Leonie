@@ -353,3 +353,89 @@ article:nth-of-type(2) ul {
     margin-top: 2rem;
   }
 }
+
+/* --- AANGEPASTE & EXTRA MOBIELE FIXES --- */
+
+@media (max-width: 768px) {
+  /* Zorg dat de hoofdcontainer normaal scrollbaar is op mobiel */
+  main {
+    scroll-snap-type: none;
+    overflow-y: visible;
+    height: auto;
+  }
+
+  /* Laat artikelen en figuren automatisch meebewegen met de inhoud op mobiel */
+  main article,
+  main figure {
+    position: relative;
+    height: auto;
+    block-size: auto;
+    min-height: 70vh;
+    padding: 4rem 1rem 2rem 1rem;
+  }
+
+  /* Zorg dat de beginfoto zich aanpast op mobiel */
+  main figure img {
+    height: auto;
+    max-height: 70vh;
+    object-fit: cover;
+  }
+
+  /* Eerste article op volle breedte op mobiel i.p.v. 70% */
+  main article:nth-of-type(1) {
+    width: 100%;
+    align-items: center;
+  }
+
+  article:nth-of-type(1) h2 {
+    font-size: 2rem;
+    padding-top: 1rem;
+  }
+
+  article:nth-of-type(1) p {
+    font-size: 1.1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  /* Tweede article (MORE lijst) passend maken voor mobiel */
+  main article:nth-of-type(2) {
+    height: auto;
+    min-height: auto;
+    padding: 3rem 1rem;
+  }
+
+  /* Maak de enorme '8rem' tekst kleiner op mobiel zodat het past */
+  article:nth-of-type(2) h3 {
+    font-size: 4rem;
+  }
+
+  article:nth-of-type(2) ul {
+    font-size: 1.5rem;
+  }
+
+  /* Header aanpassen zodat navigatie niet crasht op kleine schermen */
+  header {
+    height: auto;
+    padding: 1rem;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  header a {
+    font-size: 1.8rem;
+  }
+
+  header nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+
+  header nav a {
+    margin: 0;
+    font-size: 0.9rem;
+    padding: 0.25rem 0.5rem;
+  }
+}
