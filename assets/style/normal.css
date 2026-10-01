@@ -35,7 +35,7 @@ Gesprek met chat.gpt voor uitleg inspiratie code:  https://chatgpt.com/c/6aab0da
 html {
   /*basics*/
   margin: auto;
-  max-width: 100%;
+  max-xwidth: 100%;
   box-sizing: border-box;
   color-scheme: light dark;
 
@@ -514,7 +514,7 @@ article:nth-of-type(2) ul {
   }
 
   article:nth-of-type(2) h3 {
-    font-size: 2.8rem; /* Houdt het woord 'MORE' netjes binnen het scherm */
+    font-size: 2.8rem;
   }
 
   article:nth-of-type(2) ul {
