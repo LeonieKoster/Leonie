@@ -26,7 +26,12 @@
 
     <aside>
       <button commandfor="mode-dialog" command="show-modal">
-        <img src="./assets/koek.svg" alt="Cookie icoon" />
+        <img data-scheme="light" src="./assets/koek.svg" alt="Cookie icoon" />
+        <img
+          data-scheme="dark"
+          src="./assets/koekdonker.svg"
+          alt="Cookie icoon"
+        />
       </button>
 
       <dialog id="mode-dialog">
@@ -73,11 +78,9 @@
       </figure>
 
       <article>
-        <h2 data-scheme="light">
-          You have enough. But why doesn't it feel that way?
-        </h2>
+        <h2>You have enough. But why doesn't it feel that way?</h2>
         <!-- <h2 data-scheme="dark">Je hebt genoeg. Je hebt niks meer nodig</h2> -->
-        <p data-scheme="light">
+        <p>
           We always want more. But where does that desire come from? And when
           does "more" actually become enough?
         </p>
@@ -89,7 +92,7 @@
 
       <article>
         <h3><strong>MORE</strong></h3>
-        <ul data-scheme="light">
+        <ul>
           <li>money.</li>
           <li>likes.</li>
           <li>beauty.</li>

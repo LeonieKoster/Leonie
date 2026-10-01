@@ -41,16 +41,16 @@ html {
 
   /*kleur properties*/
 
-  --bg-roodblauw: light-dark(red, #2a2fe8);
-  --bg-lichtroze: light-dark(#f5b3ce, #d671f5);
+  --bg-roodblauw: light-dark(#db0000, #161dd4);
+  --bg-lichtroze: light-dark(#f7c9db, #d470f5);
   --bg-wit: white;
 
-  --tekst-wit: white;
-  --tekst-zwart: black;
-  --tekst-blauw: #2a2fe8;
+  --tekst-wit: light-dark(white, white);
+  --tekst-zwart: light-dark(black, black);
+  --tekst-zwartwit: light-dark(black, white);
 
-  --color-rozepaars: light-dark(#f5b3ce, #d671f5);
-  --color-roodblauw: light-dark(red, #2a2fe8);
+  --color-rozepaars: light-dark(#f7c9db, #d470f5);
+  --color-roodblauw: light-dark(#db0000, #161dd4);
 }
 
 /*licht/donker modus*/
@@ -173,8 +173,8 @@ dialog section:nth-of-type(2) h3 {
   font-size: 0.9rem;
   line-height: 1.5;
   font-family: Arial, Helvetica, sans-serif;
-  color: var(--tekst-zwart);
   font-weight: bold;
+  color: var(--tekst-zwartwit);
 }
 
 dialog section:nth-of-type(2) p {
@@ -182,7 +182,7 @@ dialog section:nth-of-type(2) p {
   font-size: 0.9rem;
   line-height: 1.5;
   font-family: Arial, Helvetica, sans-serif;
-  color: var(--tekst-zwart);
+  color: var(--tekst-zwartwit);
 }
 
 dialog form button {
@@ -291,6 +291,7 @@ article:nth-of-type(1) h2 {
   font-size: 2rem;
   padding-top: 4rem;
   align-self: center;
+  color: var(--bg-roodblauw);
 }
 
 article:nth-of-type(1) p {
@@ -323,6 +324,7 @@ article:nth-of-type(2) ul {
   font-size: 2rem;
   font-weight: bold;
   list-style: none;
+  color: var(--bg-wit);
 }
 
 @media (min-width: 940px) {
