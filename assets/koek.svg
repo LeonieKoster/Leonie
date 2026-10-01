@@ -12,11 +12,11 @@
       }
 
       .cls-1, .cls-3 {
-        fill: red;
+        fill: #ce0000;
       }
 
       .cls-2 {
-        fill: #f5b3ce;
+        fill: #ffd7e7;
         stroke-width: 3px;
       }
     </style>
