@@ -82,15 +82,42 @@ Op deze manier lukt het mij om een passend grid te maken, zoals ik heb uitgeteke
 ### Maandag 5 sept - algemene werkgroep 
 
 **Songtekst analyseren: 8 schetsen**
+Om het ritme en de maat van het nummer Tijdsgeest visueel voelbaar te maken, ben ik begonnen met het uitwerken van 8 verschillende typografische schetsen. Door te spelen met verschillende lettergrootte, variaties in dikte en de plaatsing van woorden zoals "Ze is NU", "based", "complex" en "tijdsgeest", heb ik geprobeerd de cadans en klemtonen van de tekst te vangen. Soms herhalen woorden zich snel achter elkaar om een opzwepende maat weer te geven, en op andere plekken zorgen stippen en subtiele verschuivingen juist voor pauzes en rustmomenten. Met deze 8 schetsen onderzoek ik hoe typografie en visualisatie de dynamiek van het nummer versterken.
+
+<img width="4284" height="5712" alt="tempImage0TALdq" src="https://github.com/user-attachments/assets/04379b0d-412c-47ba-b8e7-876ebd528fff" />
+
+<img width="4284" height="5712" alt="tempImageg73OzB" src="https://github.com/user-attachments/assets/17304753-8795-495a-b23a-dfb4afc97a68" />
+
+Vanuit de 8 handgeschreven schetsen heb ik één digitale compositie gemaakt die als blauwdruk dient voor mijn code. Hierin spelen typografische keuzes een sleutelrol om het ritme zichtbaar te maken:   
+- Font-size & dikte: Sterke hiërarchie met grote, schreefloze koppen ("ZE IS NU", "ZE IS HIER") en dikgedrukte woorden ("BASED", "COMPLEX") die de klemtonen in de beat benadrukken.
+- Line-height & spatiering: Open regelafstand bovenin voor een rustige intro, tegenover uiterst opgerekte tracking bij "e n v a n t e c h n o..." voor een slepend effect.
+- Plaatsing & effecten: Een opgengestapeld blokje tekst rechtsboven voor een snelle opsomming, herhalende "NU"'s die horizontaal meebewegen met de maat, en gespiegelde teksten onderin bij "DE TIJDSGEEST" om de tijdsdimensie visueel te prikkelen.   
+
+Vanuit deze schets is de maat van het nummer goed zichtbaar en voelbaar. 
+
+<img width="322" height="448" alt="Scherm­afbeelding 2026-10-18 om 15 14 41" src="https://github.com/user-attachments/assets/6ef7715f-a185-4096-bb3c-85c0dab37f6f" />
 
 **Schetsen bespreken** 
 
-- Wat wil je bij de kijker bereiken met je vormgeving?
-- Hoe voegt jouw opzet iets toe aan de tekst?
-- Wat is een volgende stap: welke schets vind je het meest geschikt om digitaal uit te werken?
-- Hoe zou je dit kunnen aanpakken in code? (vraag hulp wanneer je het niet zeker weet)
+1. Wat wil je bij de kijker bereiken met je vormgeving?
+
+Ik wil dat de kijker de muziek en de energie van het nummer Tijdsgeest niet alleen leest, maar direct fysiek ervaart. De vormgeving moet als het ware een visuele beat worden die je meetrekt in het ritme, de spanning en de cadans van het lied.
+
+2. Hoe voegt jouw opzet iets toe aan de tekst?
+
+De typografie fungeert als een extra instrument. Door te spelen met heftige contrasten in lettergrootte, dikte, uitgerekte witruimte en spiegelingen, krijgen de woorden een eigen performance. Een uitgerekte regel of een keihard gedrukt woord als COMPLEX krijgt daardoor een lading en ritme die in een standaard tekst verloren zouden gaan.
+
+3. Wat is een volgende stap: welke schets vind je het meest geschikt om digitaal uit te werken?
+
+Mijn definitieve digitale ontwerp is denk geschikt en duidelijk genoeg om digitaal uit te werken. 
+
+4. Hoe zou je dit kunnen aanpakken in code?
+Ik ga beginnen met het maken van een duidelijke html. Hierin wil ik gaan werken met duidelijke classes. Vervolgens ga ik een online schets maken voor een grid. Dit is iets waar ik namelijk erg veel moeite mee heb. Dus moet dit even voor mezelf visualiseren. Vanuit dit beeld ga ik een grid opstellen en ga ik de rest van de tekst stijlen in css. 
 
 **HTML/CSS Ontwerp** 
+Tot nu toe heb ik alleen mijn html opzet gemaakt en ervoor gezorgd dat de tekst het juiste lettertype heeft. 
+
+<img width="1366" height="768" alt="htmlopgesteld" src="https://github.com/user-attachments/assets/8ceacdff-472e-4418-94a1-64838f8667a7" />
 
 ### Voorbereiding - Vrijdag 2 okt
 
