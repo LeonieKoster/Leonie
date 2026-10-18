@@ -12,11 +12,37 @@
 
 **Artikel: From shrimp Jesus to erotic tractors (2025)**
 
+AI slop is goedkoop surrealistisch AI-gegenereerde content op social media. Dit is een eindproduct van twee krachten:
+- Algoritmes die primair zijn ontworpen voor maximale interactie en virale triggers. 
+- Mondiale economie waarin echt werk steeds minder oplevert, maar snelle virale content gigantische inkomsten genereren. 
+
+AI-slop ontstond na de doorbraak van grote modellen zoals chatGPT en DALL-E waarmee contentcreatie werd gedemocratiseerd. 
+
+De techniek verbetert maar de inhoud blijft griezelig, contextloos en rechtstreeks gericht op primitieve prikkels. 
+
+AI-slop makers komen uit de hele wereld. Veel content wordt op lopende band basis geproduceerd tegen zo laag mogelijke kosten. Geschat wordt dat slechts 5% van de makers ooit een video te gelde maakt en 1% er echt van kan leven. 
+
+Youtube grijpt steeds strenger in. Zo stelt het programma dat AI slechts een tool is en dat zij zich blijven richten op kwalitatieve content die aan de richtlijnen voldoet. 
+
 **Artikel: Dead Internet Theory (2026)**
 
-**Blog:Alive Internet Theory**
+De Dead internet Theory (DIT) ontstond ruim 10 jaar geleden als reactie op veranderingen op het internet. Met name de komst van social media. Vandaag de dag heeft de opkomst van AI de theorie een nieuw leven in geblazen. Door het gebruik van bots om content te genereren en de obsessie met likes. Het draait tegenwoordig meer om inkomsten dan authenticiteit. Dit tast de verbindingen aan waarvoor netwerken oorspronkelijk in het leven zijn geroepen. 
 
-**Website:Cursor Camp**
+De theorie stelt dat het internet tegenwoordig:
+- Vol zit met door AI gegenereerde content, waardoor menselijke activiteit naar de achtergrond is verdrongen. 
+- Niet langer wordt aangedreven door mensen, maar door AI-agenten, bots en door algoritmes gegenereerde content.
+
+Door de opkomst van AI is de komst van bots gegroeid. Bots zijn geautomatiseerde softwareapplicaties die taken uitvoeren op internet. Ze hebben voordelen maar ook een hele boel nadelen. Denk bijvoorbeeld aan illegale activiteiten en ze zijn lastig van het echte te onderscheiden. Sinds 2024 is het geautomatiseerde internetverkeer hoger dan menselijke activiteiten. 
+
+Voorbeelden hiervan zijn: 
+- Verbedrijfseming (corporatization) van het internet: De cyberspace wordt gecontroleerd door bedrijven. Aandacht en data van gebruikers worden ingezet voor productontwikkeling, verkoop, bewaking en spionage.
+- Vervalste interacties en viraliteit: Ruimtes worden gevormd door kunstmatige interacties, algoritmes en nep-activiteit. 
+- Manipulatie van meningen: Door AI-geblazen content en bots kunnen opvattingen makkelijker en efficiënter worden gemanipuleerd, versterkt door censuur en homogenisering. 
+- Contentfarming: Het massaal publiceren van herhalende, kwalitatief arme webpagina's om verkeer te trekken en inkomsten te genereren, waarbij kwantiteit zwaarder weegt dan kwaliteit.
+
+Dit is op te lossen met ethiek. Er moeten modellen komen die zijn gebaseerd op ethische AI-kaders, denk hierbij aan transparantie, verantwoording, eerlijkheid en menselijk toezicht. Ook moet er kritisch gekeken worden naar het algoritme en het tonen en filteren van informatie. 
+
+Het is cruciaal dat menselijke autonomie niet verloren gaat. Als gebruikers kritisch blijven op regelgeving, onze datatoestemmingen en de software die we gebruiken. Ook bewust offline gaan is belangrijk. 
 
 ### Vrijdag 9 okt - Check out 
 
@@ -26,11 +52,42 @@
 
 ### Vrijdag 9 okt - algemene werkgroep 
 
+Ik was afwezig tijdens deze les vanwege een ziekenhuis afspraak dus heb de feedback niet kunnen doen en de opdrachten in de les ook niet. Ik hoop na de vakantie feedback te ontvangen op mijn werk zodat ik hier verder mee aan de slag kan. 
+
 ### Voorbereiding - vrijdag 9 okt 
 
-**Lezen: https://www.nngroup.com/articles/using-grids-in-interface-designs/ & https://codechefs.dev/blog/rhythm-in-graphic-design-meaning-types-and-how-to-use-it/**
+**Lezen: Using Grids in Interface Designs**
 
-**Kijken: https://deso-strapi-cms.onrender.com/uploads/DES_promo_Grids_5_pl_100mb_b84f11e7d0.mp4**
+Grids in interface-ontwerp helpen ontwerpers om samenhangende lay-outs te creëren, waardoor eindgebruikers interfaces gemakkelijk kunnen scannen en gebruiken. Een goed grid past zich aan op verschillende schermformaten en oriëntaties, wat zorgt voor consistentie over verschillende platforms heen.
+
+Een webpagina-grid helpt gebruikers en ontwerpers met structuur. Danzij een consistent referentiepunt verbeteren grids de leesbaarheid en scanbaarheid van een pagina. 
+
+Drie meest gebruikte grid-typen: 
+- Kolomgrid: de pagina wordt verdeeld in verticale kolommen waarop elementen en content worden uitgelijnd. 
+- Modulair grid: breidt het kolomgrid uit door ook rijen toe te voegen. Het snijpunt van kolommen en rijen vormt 'modules’.
+- Hiërarchisch grid: Content wordt gerangschikt op basis van belangrijkheid. 
+
+De opbouw van een grid: 
+- Kolommen (columns): Hierin staat de daadwerkelijke content. Breedtes worden meestal gedefinieerd in percentages zodat ze responsief schalen.
+- Tussenruimtes (gutters): De lege ruimtes tussen kolommen om elementen visueel te scheiden.
+- Marges (margins): De uiterste linker- en rechterranden van het scherm waar geen content staat.
+
+Een grid zorgt ervoor dat ontwerpers een snel goed uitgelijnd interface kunnen bouwen. Daarnaast kunnen gebruikers voorspelbare op grid gebaseerde pagina’s sneller scannen. Ook is het essentieel voor een responsieve webdesign. En als laatste biedt het een gezamenlijke taal tussen ontwerpers. 
+
+**Artikel: Rhythm in Graphic Design: Types, Uses, and Examples**
+
+Ritme in grafisch ontwerp is een vorm van herhaling die beweging creëert binnen een visuele lay-out. Het verbetert de kwaliteit van het ontwerp en helpt de blik van de kijker te sturen. 
+
+Ritme vormt de cadans van een visueel ontwerp. Visuele elementen zorgen ervoor dat de gebruiker door de pagina heen geleid kan worden. Zonder dat het ontwerp saai of chaotisch aanvoelt. 
+
+Drie kerntypen van ritme:
+- Regelmatig ritme (regular rhythm): Elementen worden op gelijke afstanden van elkaar herhaald. Dit creëert voorspelbaarheid en rust.
+- Afwisselend ritme (alternating rhythm): Hierbij wissel je twee of meer elementen of intervallen met elkaar af in een vast patroon. Dit houdt de aandacht vast.
+- Willekeurig/Random ritme (random rhythm): Een gecontroleerde willekeur waarbij elementen zonder strikt patroon terugkeren, wat zorgt voor een lossere, organische of dynamische sfeer.
+
+Het afwisselen van tekst- en afbeeldjingsblokken zorgt ervoor dat een pagina niet eentonig wordt. Daarnaast zorgen koppen en subkoppen voor een typografisch ritme. 
+
+Veel gemaakte fouten zijn bijvoorbeeld te veel ritme waardoor een ontwerp eentonig en vermoeiend is. Of juist te weinig waardoor het rommelig en warrig oogt. Ook is het doorbreken van intervallen een veelvoorkomende fout. Hierdoor krijg je een slordige uitlijning, die het ritme verstoort. 
 
 **Deep-dive: S3 - Variabele fonts (Sanne)**
 
