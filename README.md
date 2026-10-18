@@ -1,5 +1,95 @@
 ## Learning Log
 
+### Voorbereiding - Maandag 19 okt 
+
+**Schetsen van animatie in website ontwerp** 
+
+**Typografische font toepassen in eigen website** 
+
+**Deep dive S3 - CSS animaties (Sanne)** 
+
+### Voorbereiding - Weekly Geek 
+
+**Artikel: From shrimp Jesus to erotic tractors (2025)**
+
+**Artikel: Dead Internet Theory (2026)**
+
+**Blog:Alive Internet Theory**
+
+**Website:Cursor Camp**
+
+### Vrijdag 9 okt - Check out 
+
+- Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+- Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+- Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken.
+
+### Vrijdag 9 okt - algemene werkgroep 
+
+### Voorbereiding - vrijdag 9 okt 
+
+**Lezen: https://www.nngroup.com/articles/using-grids-in-interface-designs/ & https://codechefs.dev/blog/rhythm-in-graphic-design-meaning-types-and-how-to-use-it/**
+
+**Kijken: https://deso-strapi-cms.onrender.com/uploads/DES_promo_Grids_5_pl_100mb_b84f11e7d0.mp4**
+
+**Deep-dive: S3 - Variabele fonts (Sanne)**
+
+### Woensdag 7 okt - check-out 
+
+- Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+
+Voor de ontwerper biedt een grid structuur en rust bij het indelen van de elementen. Voor de bezoeker zorgt het voor een duidelijke leesrichting en een overzichtelijke pagina
+  
+- Noem drie manieren om chaos in je ontwerp te voorkomen.
+
+Zorg voor consistente witruimte tussen elementen, breng een duidelijke visuele hiërarchie aan met verschillende groottes en gewichten, en beperk het aantal kleuren en lettertypen dat je gebruikt.
+
+- Hoeveel gekkigheid moet er in je werk zitten?
+
+Net genoeg om het persoonlijk en uniek te maken, zolang het de leesbaarheid en de gebruiksvriendelijkheid van de website maar niet in de weg zit.
+
+
+### Woensdag 7 okt - Algemene werkgroep 
+
+1.Bepaal de line-height bij je gekozen font-size
+
+Ik heb gekozen voor een standaard font-size van 1rem. En heb een schaalbare grote toegevoegd met clamp. Hierbij heb ik voor een line-height gekozen van 1.5rem.  
+
+2.Baseer je column-width op een veelvoud van je line-height 
+
+Ik wil werken met 4 kolommen. Met een regelhoogte van 1.5rem. Ik heb gekozen om dit met 4 te vermeningvuldigen omdat ik 4 kolommen wil van allemaal 1fr. Zo ben ik op deze formule uitgekomen: 	repeat(4, minmax(calc(1.5rem * 4), 1fr)); 
+
+3.Kun je daarmee een grid maken dat past bij je pagina ontwerp, rekening houdend met je measure?
+
+Op deze manier lukt het mij om een passend grid te maken, zoals ik heb uitgetekend in mijn schets. <img width="383" height="500" alt="Scherm­afbeelding 2026-10-18 om 15 12 16" src="https://github.com/user-attachments/assets/148c260f-96f7-4035-ab40-975703b7e996" />
+
+### Voorbereiding - woensdag 7 okt 
+
+**Artikel Technical Web Typography: Guidelines and Techniques @ Smashing Magazine**
+
+**Deep dive S3: Interessantere layouts (met Vasilis)**
+
+### Maandag 5 sept - Check out
+
+- Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+  
+- Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+
+- Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+
+### Maandag 5 sept - algemene werkgroep 
+
+**Songtekst analyseren: 8 schetsen**
+
+**Schetsen bespreken** 
+
+- Wat wil je bij de kijker bereiken met je vormgeving?
+- Hoe voegt jouw opzet iets toe aan de tekst?
+- Wat is een volgende stap: welke schets vind je het meest geschikt om digitaal uit te werken?
+- Hoe zou je dit kunnen aanpakken in code? (vraag hulp wanneer je het niet zeker weet)
+
+**HTML/CSS Ontwerp** 
+
 ### Voorbereiding - Vrijdag 2 okt
 
 **WCAG checklist afgewerkt**
@@ -16,7 +106,6 @@ Daarnaast had ik een fout gemaakt in mijn ul element, wat ik ook aangepast heb. 
 Ik ben alleen vergeten hiervan ss te maken dus helaas heb ik hier mijn proces niet duidelijk van in beeld. Hieronder kun je mijn uiteindelijke HTML zien na de aanpassingen. 
 
 <img width="1920" height="1080" alt="Definitieve HTML" src="https://github.com/user-attachments/assets/804bd8b6-3231-482a-8829-2d5ae2f92e5e" />
-
 
 ### Woensdag 30 sept - Check out
  
