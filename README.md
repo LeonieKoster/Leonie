@@ -61,7 +61,9 @@ Ik wil werken met 4 kolommen. Met een regelhoogte van 1.5rem. Ik heb gekozen om 
 
 3.Kun je daarmee een grid maken dat past bij je pagina ontwerp, rekening houdend met je measure?
 
-Op deze manier lukt het mij om een passend grid te maken, zoals ik heb uitgetekend in mijn schets. <img width="383" height="500" alt="Scherm­afbeelding 2026-10-18 om 15 12 16" src="https://github.com/user-attachments/assets/148c260f-96f7-4035-ab40-975703b7e996" />
+Op deze manier lukt het mij om een passend grid te maken, zoals ik heb uitgetekend in mijn schets. 
+
+<img width="383" height="500" alt="Scherm­afbeelding 2026-10-18 om 15 12 16" src="https://github.com/user-attachments/assets/148c260f-96f7-4035-ab40-975703b7e996" />
 
 ### Voorbereiding - woensdag 7 okt 
 
