@@ -73,15 +73,39 @@ Op deze manier lukt het mij om een passend grid te maken, zoals ik heb uitgeteke
 
 ### Maandag 5 sept - Check out
 
-- Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+- Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension.
+
+Alle termen zorgen ervoor dat een artikel goed leesbaar is. Daarnaast zorgt het ook voor een visuele spanning binnen een ontwerp. 
+1. Kerning: spatiëring tussen twee specifieke letters.
+2. Tracking: letterafstand van een heel woord.
+3. Leading: verticale regelafstand
+
+4. Flush-left/right: Links of rechts uitlijnen van de tekst
+5. Centered: In het midden uitlijnen
+6. Justified: volledig uitgevuld
+
+7. Indent: inspringen van de eerste regel
+8. Outdent: uitstekende eerste regel\
+
+9. Modular scale: harmonieuze lettergroottes
+10. Movable type: losse drukletters, hieruit komt de modular scale
+
+11. Focuspunt: visueel punt wat het belangrijkste is
+12. Vijf soorten contrast: grootte, gewicht, vorm, kleur en ruimte
+13. Spatial tension: ruimtelijke spanning tussen elementen. 
   
 - Wat is jouw ideale regellengte (measure)? Leg uit waarom.
 
-- Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+De ideale regellengte is 45 tot 75 tekens per regel, met 66 tekens als de ideale standaard.
+
+- Welke variabele zou je kiezen voor hiërarchie als je er maar één had en waarom?
+
+Ik zou kiezen voor letterspacing, omdat ik vind dat je hier veel leuke dingen mee kunt doen. Je kunt tekst onleesbaar maken of juist visueel aantrekkelijker maken. Het zorgt ervoor dat een tekst toch iets unieker wordt. 
 
 ### Maandag 5 sept - algemene werkgroep 
 
 **Songtekst analyseren: 8 schetsen**
+
 Om het ritme en de maat van het nummer Tijdsgeest visueel voelbaar te maken, ben ik begonnen met het uitwerken van 8 verschillende typografische schetsen. Door te spelen met verschillende lettergrootte, variaties in dikte en de plaatsing van woorden zoals "Ze is NU", "based", "complex" en "tijdsgeest", heb ik geprobeerd de cadans en klemtonen van de tekst te vangen. Soms herhalen woorden zich snel achter elkaar om een opzwepende maat weer te geven, en op andere plekken zorgen stippen en subtiele verschuivingen juist voor pauzes en rustmomenten. Met deze 8 schetsen onderzoek ik hoe typografie en visualisatie de dynamiek van het nummer versterken.
 
 <img width="4284" height="5712" alt="tempImage0TALdq" src="https://github.com/user-attachments/assets/04379b0d-412c-47ba-b8e7-876ebd528fff" />
@@ -115,6 +139,7 @@ Mijn definitieve digitale ontwerp is denk geschikt en duidelijk genoeg om digita
 Ik ga beginnen met het maken van een duidelijke html. Hierin wil ik gaan werken met duidelijke classes. Vervolgens ga ik een online schets maken voor een grid. Dit is iets waar ik namelijk erg veel moeite mee heb. Dus moet dit even voor mezelf visualiseren. Vanuit dit beeld ga ik een grid opstellen en ga ik de rest van de tekst stijlen in css. 
 
 **HTML/CSS Ontwerp** 
+
 Tot nu toe heb ik alleen mijn html opzet gemaakt en ervoor gezorgd dat de tekst het juiste lettertype heeft. 
 
 <img width="1366" height="768" alt="htmlopgesteld" src="https://github.com/user-attachments/assets/8ceacdff-472e-4418-94a1-64838f8667a7" />
