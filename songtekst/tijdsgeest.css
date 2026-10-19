@@ -51,6 +51,9 @@ body {
   font-size: 2em;
   font-style: italic;
   text-align: right;
+  flex-direction: row;
+  gap: 0.25em;
+  white-space: nowrap;
 }
 
 .kop5 {
@@ -80,13 +83,29 @@ body {
 }
 
 .kop8 {
-  grid-column-start: 1;
-  grid-row-start: 6;
+  grid-column: 1;
+  grid-row: 6;
+  font-size: 2.5em;
+  font-weight: 10;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 0.25em;
+  flex-wrap: nowrap;
+  white-space: nowrap;
 }
 
 .kop9 {
-  grid-column-start: 3;
-  grid-row-start: 6;
+  grid-column: 3;
+  grid-row: 6;
+  font-size: 2.5em;
+  font-weight: 10;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 0.25em;
+  flex-wrap: nowrap;
+  white-space: nowrap;
 }
 
 .kop10 {
