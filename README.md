@@ -1,12 +1,212 @@
 ## Learning Log
 
+### Voorbereiding - Maandag 19 okt 
+
+**Schetsen van animatie in website ontwerp** 
+
+**Typografische font toepassen in eigen website** 
+
+**Deep dive S3 - CSS animaties (Sanne)** 
+
+### Voorbereiding - Weekly Geek 
+
+**Artikel: From shrimp Jesus to erotic tractors (2025)**
+
+AI slop is goedkoop surrealistisch AI-gegenereerde content op social media. Dit is een eindproduct van twee krachten:
+- Algoritmes die primair zijn ontworpen voor maximale interactie en virale triggers. 
+- Mondiale economie waarin echt werk steeds minder oplevert, maar snelle virale content gigantische inkomsten genereren. 
+
+AI-slop ontstond na de doorbraak van grote modellen zoals chatGPT en DALL-E waarmee contentcreatie werd gedemocratiseerd. 
+
+De techniek verbetert maar de inhoud blijft griezelig, contextloos en rechtstreeks gericht op primitieve prikkels. 
+
+AI-slop makers komen uit de hele wereld. Veel content wordt op lopende band basis geproduceerd tegen zo laag mogelijke kosten. Geschat wordt dat slechts 5% van de makers ooit een video te gelde maakt en 1% er echt van kan leven. 
+
+Youtube grijpt steeds strenger in. Zo stelt het programma dat AI slechts een tool is en dat zij zich blijven richten op kwalitatieve content die aan de richtlijnen voldoet. 
+
+**Artikel: Dead Internet Theory (2026)**
+
+De Dead internet Theory (DIT) ontstond ruim 10 jaar geleden als reactie op veranderingen op het internet. Met name de komst van social media. Vandaag de dag heeft de opkomst van AI de theorie een nieuw leven in geblazen. Door het gebruik van bots om content te genereren en de obsessie met likes. Het draait tegenwoordig meer om inkomsten dan authenticiteit. Dit tast de verbindingen aan waarvoor netwerken oorspronkelijk in het leven zijn geroepen. 
+
+De theorie stelt dat het internet tegenwoordig:
+- Vol zit met door AI gegenereerde content, waardoor menselijke activiteit naar de achtergrond is verdrongen. 
+- Niet langer wordt aangedreven door mensen, maar door AI-agenten, bots en door algoritmes gegenereerde content.
+
+Door de opkomst van AI is de komst van bots gegroeid. Bots zijn geautomatiseerde softwareapplicaties die taken uitvoeren op internet. Ze hebben voordelen maar ook een hele boel nadelen. Denk bijvoorbeeld aan illegale activiteiten en ze zijn lastig van het echte te onderscheiden. Sinds 2024 is het geautomatiseerde internetverkeer hoger dan menselijke activiteiten. 
+
+Voorbeelden hiervan zijn: 
+- Verbedrijfseming (corporatization) van het internet: De cyberspace wordt gecontroleerd door bedrijven. Aandacht en data van gebruikers worden ingezet voor productontwikkeling, verkoop, bewaking en spionage.
+- Vervalste interacties en viraliteit: Ruimtes worden gevormd door kunstmatige interacties, algoritmes en nep-activiteit. 
+- Manipulatie van meningen: Door AI-geblazen content en bots kunnen opvattingen makkelijker en efficiënter worden gemanipuleerd, versterkt door censuur en homogenisering. 
+- Contentfarming: Het massaal publiceren van herhalende, kwalitatief arme webpagina's om verkeer te trekken en inkomsten te genereren, waarbij kwantiteit zwaarder weegt dan kwaliteit.
+
+Dit is op te lossen met ethiek. Er moeten modellen komen die zijn gebaseerd op ethische AI-kaders, denk hierbij aan transparantie, verantwoording, eerlijkheid en menselijk toezicht. Ook moet er kritisch gekeken worden naar het algoritme en het tonen en filteren van informatie. 
+
+Het is cruciaal dat menselijke autonomie niet verloren gaat. Als gebruikers kritisch blijven op regelgeving, onze datatoestemmingen en de software die we gebruiken. Ook bewust offline gaan is belangrijk. 
+
+### Vrijdag 9 okt - Check out 
+
+- Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+- Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+- Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken.
+
+### Vrijdag 9 okt - algemene werkgroep 
+
+Ik was afwezig tijdens deze les vanwege een ziekenhuis afspraak dus heb de feedback niet kunnen doen en de opdrachten in de les ook niet. Ik hoop na de vakantie feedback te ontvangen op mijn werk zodat ik hier verder mee aan de slag kan. 
+
+### Voorbereiding - vrijdag 9 okt 
+
+**Lezen: Using Grids in Interface Designs**
+
+Grids in interface-ontwerp helpen ontwerpers om samenhangende lay-outs te creëren, waardoor eindgebruikers interfaces gemakkelijk kunnen scannen en gebruiken. Een goed grid past zich aan op verschillende schermformaten en oriëntaties, wat zorgt voor consistentie over verschillende platforms heen.
+
+Een webpagina-grid helpt gebruikers en ontwerpers met structuur. Danzij een consistent referentiepunt verbeteren grids de leesbaarheid en scanbaarheid van een pagina. 
+
+Drie meest gebruikte grid-typen: 
+- Kolomgrid: de pagina wordt verdeeld in verticale kolommen waarop elementen en content worden uitgelijnd. 
+- Modulair grid: breidt het kolomgrid uit door ook rijen toe te voegen. Het snijpunt van kolommen en rijen vormt 'modules’.
+- Hiërarchisch grid: Content wordt gerangschikt op basis van belangrijkheid. 
+
+De opbouw van een grid: 
+- Kolommen (columns): Hierin staat de daadwerkelijke content. Breedtes worden meestal gedefinieerd in percentages zodat ze responsief schalen.
+- Tussenruimtes (gutters): De lege ruimtes tussen kolommen om elementen visueel te scheiden.
+- Marges (margins): De uiterste linker- en rechterranden van het scherm waar geen content staat.
+
+Een grid zorgt ervoor dat ontwerpers een snel goed uitgelijnd interface kunnen bouwen. Daarnaast kunnen gebruikers voorspelbare op grid gebaseerde pagina’s sneller scannen. Ook is het essentieel voor een responsieve webdesign. En als laatste biedt het een gezamenlijke taal tussen ontwerpers. 
+
+**Artikel: Rhythm in Graphic Design: Types, Uses, and Examples**
+
+Ritme in grafisch ontwerp is een vorm van herhaling die beweging creëert binnen een visuele lay-out. Het verbetert de kwaliteit van het ontwerp en helpt de blik van de kijker te sturen. 
+
+Ritme vormt de cadans van een visueel ontwerp. Visuele elementen zorgen ervoor dat de gebruiker door de pagina heen geleid kan worden. Zonder dat het ontwerp saai of chaotisch aanvoelt. 
+
+Drie kerntypen van ritme:
+- Regelmatig ritme (regular rhythm): Elementen worden op gelijke afstanden van elkaar herhaald. Dit creëert voorspelbaarheid en rust.
+- Afwisselend ritme (alternating rhythm): Hierbij wissel je twee of meer elementen of intervallen met elkaar af in een vast patroon. Dit houdt de aandacht vast.
+- Willekeurig/Random ritme (random rhythm): Een gecontroleerde willekeur waarbij elementen zonder strikt patroon terugkeren, wat zorgt voor een lossere, organische of dynamische sfeer.
+
+Het afwisselen van tekst- en afbeeldjingsblokken zorgt ervoor dat een pagina niet eentonig wordt. Daarnaast zorgen koppen en subkoppen voor een typografisch ritme. 
+
+Veel gemaakte fouten zijn bijvoorbeeld te veel ritme waardoor een ontwerp eentonig en vermoeiend is. Of juist te weinig waardoor het rommelig en warrig oogt. Ook is het doorbreken van intervallen een veelvoorkomende fout. Hierdoor krijg je een slordige uitlijning, die het ritme verstoort. 
+
+**Deep-dive: S3 - Variabele fonts (Sanne)**
+
+### Woensdag 7 okt - check-out 
+
+- Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+
+Voor de ontwerper biedt een grid structuur en rust bij het indelen van de elementen. Voor de bezoeker zorgt het voor een duidelijke leesrichting en een overzichtelijke pagina
+  
+- Noem drie manieren om chaos in je ontwerp te voorkomen.
+
+Zorg voor consistente witruimte tussen elementen, breng een duidelijke visuele hiërarchie aan met verschillende groottes en gewichten, en beperk het aantal kleuren en lettertypen dat je gebruikt.
+
+- Hoeveel gekkigheid moet er in je werk zitten?
+
+Net genoeg om het persoonlijk en uniek te maken, zolang het de leesbaarheid en de gebruiksvriendelijkheid van de website maar niet in de weg zit.
+
+
+### Woensdag 7 okt - Algemene werkgroep 
+
+1.Bepaal de line-height bij je gekozen font-size
+
+Ik heb gekozen voor een standaard font-size van 1rem. En heb een schaalbare grote toegevoegd met clamp. Hierbij heb ik voor een line-height gekozen van 1.5rem.  
+
+2.Baseer je column-width op een veelvoud van je line-height 
+
+Ik wil werken met 4 kolommen. Met een regelhoogte van 1.5rem. Ik heb gekozen om dit met 4 te vermeningvuldigen omdat ik 4 kolommen wil van allemaal 1fr. Zo ben ik op deze formule uitgekomen: 	repeat(4, minmax(calc(1.5rem * 4), 1fr)); 
+
+3.Kun je daarmee een grid maken dat past bij je pagina ontwerp, rekening houdend met je measure?
+
+Op deze manier lukt het mij om een passend grid te maken, zoals ik heb uitgetekend in mijn schets. 
+
+<img width="383" height="500" alt="Scherm­afbeelding 2026-10-18 om 15 12 16" src="https://github.com/user-attachments/assets/148c260f-96f7-4035-ab40-975703b7e996" />
+
+### Voorbereiding - woensdag 7 okt 
+
+**Artikel Technical Web Typography: Guidelines and Techniques @ Smashing Magazine**
+
+**Deep dive S3: Interessantere layouts (met Vasilis)**
+
+### Maandag 5 sept - Check out
+
+- Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension.
+
+Alle termen zorgen ervoor dat een artikel goed leesbaar is. Daarnaast zorgt het ook voor een visuele spanning binnen een ontwerp. 
+1. Kerning: spatiëring tussen twee specifieke letters.
+2. Tracking: letterafstand van een heel woord.
+3. Leading: verticale regelafstand
+
+4. Flush-left/right: Links of rechts uitlijnen van de tekst
+5. Centered: In het midden uitlijnen
+6. Justified: volledig uitgevuld
+
+7. Indent: inspringen van de eerste regel
+8. Outdent: uitstekende eerste regel\
+
+9. Modular scale: harmonieuze lettergroottes
+10. Movable type: losse drukletters, hieruit komt de modular scale
+
+11. Focuspunt: visueel punt wat het belangrijkste is
+12. Vijf soorten contrast: grootte, gewicht, vorm, kleur en ruimte
+13. Spatial tension: ruimtelijke spanning tussen elementen. 
+  
+- Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+
+De ideale regellengte is 45 tot 75 tekens per regel, met 66 tekens als de ideale standaard.
+
+- Welke variabele zou je kiezen voor hiërarchie als je er maar één had en waarom?
+
+Ik zou kiezen voor letterspacing, omdat ik vind dat je hier veel leuke dingen mee kunt doen. Je kunt tekst onleesbaar maken of juist visueel aantrekkelijker maken. Het zorgt ervoor dat een tekst toch iets unieker wordt. 
+
+### Maandag 5 sept - algemene werkgroep 
+
+**Songtekst analyseren: 8 schetsen**
+
+Om het ritme en de maat van het nummer Tijdsgeest visueel voelbaar te maken, ben ik begonnen met het uitwerken van 8 verschillende typografische schetsen. Door te spelen met verschillende lettergrootte, variaties in dikte en de plaatsing van woorden zoals "Ze is NU", "based", "complex" en "tijdsgeest", heb ik geprobeerd de cadans en klemtonen van de tekst te vangen. Soms herhalen woorden zich snel achter elkaar om een opzwepende maat weer te geven, en op andere plekken zorgen stippen en subtiele verschuivingen juist voor pauzes en rustmomenten. Met deze 8 schetsen onderzoek ik hoe typografie en visualisatie de dynamiek van het nummer versterken.
+
+<img width="4284" height="5712" alt="tempImage0TALdq" src="https://github.com/user-attachments/assets/04379b0d-412c-47ba-b8e7-876ebd528fff" />
+
+<img width="4284" height="5712" alt="tempImageg73OzB" src="https://github.com/user-attachments/assets/17304753-8795-495a-b23a-dfb4afc97a68" />
+
+Vanuit de 8 handgeschreven schetsen heb ik één digitale compositie gemaakt die als blauwdruk dient voor mijn code. Hierin spelen typografische keuzes een sleutelrol om het ritme zichtbaar te maken:   
+- Font-size & dikte: Sterke hiërarchie met grote, schreefloze koppen ("ZE IS NU", "ZE IS HIER") en dikgedrukte woorden ("BASED", "COMPLEX") die de klemtonen in de beat benadrukken.
+- Line-height & spatiering: Open regelafstand bovenin voor een rustige intro, tegenover uiterst opgerekte tracking bij "e n v a n t e c h n o..." voor een slepend effect.
+- Plaatsing & effecten: Een opgengestapeld blokje tekst rechtsboven voor een snelle opsomming, herhalende "NU"'s die horizontaal meebewegen met de maat, en gespiegelde teksten onderin bij "DE TIJDSGEEST" om de tijdsdimensie visueel te prikkelen.   
+
+Vanuit deze schets is de maat van het nummer goed zichtbaar en voelbaar. 
+
+<img width="322" height="448" alt="Scherm­afbeelding 2026-10-18 om 15 14 41" src="https://github.com/user-attachments/assets/6ef7715f-a185-4096-bb3c-85c0dab37f6f" />
+
+**Schetsen bespreken** 
+
+1. Wat wil je bij de kijker bereiken met je vormgeving?
+
+Ik wil dat de kijker de muziek en de energie van het nummer Tijdsgeest niet alleen leest, maar direct fysiek ervaart. De vormgeving moet als het ware een visuele beat worden die je meetrekt in het ritme, de spanning en de cadans van het lied.
+
+2. Hoe voegt jouw opzet iets toe aan de tekst?
+
+De typografie fungeert als een extra instrument. Door te spelen met heftige contrasten in lettergrootte, dikte, uitgerekte witruimte en spiegelingen, krijgen de woorden een eigen performance. Een uitgerekte regel of een keihard gedrukt woord als COMPLEX krijgt daardoor een lading en ritme die in een standaard tekst verloren zouden gaan.
+
+3. Wat is een volgende stap: welke schets vind je het meest geschikt om digitaal uit te werken?
+
+Mijn definitieve digitale ontwerp is denk geschikt en duidelijk genoeg om digitaal uit te werken. 
+
+4. Hoe zou je dit kunnen aanpakken in code?
+Ik ga beginnen met het maken van een duidelijke html. Hierin wil ik gaan werken met duidelijke classes. Vervolgens ga ik een online schets maken voor een grid. Dit is iets waar ik namelijk erg veel moeite mee heb. Dus moet dit even voor mezelf visualiseren. Vanuit dit beeld ga ik een grid opstellen en ga ik de rest van de tekst stijlen in css. 
+
+**HTML/CSS Ontwerp** 
+
+Tot nu toe heb ik alleen mijn html opzet gemaakt en ervoor gezorgd dat de tekst het juiste lettertype heeft. 
+
+<img width="1366" height="768" alt="htmlopgesteld" src="https://github.com/user-attachments/assets/8ceacdff-472e-4418-94a1-64838f8667a7" />
+
 ### Voorbereiding - Vrijdag 2 okt
 
 **WCAG checklist afgewerkt**
 
 Ik heb de punten die mijn website nog miste aangepast zodat mijn site toegankelijk is voor iedereen. 
 <img width="1920" height="1080" alt="WCAGChecklist" src="https://github.com/user-attachments/assets/a288a150-c124-45a3-887e-af53305291b8" />
-
 
 **HTML gevalideerd**
 Ik heb mijn HTML gecheckt met de tool. Hieruit bleek dat ik toch best veel dingen verkeerd deed. Zo had mijn website helemaal geen title en daarnaast had ik een hele boel eigen termen gebruikt, dat geen officiële HTML termen zijn. Dit heb ik aangepast zodat het wel klopt. 
@@ -17,7 +217,6 @@ Daarnaast had ik een fout gemaakt in mijn ul element, wat ik ook aangepast heb. 
 Ik ben alleen vergeten hiervan ss te maken dus helaas heb ik hier mijn proces niet duidelijk van in beeld. Hieronder kun je mijn uiteindelijke HTML zien na de aanpassingen. 
 
 <img width="1920" height="1080" alt="Definitieve HTML" src="https://github.com/user-attachments/assets/804bd8b6-3231-482a-8829-2d5ae2f92e5e" />
-
 
 ### Woensdag 30 sept - Check out
  
