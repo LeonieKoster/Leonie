@@ -97,10 +97,19 @@ Variabele fonts zijn lettertypen waarbij meerdere varianten van een lettertype i
 
 Naast standaard eigenschappen kunnen letterontwerpers ook allerlei extra variabele eigenschappen aan een variabel font toevoegen. Die extra eigenschappen heten assen. Om de custom assen in te stellen gebruik je de font-variation-settings-property. Elke as heeft een naam die uit vier letters bestaat. Die naam gebruik je om de as een waarde te geven. 
 
+Opdracht 1: De opdracht ging me best redelijk af, alleen het laatste deel snapte ik niet helemaal. 
 
+<img width="1470" height="956" alt="Scherm­afbeelding 2026-10-20 om 20 22 29" src="https://github.com/user-attachments/assets/35339546-adb7-48d8-809e-46ca5bf9bdbb" />
 
+Je kan met een transition vloeiend van de ene in een andere waarden veranderen. Bv van font-weight 100 naar 900.
 
+Een gestapelde transition is een transition waarbij de letters van een woord een voor een veranderen, steeds met een kleine tussenpoos. Je zet hiervoor elke letter in een span
+ 
+Opdracht 2: Deze opdracht ging met echt supergoed af. Ik vind het leuk om te zien dat je eigenlijk zoveel met de fonts kunt, dit wist ik helemaal niet. Dit ga ik ook zeker toepassen in mijn songtekst. 
 
+<img width="1470" height="956" alt="Scherm­afbeelding 2026-10-20 om 21 12 33" src="https://github.com/user-attachments/assets/d89b6df6-9f0d-4ac6-91aa-e783dfc0c539" />
+
+https://github.com/user-attachments/assets/d3aca0d4-8d74-465a-acdd-f53fd0b692e7
 
 ### Woensdag 7 okt - check-out 
 
