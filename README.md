@@ -47,8 +47,16 @@ Het is cruciaal dat menselijke autonomie niet verloren gaat. Als gebruikers krit
 ### Vrijdag 9 okt - Check out 
 
 - Welke variabelen van Seraphs gebruik je in de opmaak van je songtekst?
+
+Ik gebruik in mijn songtekst een combinatie van lettergrootte, cursieve stijlen, dikte-as, schreef-as en rotaties van het lettertype. 
+
 - Wat voegt iedere variabele toe aan je ontwerp (denk aan leesbaarheid, hiërarchie of de uitstraling die je wil bereiken)?
+
+Het zorgt ervoor dat de dynamiek en hierarchie veranderd zodat je weet welke stukken tekst belangrijk zijn en welke minder. Daarnaast zorgen de hover-effecten voor een subtiele spanning. 
+ 
 - Hoe zou je animatie kunnen toepassen om het ritme of de accenten in de weergave van je songtekst nog beter visueel te maken.
+
+Ik denk dat ik al genoeg verschillende elementen heb gebruikt. 
 
 ### Vrijdag 9 okt - algemene werkgroep 
 
@@ -110,6 +118,12 @@ Opdracht 2: Deze opdracht ging met echt supergoed af. Ik vind het leuk om te zie
 <img width="1470" height="956" alt="Scherm­afbeelding 2026-10-20 om 21 12 33" src="https://github.com/user-attachments/assets/d89b6df6-9f0d-4ac6-91aa-e783dfc0c539" />
 
 https://github.com/user-attachments/assets/d3aca0d4-8d74-465a-acdd-f53fd0b692e7
+
+Opdracht 3: Ik merk dat ik de echt lange codes last vind, bijvoorbeeld waneer je cal() moet gebruiken. Bij deze opdracht gingen de eerste 3 oefeningen goed, de 4de opzich ook maar heb dit volgens de uitwerking niet op de juiste manier gedaan. 
+
+<img width="1470" height="956" alt="Scherm­afbeelding 2026-10-20 om 21 31 32" src="https://github.com/user-attachments/assets/7b0c4e02-8f06-4cc2-8a02-a65a267450d2" />
+
+https://github.com/user-attachments/assets/6cb90209-dc9b-4171-9fcf-61ba4a23c43a
 
 ### Woensdag 7 okt - check-out 
 
