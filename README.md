@@ -89,7 +89,18 @@ Het afwisselen van tekst- en afbeeldjingsblokken zorgt ervoor dat een pagina nie
 
 Veel gemaakte fouten zijn bijvoorbeeld te veel ritme waardoor een ontwerp eentonig en vermoeiend is. Of juist te weinig waardoor het rommelig en warrig oogt. Ook is het doorbreken van intervallen een veelvoorkomende fout. Hierdoor krijg je een slordige uitlijning, die het ritme verstoort. 
 
-**Deep-dive: S3 - Variabele fonts (Sanne)**
+**Deep-dive: S3 - Variabele fonts**
+
+Aantekeningen voorbereiding  
+
+Variabele fonts zijn lettertypen waarbij meerdere varianten van een lettertype in één enkel font-bestand zijn samengevoegd. Een variable font hoef je meestal maar één keer met @font-face te declareren, de verschillende gewichten hoef je niet meer apart toe te voegen. Gebruik je maar één of twee varianten van een lettertype, dan kunnen losse font-bestanden efficiënter zijn. 
+
+Naast standaard eigenschappen kunnen letterontwerpers ook allerlei extra variabele eigenschappen aan een variabel font toevoegen. Die extra eigenschappen heten assen. Om de custom assen in te stellen gebruik je de font-variation-settings-property. Elke as heeft een naam die uit vier letters bestaat. Die naam gebruik je om de as een waarde te geven. 
+
+
+
+
+
 
 ### Woensdag 7 okt - check-out 
 
