@@ -1,7 +1,6 @@
-/* /* MARK: fonts */
 @font-face {
   font-family: "Seraphs";
-  src: url("font/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
+  src: url("font/SeraphsVF.woff2") format("woff2");
 }
 
 html {
@@ -417,4 +416,68 @@ body {
     font-size: 2em;
     color: red;
   }
+}
+
+@keyframes --zeisnu-animation {
+  0% {
+    translate: 0;
+  }
+  100% {
+    translate: calc(100cqi - 3em);
+  }
+}
+
+.kop7,
+.kop11,
+.kop14 {
+  animation-name: --zeisnu-animation;
+  animation-duration: 5s;
+  animation-iteration-count: ease-in-out;
+  animation-direction: reverse;
+  animation-play-state: running;
+}
+
+.kop14 {
+  animation-name: --zeisnu-animation;
+  animation-duration: 5s;
+  animation-iteration-count: ease-in-out;
+  animation-direction: normal;
+  animation-play-state: running;
+}
+
+@keyframes --wolf-animation {
+  0% {
+    translate: -1em 1em;
+  }
+  50% {
+    translate: -1em -1em;
+  }
+  50% {
+    translate: 1em -1em;
+  }
+}
+
+.kop14 {
+  @media (prefers-reduced-motion: no-preference) {
+    animation-name: --wolf-animation;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+}
+
+@keyframes --gnome-animation {
+  0% {
+    rotate: 0turn;
+  }
+  100% {
+    rotate: 1turn;
+  }
+}
+
+.kop9,
+.kop8 {
+  animation-name: --gnome-animation;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
 }
