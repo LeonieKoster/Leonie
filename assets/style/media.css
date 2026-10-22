@@ -1,4 +1,4 @@
-@media (max-width: 600px) {
+@media (max-width: 640px) {
   header {
     height: auto; /* volledige hoogte van het scherm*/
     padding: 1.5rem 0;
@@ -125,23 +125,85 @@
   /* Roze blok but why */
   .Roze-butwhy {
     justify-content: flex-start;
+    margin-bottom: 0;
   }
 
   .Roze-butwhy h2 {
-    font-size: 2rem;
+    font-size: 3rem;
     margin-top: -3rem;
   }
 
   .Roze-butwhy p:nth-of-type(1),
   .Roze-butwhy p:nth-of-type(2) {
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     margin-top: 0;
     margin-bottom: 1rem;
+    font-weight: 900;
   }
 
   .Roze-butwhy p:nth-of-type(3) {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     margin-top: 0.5rem;
-    margin-bottom: 0;
+  }
+
+  /* themas blok */
+  #themas {
+    margin-left: 1rem;
+    justify-items: center;
+    align-content: center;
+  }
+
+  .themas-pin-container {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 0 1.5rem;
+    margin-top: -5rem;
+  }
+
+  .themas-intro {
+    position: static;
+    top: auto;
+    width: 90%;
+  }
+
+  .themas-intro h2 {
+    margin-top: 0;
+    font-size: 3.5rem;
+    letter-spacing: 0.2rem;
+  }
+
+  .themas-intro p {
+    font-size: 0.9rem;
+  }
+
+  .themas-scroll-wrap {
+    grid-template-columns: 0.8fr;
+    gap: 2rem;
+    justify-items: center;
+    align-content: center;
+  }
+
+  .themas-scroll-wrap article {
+    display: grid;
+    margin: 0;
+  }
+
+  .themas-scroll-wrap article img {
+    height: 290px;
+    width: 300px;
+    justify-self: start;
+  }
+
+  .themas-scroll-wrap article h3 {
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-right: 1rem;
+  }
+
+  .themas-scroll-wrap article p {
+    font-size: 0.9rem;
+    justify-items: center;
+    margin-right: 2.5rem;
   }
 }
