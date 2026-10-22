@@ -308,7 +308,7 @@ main > figure img {
 }
 /* Roze/paars tekstblok */
 main > article:nth-of-type(1) {
-  width: 70%; /* breedte */
+  width: 75%; /* breedte */
   height: 100vh;
   background-color: var(--color-rozepaars);
   color: var(--bg-roodblauw);
@@ -320,17 +320,19 @@ main > article:nth-of-type(1) {
 article:nth-of-type(1) h2 {
   margin-bottom: 0;
   font-size: 3rem;
-  padding-top: 7rem;
+  padding-top: 5rem;
   align-self: center;
   color: var(--bg-roodblauw);
+  padding-left: 3rem;
 }
 
 article:nth-of-type(1) p {
   margin-top: 0rem;
   font-family: "NotoSans";
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   align-self: center;
   font-variation-settings: "wght" 300;
+  padding-left: 2rem;
 }
 
 /* Rood/blauw tekstblok */
@@ -360,6 +362,11 @@ article:nth-of-type(2) ul {
   font-weight: bold;
   list-style: none;
   color: var(--bg-wit);
+}
+
+article:nth-of-type(2) li:hover {
+  font-size: 2rem;
+  text-decoration: underline;
 }
 
 .Roze-butwhy {
@@ -457,6 +464,7 @@ article:nth-of-type(2) ul {
   font-size: 5rem;
   line-height: 1;
   margin-bottom: 1rem;
+  padding-left: 4rem;
 }
 
 .themas-intro p {
@@ -464,6 +472,7 @@ article:nth-of-type(2) ul {
   font-size: 1.1rem;
   line-height: 1.5;
   margin: 0;
+  padding-left: 4rem;
 }
 
 .themas-scroll-wrap {
@@ -483,6 +492,10 @@ article:nth-of-type(2) ul {
   height: 280px;
   margin-bottom: 1rem;
   align-items: flex-start;
+}
+
+.themas-scroll-wrap article img:hover {
+  border: 4px solid white;
 }
 
 .themas-scroll-wrap article h3 {
