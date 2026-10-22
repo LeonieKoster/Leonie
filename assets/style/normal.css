@@ -2,6 +2,7 @@
 Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEXOvwREbxQI-Jrwtu28LpYMecb5lRC2Gbw14JWvxRtnyC2WQ
 Websites voor inspiratie: https://codepen.io/marlowD/full/zYVRKge & https://codepen.io/cameronknight/pen/qBNvrRQ
 Gesprek met chat.gpt voor uitleg inspiratie code: https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15.*/
+/* Gesprek met chat.gpt voor uitleg waarom grid niet werkt: https://chatgpt.com/uc/6ada6752-dab4-83ea-9848-5d9493901733 */
 
 /* fonts */
 @font-face {
@@ -329,8 +330,7 @@ article:nth-of-type(1) p {
   font-family: "NotoSans";
   font-size: 1.3rem;
   align-self: center;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  font-variation-settings: "wght" 300;
 }
 
 /* Rood/blauw tekstblok */
@@ -391,27 +391,28 @@ article:nth-of-type(2) ul {
 
 .Roze-butwhy p:nth-of-type(1) {
   font-family: "NotoSans", sans-serif;
-  font-size: 1.3rem;
+  font-size: 1rem;
   line-height: 1.5;
   color: var(--color-roodblauw);
   max-width: 650px;
   margin-top: 0;
   margin-bottom: 1.5rem;
-  align-self: flex-start;
   text-align: left;
+  font-variation-settings: "wght" 300;
 }
 
 .Roze-butwhy p:nth-of-type(2) {
   font-family: "NotoSans", sans-serif;
-  font-size: 1.3rem;
+  font-size: 1rem;
   line-height: 1.5;
   margin-bottom: 1.5rem;
   text-align: left;
+  font-variation-settings: "wght" 300;
 }
 
 .Roze-butwhy p:nth-of-type(3) {
   font-family: "BebasNeue", sans-serif;
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   letter-spacing: 0.05em;
   margin-top: 1rem;
   text-align: left;
@@ -429,16 +430,20 @@ article:nth-of-type(2) ul {
   padding: 10rem 0;
   scroll-snap-align: start;
   scroll-snap-stop: end;
+  padding-inline: 1rem;
+  box-sizing: border-box;
 }
 
 .themas-pin-container {
   display: grid;
   grid-template-columns: 31% 1fr;
-  gap: 3rem;
+  gap: 2rem;
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 4rem;
   align-items: start;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .themas-intro {
@@ -477,6 +482,7 @@ article:nth-of-type(2) ul {
   width: 280px;
   height: 280px;
   margin-bottom: 1rem;
+  align-items: flex-start;
 }
 
 .themas-scroll-wrap article h3 {
@@ -484,23 +490,27 @@ article:nth-of-type(2) ul {
   font-size: 1.2rem;
   line-height: 1.4;
   margin-bottom: 1.25rem;
+  font-variation-settings: "wght" 400;
 }
 
 .themas-scroll-wrap article p {
   font-family: "NotoSans", sans-serif;
-  font-size: 0.95rem;
+  font-size: 1rem;
   line-height: 1.6;
   margin-top: 0;
   margin-bottom: 1rem;
+  font-weight: 793;
+  font-variation-settings: "wght" 200;
 }
 
 .themas-scroll-wrap article a {
   font-family: "NotoSans", sans-serif;
-  font-size: 0.9rem;
+  font-size: 1rem;
   text-underline-offset: 0.25rem;
   margin-top: auto;
   font-weight: bold;
   color: var(--bg-lichtroze);
+  font-variation-settings: "wght" 300;
 }
 
 .themas-scroll-wrap a:hover {
