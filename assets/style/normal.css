@@ -1,7 +1,7 @@
 /* Bronnen & bronvermelding:
-Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEXOvwREbxQI-Jrwtu28LpYMecb5lRC2Gbw14JWvxRtnyC2WQ 
-Websites voor inspiratie: https://codepen.io/marlowD/full/zYVRKge & https://codepen.io/cameronknight/pen/qBNvrRQ 
-Gesprek met chat.gpt voor uitleg inspiratie code:  https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15.*/
+Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEXOvwREbxQI-Jrwtu28LpYMecb5lRC2Gbw14JWvxRtnyC2WQ
+Websites voor inspiratie: https://codepen.io/marlowD/full/zYVRKge & https://codepen.io/cameronknight/pen/qBNvrRQ
+Gesprek met chat.gpt voor uitleg inspiratie code: https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15.*/
 
 /* fonts */
 @font-face {
@@ -277,14 +277,14 @@ dialog section:nth-of-type(2) p {
 main {
   width: 100%;
   block-size: 100vh;
-  overflow-x: hidden; /*niet horizontaal verschuiven*/
-  overflow-y: auto; /*inhoud hoger dan de ruimte, mag je verticaal scrollen*/
-  scroll-snap-type: y mandatory; /*scroll verticaal tot een snap-punt*/
+  overflow-x: hidden;
+  overflow-y: auto;
+  scroll-snap-type: y mandatory;
   scroll-behavior: smooth;
 }
 
-main article,
-main figure {
+main > article,
+main > figure {
   position: sticky;
   top: 0;
   width: 100%;
@@ -298,7 +298,7 @@ main figure {
   scroll-snap-align: start;
 }
 /* Afbeelding */
-main figure img {
+main > figure img {
   width: 100%; /* breedte */
   height: 100vh;
   block-size: 100vh; /* hoogte */
@@ -306,7 +306,7 @@ main figure img {
   margin: 0;
 }
 /* Roze/paars tekstblok */
-main article:nth-of-type(1) {
+main > article:nth-of-type(1) {
   width: 70%; /* breedte */
   height: 100vh;
   background-color: var(--color-rozepaars);
@@ -334,7 +334,7 @@ article:nth-of-type(1) p {
 }
 
 /* Rood/blauw tekstblok */
-main article:nth-of-type(2) {
+main > article:nth-of-type(2) {
   width: 100%;
   height: 100vh;
   background-color: var(--bg-roodblauw);
@@ -411,7 +411,99 @@ article:nth-of-type(2) ul {
 
 .Roze-butwhy p:nth-of-type(3) {
   font-family: "BebasNeue", sans-serif;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   letter-spacing: 0.05em;
   margin-top: 1rem;
+  text-align: left;
+}
+
+#themas {
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--bg-roodblauw);
+  color: var(--bg-wit);
+
+  position: relative;
+  z-index: 50;
+
+  padding: 10rem 0;
+  scroll-snap-align: start;
+  scroll-snap-stop: end;
+}
+
+.themas-pin-container {
+  display: grid;
+  grid-template-columns: 31% 1fr;
+  gap: 3rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 4rem;
+  align-items: start;
+}
+
+.themas-intro {
+  position: sticky;
+  top: 10rem;
+  align-self: start;
+}
+
+.themas-intro h2 {
+  font-family: "BebasNeue", sans-serif;
+  font-size: 5rem;
+  line-height: 1;
+  margin-bottom: 1rem;
+}
+
+.themas-intro p {
+  font-family: "NotoSans", sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.themas-scroll-wrap {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2.5rem;
+}
+
+.themas-scroll-wrap article {
+  display: flex;
+  flex-direction: column;
+}
+
+.themas-scroll-wrap article img {
+  display: block;
+  width: 280px;
+  height: 280px;
+  margin-bottom: 1rem;
+}
+
+.themas-scroll-wrap article h3 {
+  font-family: "NotoSans", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.4;
+  margin-bottom: 1.25rem;
+}
+
+.themas-scroll-wrap article p {
+  font-family: "NotoSans", sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.themas-scroll-wrap article a {
+  font-family: "NotoSans", sans-serif;
+  font-size: 0.9rem;
+  text-underline-offset: 0.25rem;
+  margin-top: auto;
+  font-weight: bold;
+  color: var(--bg-lichtroze);
+}
+
+.themas-scroll-wrap a:hover {
+  color: var(--bg-wit);
+  font-style: italic;
 }
