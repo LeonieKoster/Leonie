@@ -1,14 +1,27 @@
 ## Learning Log
 
-### Voorbereiding - Maandag 19 okt 
+### Woensdag 21 okt - Algemene werkgroep 
 
-**Schetsen van animatie in website ontwerp** 
+**Weekly Geek**
+<img width="1366" height="768" alt="weeklygeek" src="https://github.com/user-attachments/assets/cf848d1b-eb3e-40f6-ba12-44574cf92047" />
 
-**Typografische font toepassen in eigen website** 
+**Peerfeedback**
+<img width="1366" height="768" alt="Peerfeedback" src="https://github.com/user-attachments/assets/38ae180f-0d75-4050-8626-1390e2cb7d2a" />
 
-**Deep dive S3 - CSS animaties (Sanne)** 
+Wat neem ik mee: 
+Uit de peerfeedback die ik van Annelot heb ontvangen, blijkt dat mijn project al een erg sterke basis heeft. Op de meeste onderdelen (zoals de responsiviteit, toegankelijkheid met toetsenbord en screenreader) scoort mijn webstie positief.   
 
-### Voorbereiding - Weekly Geek 
+Toch heb ik het gevoel dat mijn website nog niet helemaal "af" is. Om de kwaliteit naar een hoger niveau te tillen, ga ik aan de slag met mijn top 3 verbeterpunten:   
+1. Grid toevoegen: Ik ga een grid toevoegen om de typografie en layout beter te structureren en strakker uit te lijnen.   
+2. Scroll-driven animaties uitbreiden: De huidige scroll-animaties werken al goed, maar ik wil deze op meer plekken in de tekst en op de pagina gaan toepassen.   
+3. Het "oneindige" gevoel versterken: Ik wil de ervaring van infinite scroll beter overbrengen door meer tekst/content toe te voegen, zodat het gevoel van een doorlopend verhaal beter tot zijn recht komt.   
+
+Vervolgstappen:
+Met deze feedback ga ik de komende week aan de slag om de puntjes op de i te zetten, extra content toe te voegen en de animaties verder te verfijnen.
+
+### Voorbereiding - woensdag 21 okt
+
+**Weekly Geek**
 
 **Artikel: From shrimp Jesus to erotic tractors (2025)**
 
@@ -43,6 +56,32 @@ Voorbeelden hiervan zijn:
 Dit is op te lossen met ethiek. Er moeten modellen komen die zijn gebaseerd op ethische AI-kaders, denk hierbij aan transparantie, verantwoording, eerlijkheid en menselijk toezicht. Ook moet er kritisch gekeken worden naar het algoritme en het tonen en filteren van informatie. 
 
 Het is cruciaal dat menselijke autonomie niet verloren gaat. Als gebruikers kritisch blijven op regelgeving, onze datatoestemmingen en de software die we gebruiken. Ook bewust offline gaan is belangrijk. 
+
+### Maandag 19 okt - Algemene werkgroep 
+
+**Webby checklist** 
+<img width="1366" height="768" alt="Webby checklist" src="https://github.com/user-attachments/assets/586bcc83-492e-43fb-af36-6debde437c49" />
+
+Feedback vanuit de checklist: 
+
+- Het roze tekstblok voelt nog leeg als je niet hebt doorgescrolt.
+- Coockie pop-up: Eventueel nog links toevoegen, hover/focus state verduidelijken bij de close knop. Close knop veranderen naar akkoort?
+- Mooi mobile-first ontwerp
+- De kleuren zijn speels, maar ondanks dat is er genoeg contrast.
+- De scroll-animatie is origineels en voegt echt wat speels toe aan de website.
+- In de dark-modus de kleiner/dunne tekst iets dikker maken.
+- De website is goed te bedienen met toetsenbord.
+- De lay-out van de site is uniek en zie je niet snel. 
+
+### Voorbereiding - Maandag 19 okt 
+
+**Schetsen van animatie in website ontwerp** 
+
+**Typografische font toepassen in eigen website** 
+
+**Deep dive S3 - CSS animaties (Sanne)** 
+
+Ik heb de deepdive gelezen en doorgenomen en heb hieruit punten gehaald om in mijn songtekst te gebruiken. Zo heb ik nu delen van mijn songtekst die aan komen vliegen en die rond draaien. Ik heb voornamelijk gespeeld met het vergroten van tekst of woorden, omdat in de muziek de nadruk ook ligt op maar een paar woorden. 
 
 ### Vrijdag 9 okt - Check out 
 
