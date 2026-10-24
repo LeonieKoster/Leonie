@@ -1,5 +1,11 @@
 ## Learning Log
 
+### Voorbereiding - vrijdag 23 okt
+
+Na de feedback heb ik nog een paar kleine aanpassingen gedaan, zoals een grid toegevoegd. Een extra scroll-pagina en een verandering in de cookie close knop.
+
+<img width="1366" height="768" alt="laatste wijziging" src="https://github.com/user-attachments/assets/e3321336-7995-47a2-ac6f-568249fa7e4f" />
+
 ### Woensdag 21 okt - Algemene werkgroep 
 
 **Weekly Geek**
@@ -65,7 +71,7 @@ Het is cruciaal dat menselijke autonomie niet verloren gaat. Als gebruikers krit
 Feedback vanuit de checklist: 
 
 - Het roze tekstblok voelt nog leeg als je niet hebt doorgescrolt.
-- Coockie pop-up: Eventueel nog links toevoegen, hover/focus state verduidelijken bij de close knop. Close knop veranderen naar akkoort?
+- Coockie pop-up: Eventueel nog links toevoegen, hover/focus state verduidelijken bij de close knop. 
 - Mooi mobile-first ontwerp
 - De kleuren zijn speels, maar ondanks dat is er genoeg contrast.
 - De scroll-animatie is origineels en voegt echt wat speels toe aan de website.
@@ -273,6 +279,10 @@ Ik ga beginnen met het maken van een duidelijke html. Hierin wil ik gaan werken 
 Tot nu toe heb ik alleen mijn html opzet gemaakt en ervoor gezorgd dat de tekst het juiste lettertype heeft. 
 
 <img width="1366" height="768" alt="htmlopgesteld" src="https://github.com/user-attachments/assets/8ceacdff-472e-4418-94a1-64838f8667a7" />
+
+### Vrijdag 2 okt - Retrospect 
+
+<img width="1366" height="768" alt="Webby checklist" src="https://github.com/user-attachments/assets/7aa07f3b-e289-4591-b860-f943fb5f9893" />
 
 ### Voorbereiding - Vrijdag 2 okt
 
