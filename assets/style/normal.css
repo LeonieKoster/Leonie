@@ -1,11 +1,18 @@
-/* Bronnen & bronvermelding:
+/* /* Bronnen & bronvermelding:
 Afbeelding beginpagina: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEXOvwREbxQI-Jrwtu28LpYMecb5lRC2Gbw14JWvxRtnyC2WQ
 Websites voor inspiratie: https://codepen.io/marlowD/full/zYVRKge & https://codepen.io/cameronknight/pen/qBNvrRQ
 Gesprek met chat.gpt voor uitleg inspiratie code: https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15.
 Gesprek met chat.gpt voor uitleg waarom grid niet werkt: https://chatgpt.com/uc/6ada6752-dab4-83ea-9848-5d9493901733 
 Hulp gevraagd bij het opschonen van mijn css: https://chatgpt.com/c/6add1c49-afe8-83eb-85ae-6ddd522d4b31 
 
-/* fonts */
+Afbeeldingen thema pagina: 
+- Our minds: https://i.pinimg.com/736x/42/fe/c1/42fec132ce89fed165c8372578d34b94.jpg
+- Our lives: https://i.pinimg.com/originals/5b/6c/b4/5b6cb488936c7e694fae3d5b05a11739.jpg
+- Our bodies: https://i.pinimg.com/736x/2f/98/26/2f9826a5aa2a1362e643b0744a8a9153.jpg (zelf geedit) 
+- Online: https://i.pinimg.com/736x/4f/aa/fe/4faafeb1feb163b587b5c04a3719276d.jpg 
+
+ */
+
 @font-face {
   font-family: "BebasNeue";
   src: url("../type/BebasNeue-Regular.ttf");
@@ -212,7 +219,6 @@ hgroup p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Tekst blok 1 */
 dialog section:nth-of-type(1) {
   display: block;
   margin-top: -1rem;
@@ -436,7 +442,6 @@ article:nth-of-type(2) li:hover {
   color: var(--bg-wit);
 
   scroll-snap-align: start;
-  scroll-snap-stop: end;
 }
 
 .themas-pin-container {
