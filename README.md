@@ -1,11 +1,51 @@
 ## Learning Log
 
+## CSS opschonen 
+
+Ik heb met behulp van chat.gpt mijn css code opgeschoond. Hierna heb ik ook mijn html en css gevalideerd, om te checken of mijn code goed is. Conclusie na het opschonen: 
+- Vaak gebruik ik margin los dus schrijf ik in mijn code een losse margin voor de top of bottom terwijl dit ook korter in één regel kan. 
+- Ik had verschillende font ingeladen die ik helemaal niet in mijn website gebruik. Deze is onnodig dus deze zijn verwijderd.
+- Ik had meerdere stukken code die hetzelfde zeiden, bv dubbele padding waardoor ze elkaar overschreden.
+- Ik gebruikte Scroll-snap-stop: end; maar dit is een ongeldige waarde. 
+- In veel gevallen gebruikte ik een andere volgorde van plaatsing van mijn code, dit heb ik aangepast zodat elk stuk nu een consistente volgorde heeft. 
+
+<img width="1366" height="768" alt="HTML CSS" src="https://github.com/user-attachments/assets/ef734d50-0123-4808-9814-48cbca29a793" />
+
+Link naar mijn chat gesprek: href="https://chatgpt.com/c/6add1c49-afe8-83eb-85ae-6ddd522d4b31">chatgpt.com<a/>
+
+### Vrijdag 23 okt - Algemene werkgroep 
+
+**Retrospect** 
+Ik heb de laatste retrospect ingevuld. 
+
+<img width="1366" height="768" alt="Retrospect 3" src="https://github.com/user-attachments/assets/0b799516-e17c-4ddd-8911-fa50428e3847" />
+
+Korte samenvatting: 
+Het was een bewogen blok. Ik begon erg enthousiast toen ik over de opdracht hoorde. Een vrije opdracht, waar ik veel creativiteit in kwijt kan. Maar al snel veranderde dit in stress en onzekerheid. Omdat ik best veel technische problemen ervaarde en ik toch minder kennis had van code dan ik dacht. Daarnaast door persoonlijke omstandigheden en het missen van lessen, liep ik een achterstand op wat voor nog meer stress zorgde. Aan het einde van de eerste sprint, bleek dat ik me veelte druk maakte en ik eigenlijk al erg goed bezig was. En dat ik de lat niet zo hoog voor mezelf moet leggen. Dit gaf me weer moed. 
+
+De tweede sprint begon dus ook positief, maar helaas in de laatste week verloor ik mijn hele proces, van mijn site tot readme, waardoor ik echt even paniek had. Maar ook dit is weer opgelost, wat een enorme opluchting was. Verder vond ik de tweede sprint eigenlijk heel goed gaan, de opdracht vond ik leuk en ging me goed af. 
+
+De derde sprint vond ik best een taaie, de opdracht van de songtekst was niet helemaal mijn ding. Ik vond de opdracht op zich leuk, maar het uitwerken in code vond ik een hele uitdaging. Ik had hele leuke ideeen, maar kwam er al snel achter dat dit voor mijzelf iets te hoog gegrepen was. Daarom heb ik mijn ontwerp omgegooid, zodat het wel haalbaar was. Daarnaast vind ik zelf animaties niet heel interessant dus was mijn motivatie deze sprint een beetje laag. Maar uiteindelijk ben ik wel bij met het resultaat wat ik heb neergezet en dat het me toch gelukt is. 
+
+Mijn metafoor heb ik dan ook "Rome is ook niet in een dag gebouwd" genoemd, omdat deze uitspraak laat zien dat grote en ingewikkelde projecten tijd, geduld en doorzettingsvermogen kosten. Precies wat dit blok voor mij was. Geduld, doorzettingsvermogen, stress, technische hobbels maar uiteindelijk een mooi resultaat om trots op te zijn. 
+
+**Feedback** 
+
+Het feedback gesprek was erg positief. Mijn verslaglegging is duidelijk en compleet. Alleen moet ik mijn proces van de songtekst nog even goed uitwerken in de readme. Ik kon dit goed vertellen maar dit was nog niet terug te vinden. Verder voldoet mijn songtekst en website aan de "eisen" en ziet het er beide goed uit. Mocht ik nog tijd over hebben kan ik hier nog iets verder op door, maar dit is ook voldoende. Ik kreeg als tip van de StudentAssistent om mijn website nog even te checken met de lichthouse functie. 
+
 ### Voorbereiding - vrijdag 23 okt
 
 Na de feedback heb ik nog een paar kleine aanpassingen gedaan, zoals een grid toegevoegd. Een extra scroll-pagina en een verandering in de cookie close knop.
 
 <img width="1366" height="768" alt="laatste wijziging" src="https://github.com/user-attachments/assets/e3321336-7995-47a2-ac6f-568249fa7e4f" />
 
+**Animatie toegevoegd in de lijst**
+
+Maandag tijdens de Webby-checklist krijg ik als feedback dat de More-lijst voelt als een lijst met knoppen, daarom heb ik hier een kleine animatie aan toe gevoegd. Als je over de woorden heen hovert wordt er een streep doorheen getrokken en worden ze iets groter, hierdoor lijkt het meer op een to-do lijstje of items die je afstreept. Dit past bij het gevoel van nooit genoeg. 
+
+<img width="1366" height="768" alt="Animatie" src="https://github.com/user-attachments/assets/c45764bc-e0bd-4830-9c46-cbe6014dd3c4" />
+
+**
 ### Woensdag 21 okt - Algemene werkgroep 
 
 **Weekly Geek**
@@ -77,7 +117,8 @@ Feedback vanuit de checklist:
 - De scroll-animatie is origineels en voegt echt wat speels toe aan de website.
 - In de dark-modus de kleiner/dunne tekst iets dikker maken.
 - De website is goed te bedienen met toetsenbord.
-- De lay-out van de site is uniek en zie je niet snel. 
+- De lay-out van de site is uniek en zie je niet snel.
+- De More-lijst voelt als een lijst met verschillende knoppen, misschien kan je hier nog iets aan toevoegen dat dit minder zo voelt.
 
 ### Voorbereiding - Maandag 19 okt 
 
