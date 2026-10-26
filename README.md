@@ -80,7 +80,9 @@ Ik heb met behulp van chat.gpt mijn css code opgeschoond. Hierna heb ik ook mijn
 
 <img width="1366" height="768" alt="HTML CSS" src="https://github.com/user-attachments/assets/ef734d50-0123-4808-9814-48cbca29a793" />
 
-Link naar mijn chat gesprek: href="https://chatgpt.com/c/6add1c49-afe8-83eb-85ae-6ddd522d4b31">chatgpt.com<a/>
+Link naar mijn chat gesprek: href="https://chatgpt.com/c/6add1c49-afe8-83eb-85ae-6ddd522d4b31">chatgpt.com<a/> 
+
+Ook heb ik mijn CSS van mijn songtekst opgeschoond daarvoor heb ik ook chat.gpt gebruikt. Bekijk hier het gesprek: href="https://chatgpt.com/c/6adfb9fd-5ec0-83ed-a178-b979ac5663f3  ">chatgpt.com<a/> 
 
 ### Vrijdag 23 okt - Algemene werkgroep 
 
