@@ -1,6 +1,73 @@
 ## Learning Log
 
-<img width="1366" height="768" alt="Songtekst nieuw" src="https://github.com/user-attachments/assets/2ea8578d-79c6-4312-ac34-90221cbce297" />
+## Nieuwe songtekst 
+
+Ik was nog niet helemaal tevreden met mijn songtekst ontwerp. Ik vond hem niet bij de stijl van mijn website passen en hier stoorde ik mij aan. Daarnaast wilde ik nog een paar leuke animaties toevoegen die ik bij medestudenten heb gezien tijdens de expo. 
+
+https://github.com/user-attachments/assets/6ece48a5-6c14-4a35-b77f-bc994cad9b54
+
+<img width="1366" height="768" alt="uitiendelijke songtekst" src="https://github.com/user-attachments/assets/1ccb0987-0d04-4be0-b436-62749278bdd4" />
+
+## Webby en Log 
+
+Tijdens de laatste les heb ik in een groepje mijn website en learning log bekeken en beoordeeld of het Webby en log is. 
+
+<img width="1366" height="768" alt="learning log" src="https://github.com/user-attachments/assets/ecb0925c-2633-4dbd-b06e-f785517f8542" />
+
+**Conclusie Hoe "webby" is je eindproduct?**  
+Mijn website heeft een erg sterke, unieke basis met veel positieve punten, maar er zijn ook een paar technische en functionele puntjes waar ik nog even naar ga kijken.   
+
+Sterke punten:
+- Responsive en toegankelijk: De website werkt goed op zowel kleine als grote schermen en past zich netjes aan. Het contrast is voldoende en de screenreader is goed georganiseerd met duidelijke koppen.   
+
+- Interactiviteit en visuele stijl: Mijn website heeft een unieke lay-out, goed passende fonts, duidelijke visuele hiërarchie, en goed werkende focus- en hover-states. Ook de light-dark mode en scroll-animaties vallen erg in de smaak.   
+
+Verbeterpunten:
+- Er treden soms nog kleine errors op (zoals bij het "But why"-gedeelte en de scroll-animaties) en soms loopt er wat tekst uit het scherm. Op kleine schermen kan de bediening met de vingers soms wat lastig zijn.   
+
+- Het weigeren van cookies kan scherper worden ingericht en gebruikers willen graag meer informatie of een link over cookies zien. Eventueel kun je de cookie pop-up via een subtiele animatie langzamer op het scherm laten verschijnen.   
+
+Maar dit zijn een paar kleine puntjes waar ik zeker nog wat mee wil doen. 
+
+**Conclusie Hoe "log" is jouw learning log?**  
+
+Mijn learning log is al goed leesbaar en bevat al veel waardevolle onderdelen en is heel uitgebreid, maar hij is op dit moment nog niet helemaal compleet.   
+
+- Er zijn verschillende versies van mijn digital garden en schetsen (inclusief de cookie-schetsen) duidelijk zichtbaar en voorzien van goede beschrijvingen.   
+- Afbeeldingen staan er netjes in en het log is prettig en goed door te lezen.   
+
+Wat er nog moet gebeuren:
+- Missende onderdelen toevoegen: Ik moet nog een aantal dingen toevoegen om het compleet te maken, zoals schetsen van de animatie voor de songlist, Retrospect 2 (inclusief wat extra toelichting bij sprint 1 en 2) en een duidelijke conclusie van het blok.   
+-  Proces en bronnen: Het proces rondom de songtekst mag nog wat duidelijker worden uitgewerkt. Daarnaast moeten de gebruikte bronnen (die nu soms alleen nog in de code staan) ook netjes in het learning log zelf worden vermeld.   
+
+Dit zijn punten die ik nog even ga aanvullen in mijn learning log.
+
+## Eind Expo 
+
+<img width="1366" height="768" alt="eindexpo" src="https://github.com/user-attachments/assets/e33c896a-7a71-483e-a393-e1e6a5fddccb" />
+
+Vanuit de eindexpo heb ik de volgende feedback gekregen: 
+Wet, toegankelijkheid en privacy: 
+- Duidelijke, mooie cookie pop-up.   
+- Professionele cookie pop-up.
+- De cookies is erg goed geformuleerd.   
+- De cookie vermeldt duidelijk wat het betekent en de focus state is duidelijk en goed in contrast.
+- Eerlijke cookiemelding die duidelijk is en in het thema past. 
+
+Toegepaste ontwerpvaardigheden:
+- Je ontwerpvaardigheden zijn super tof uitgekomen, alles past rondom het thema.   
+- Lay-out is erg verrassend.
+- Het beeld past zich mooi aan op kleine schermen. 
+- Mooi gebruik van scroll-animatie.   
+
+Toegepaste technische vaardigheden:
+Scroll-animaties:
+- Goede scroll-animatie, ook heel "smooth".   
+- Mooie scroll-animatie.   
+- Home page cool scroll.   
+- De animaties, links en scroll behavior werkt heel chill en zit goed in elkaar.
+
+Kortom vooral de scroll-animatie van de home page en mijn cookie button vallen erg in de smaak. Mijn lay-out en website is verassend en past goed bij het thema. 
 
 ### CSS opschonen 
 
@@ -22,7 +89,7 @@ Ik heb de laatste retrospect ingevuld.
 
 <img width="1366" height="768" alt="Retrospect 3" src="https://github.com/user-attachments/assets/0b799516-e17c-4ddd-8911-fa50428e3847" />
 
-Korte samenvatting: 
+Korte samenvatting van de 3 sprints: 
 Het was een bewogen blok. Ik begon erg enthousiast toen ik over de opdracht hoorde. Een vrije opdracht, waar ik veel creativiteit in kwijt kan. Maar al snel veranderde dit in stress en onzekerheid. Omdat ik best veel technische problemen ervaarde en ik toch minder kennis had van code dan ik dacht. Daarnaast door persoonlijke omstandigheden en het missen van lessen, liep ik een achterstand op wat voor nog meer stress zorgde. Aan het einde van de eerste sprint, bleek dat ik me veelte druk maakte en ik eigenlijk al erg goed bezig was. En dat ik de lat niet zo hoog voor mezelf moet leggen. Dit gaf me weer moed. 
 
 De tweede sprint begon dus ook positief, maar helaas in de laatste week verloor ik mijn hele proces, van mijn site tot readme, waardoor ik echt even paniek had. Maar ook dit is weer opgelost, wat een enorme opluchting was. Verder vond ik de tweede sprint eigenlijk heel goed gaan, de opdracht vond ik leuk en ging me goed af. 
@@ -47,7 +114,6 @@ Maandag tijdens de Webby-checklist krijg ik als feedback dat de More-lijst voelt
 
 <img width="1366" height="768" alt="Animatie" src="https://github.com/user-attachments/assets/c45764bc-e0bd-4830-9c46-cbe6014dd3c4" />
 
-**
 ### Woensdag 21 okt - Algemene werkgroep 
 
 **Weekly Geek**
@@ -59,7 +125,7 @@ Maandag tijdens de Webby-checklist krijg ik als feedback dat de More-lijst voelt
 Wat neem ik mee: 
 Uit de peerfeedback die ik van Annelot heb ontvangen, blijkt dat mijn project al een erg sterke basis heeft. Op de meeste onderdelen (zoals de responsiviteit, toegankelijkheid met toetsenbord en screenreader) scoort mijn webstie positief.   
 
-Toch heb ik het gevoel dat mijn website nog niet helemaal "af" is. Om de kwaliteit naar een hoger niveau te tillen, ga ik aan de slag met mijn top 3 verbeterpunten:   
+Toch heb ik het gevoel dat mijn website nog niet helemaal "af" is. Daarom ga ik aan de slag met mijn top 3 verbeterpunten:   
 1. Grid toevoegen: Ik ga een grid toevoegen om de typografie en layout beter te structureren en strakker uit te lijnen.   
 2. Scroll-driven animaties uitbreiden: De huidige scroll-animaties werken al goed, maar ik wil deze op meer plekken in de tekst en op de pagina gaan toepassen.   
 3. Het "oneindige" gevoel versterken: Ik wil de ervaring van infinite scroll beter overbrengen door meer tekst/content toe te voegen, zodat het gevoel van een doorlopend verhaal beter tot zijn recht komt.   
@@ -124,9 +190,11 @@ Feedback vanuit de checklist:
 
 ### Voorbereiding - Maandag 19 okt 
 
-**Schetsen van animatie in website ontwerp** 
+**Animatie toegevoegd in de songtekst** 
 
-**Typografische font toepassen in eigen website** 
+Vanuit de deepdive CSS animaties heb ik verschillende dingen gehaald en deze in mijn songtekst toegevoegd. Ik heb hiervoor de code gekopieerd vanuit de deepdive. Hierdoor ben ik tot de gewenste animaties gekomen. 
+
+https://github.com/user-attachments/assets/818689ce-9a2d-453e-8c3a-1a0897191b94
 
 **Deep dive S3 - CSS animaties (Sanne)** 
 
