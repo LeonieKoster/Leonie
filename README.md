@@ -1285,23 +1285,25 @@ Voor vandaag had ik me ingescreven voor de volgende twee deep dives:
 - CSS: fonts met kleur en effecten
 
 Ik ben begonnen met de deepdive Praktische CSS hiervoor kregen we de taak om als huiswerk een lelijke website te maken. Ik heb een website gemaakt met een guide to Amsterdam, met een h1, h2, afbeelding, orderd list, button en verschillende paragrafen. <img
-<img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/3727ad2b-2dd6-4930-8d58-d28d035b1ddb" />
+<img width="1470" height="956" alt="DD3" src="https://github.com/user-attachments/assets/974de9bb-a435-41d4-af46-ac9dd6d63b9e" />
 
-     alt="Een lelijke website van een guide to Amsterdam zonder enige opmaak">
 
 Daarnaast heb ik ook de dinner game gedaan, maar tijdens dit spel merkte ik dat ik toch nog vest wat moeite had met de CSS begrijpen. Naarmate de levels moeilijker werden, duurde het steeds langer voordat ik klaar was. Ik hoop dat ik dit blok hier sneller in wordt en het me beter afgaat.
 
-Tijdens de deepdive heeft Vasilis ons stap voor stap meegenomen in het proces en heb ik uiteindelijk een goede basis voor een website neergezet. En is het al een stuk duidelijker geworden voor mij. <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/7cf3a757-8c04-4191-98b4-f33019860dd5" />
+Tijdens de deepdive heeft Vasilis ons stap voor stap meegenomen in het proces en heb ik uiteindelijk een goede basis voor een website neergezet. En is het al een stuk duidelijker geworden voor mij. <img width="1156" height="652" alt="DD2" src="https://github.com/user-attachments/assets/ad9203f6-fdd8-432a-b7bd-1c8a5b3c609f" />
+
 
 Voor de tweede deepdive van de dag had ik me ingeschreven voor CSS: fonts met kleur en effecten. Hiervoor heb ik de eerste opdracht al huiswerk gedaan. Hierbij moest je een afbeelding namaken. <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/f0486d93-5aa5-46ee-8a7e-2361db6c9b0d" />
 .
 Dit ging mij eigenlijk vrij goed af. Door goed de instructies te lezen en volgen kwam ik op het gewenste resultaat.
 
-Verder zijn wij in de les bezig geweest met de andere opdrachten. Hier was ik wel een stuk langer mee bezig omdat de uitleg hier iets minder uitgebreid bij was. Met hulp van Sanne is het mij gelukt om de bovenste afbeelding na te maken. <img src="/Users/leoniekoster/Desktop/Scherm­afbeelding 2026-09-04 om 12.35.46.png" alt="Afbeelding van de eerste opdracht in de les".
+Verder zijn wij in de les bezig geweest met de andere opdrachten. Hier was ik wel een stuk langer mee bezig omdat de uitleg hier iets minder uitgebreid bij was. Met hulp van Sanne is het mij gelukt om de bovenste afbeelding na te maken. <img width="1470" height="956" alt="DD4" src="https://github.com/user-attachments/assets/46230d98-fafe-477d-a55a-7fb2667dd897" />
+
 
      Tijdens de les is het mij niet gelukt de onderste af te maken. Dit is wel iets wat ik graag nog wil doen. Ook wil ik de andere opdrachten nog een keer proberen.
 
-<img src="//Users/leoniekoster/Desktop/Scherm­afbeelding 2026-09-07 om 16.12.15.png" alt="Afbeelding van de eerste opdracht in de les".
+<img width="434" height="566" alt="DD5" src="https://github.com/user-attachments/assets/830e9336-b8e4-4394-8cec-f0c5839989d9" />
+
 
 ### Woensdag 2 sept - Deep dives
 
