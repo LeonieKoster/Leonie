@@ -1,5 +1,7 @@
 ## Learning Log
 
+<img width="1366" height="768" alt="Songtekst nieuw" src="https://github.com/user-attachments/assets/2ea8578d-79c6-4312-ac34-90221cbce297" />
+
 ### CSS opschonen 
 
 Ik heb met behulp van chat.gpt mijn css code opgeschoond. Hierna heb ik ook mijn html en css gevalideerd, om te checken of mijn code goed is. Conclusie na het opschonen: 
@@ -1309,18 +1311,9 @@ Ik heb gekozen om vandaag de volgende deep dives te volgen:
 - Interactie: MMD, micro-interacties, forms
 
 Voor de eerste deepdive HTML & CSS Basics heb ik de artikelen gelezen die we als huiswerk hadden gekregen, hier heb ik aantekeningen bij gemaakt.
-<img 
-     src="../../Afbeeldingen//Aantekening1.HEIC" 
-     alt="Afbeelding van aantekening van de gelezen artikelen">
-<img 
-     src="../../Afbeeldingen//Aantekening2.HEIC"
-     alt="Afbeelding van aantekening van de gelezen artikelen">
-<img 
-     src="../../Afbeeldingen//Aantekening3.HEIC"
-     alt="Afbeelding van aantekening van de gelezen artikelen">
-<img 
-     src="../../Afbeeldingen//Aantekening4.HEIC"
-     alt="Afbeelding van aantekening van de gelezen artikelen">
+<img width="1366" height="768" alt="aantekeningen" src="https://github.com/user-attachments/assets/04145018-2959-4a6f-82ea-b543c8b76a59" />
+
+
 Tijdens het lezen van deze artikelen kwamen de volgende vragen bij mij op:
 
 - Wat is het verschil tussen "b" en "strong"?
