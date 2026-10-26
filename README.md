@@ -1,6 +1,6 @@
 ## Learning Log
 
-## CSS opschonen 
+### CSS opschonen 
 
 Ik heb met behulp van chat.gpt mijn css code opgeschoond. Hierna heb ik ook mijn html en css gevalideerd, om te checken of mijn code goed is. Conclusie na het opschonen: 
 - Vaak gebruik ik margin los dus schrijf ik in mijn code een losse margin voor de top of bottom terwijl dit ook korter in één regel kan. 
