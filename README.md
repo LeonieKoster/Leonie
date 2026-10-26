@@ -227,7 +227,6 @@ Zorg voor consistente witruimte tussen elementen, breng een duidelijke visuele h
 
 Net genoeg om het persoonlijk en uniek te maken, zolang het de leesbaarheid en de gebruiksvriendelijkheid van de website maar niet in de weg zit.
 
-
 ### Woensdag 7 okt - Algemene werkgroep 
 
 1.Bepaal de line-height bij je gekozen font-size
@@ -246,9 +245,13 @@ Op deze manier lukt het mij om een passend grid te maken, zoals ik heb uitgeteke
 
 ### Voorbereiding - woensdag 7 okt 
 
-**Artikel Technical Web Typography: Guidelines and Techniques @ Smashing Magazine**
+**Aanpassing songtekst ontwerp**
 
-**Deep dive S3: Interessantere layouts (met Vasilis)**
+Toen ik bezig was met het omzetten van mijn songtekst in een grid merkte ik dat mijn ontwerp iets te hoog gegrepen was voor mij. Ik raakte zelf helemaal in de war van mijn ontwerp, dus heb ervoor gekozen iets anders te maken. Ik heb een combinatie gemaakt van een paar schetsen en ben toen tot mijn uiteindelijk ontwerp gekomen, die voor mij wel haalbaar was. 
+
+<img width="1366" height="768" alt="oude ontwepr" src="https://github.com/user-attachments/assets/2251c208-9d8c-4fcb-9711-2b66844e0d9e" />
+
+<img width="1366" height="768" alt="nieuw ontwepr" src="https://github.com/user-attachments/assets/3a16abe0-6010-4df7-ba48-16dd5db642d1" />
 
 ### Maandag 5 sept - Check out
 
@@ -325,7 +328,11 @@ Tot nu toe heb ik alleen mijn html opzet gemaakt en ervoor gezorgd dat de tekst 
 
 ### Vrijdag 2 okt - Retrospect 
 
-<img width="1366" height="768" alt="Webby checklist" src="https://github.com/user-attachments/assets/7aa07f3b-e289-4591-b860-f943fb5f9893" />
+<img width="1366" height="768" alt="Webby checklist" src="https://github.com/user-attachments/assets/7aa07f3b-e289-4591-b860-f943fb5f9893" /> 
+
+Korte samenvatting van deze sprint: 
+
+Wanneer ik terugblik op deze sprint, was het een chaotische en stressvolle sprint. Ik had een probleem met mijn gegevens waardoor ik alles kwijt was, dit zorgde natuurlijk voor heel wat paniek. Vandaar de metafoor "Woeste Rivier". Ik kwam een flinke uitdaging tegen in het water, maar ondanks dat ben ik erdoor heen gekomen en kwam ik terecht op een mooi zonnig meer. Of te wel, ondanks de paniek en stress heb ik deze sprint met een mooi resultaat afgesloten. 
 
 ### Voorbereiding - Vrijdag 2 okt
 
@@ -428,11 +435,19 @@ Visueel, motorisch, cognitief en auditief
 
 <img width="5712" height="4284" alt="tempImagen1DgkT" src="https://github.com/user-attachments/assets/490a25f7-9697-4fbe-810d-89b85b0a0e2b" />
 
-**Opdracht 22:Reisplannen met screenreader en toetsenbord**
+Tijdens de les heb ik mee gedaan met de bi-weekly geek. Zie hierboven het formulier en de vragen bij het onderwerp. 
+
+**Opdracht 22: Reisplannen met screenreader en toetsenbord**
 
 <img width="1920" height="1080" alt="ns" src="https://github.com/user-attachments/assets/c1ed36c7-87fa-4d48-8dea-5feac0fc51a2" />
 
+Ik heb samen met Inger tijdens de les de opdracht gedaan om een reis te plannen naar Maastricht met alleen de screenreader of het toetsenbord. Dit bleek een stuk moeilijker te zijn dan verwacht. Het was even inkomen met de toets combinaties, maar met het spiekbriefje was het best goed te doen. 
+
 **Opdracht 23:Spiekbriefje**
+
+<img width="1366" height="768" alt="spiekbriefje" src="https://github.com/user-attachments/assets/6f42b67e-e837-478f-8aa6-73f4a3ed3aae" />
+
+Ik heb een spiekbriefje gemaakt met alle combinaties die ik denk nodig te hebben met het bedienen van mijn website met een screenreader of het toetsenbord. 
 
 **Feedback Vasilis**
 
@@ -495,6 +510,25 @@ AI-chatbots kunnen informatie van betrouwbare of zelfs gesanctioneerde bronnen m
 ### Vrijdag 25 sept - algemene werkgroep
 
 **Opdracht 21: HTML valideren**
+(code voor het valideren)
+<img width="1920" height="1080" alt="htmlopzet" src="https://github.com/user-attachments/assets/6d24f06d-903c-4b70-aad6-dc5df7ce57c9" />
+
+Ik heb mijn website gevalideerd hieruit kwamen een paar errors
+
+Belangrijkste fouten (Errors):
+- Ontbrekende elementen: De <head>-sectie mist een verplicht title-element.   
+- Ongeldige tags: Er worden niet-bestaande HTML-elementen gebruikt, zoals <cookie>, <intro>, <blok> en <blok2>. Browsers herkennen deze niet.
+- Onjuiste nesting: Een <strong>-element is direct geplaatst in een <ul>-element, terwijl dit in een <li>-element hoort te staan.   
+
+Verbeterpunten (Warnings en Info):
+- Toegankelijkheid: Meerdere <section>-elementen missen een koptekst (h2 tot en met h6), wat de semantische structuur en toegankelijkheid vermindert.   
+- Code-opbouw: Er is op verschillende plekken een slash gebruikt bij lege elementen (zoals <meta /> en <img />), wat in HTML5 geen functioneel effect heeft.
+
+(meldingen die ik kreeg tijdens het valideren)
+<img width="1920" height="1080" alt="HTML valideren" src="https://github.com/user-attachments/assets/ec28215d-86b9-49ad-a6ef-fb5ae6503c90" />
+
+(code na het valideren en aanpassen)
+<img width="1920" height="1080" alt="Definitieve HTML" src="https://github.com/user-attachments/assets/a3070ff1-1454-481a-b328-1815d973b8da" />
 
 ### Voorbereidingen - vrijdag 25 sept
 
