@@ -1126,12 +1126,7 @@ Stappenplan:
 Afbeeldingen
 Om verschillende afbeeldingen te gebruiken voor je lichte en donkere thema, kun je het <picture> element gebruiken. Daarmee zet je in je HTML twee afbeeldingen. Met een media query geef je aan welke afbeelding in dark mode gebruikt moet worden. Je hebt hiervoor geen CSS nodig.
 
-Je begint met het opnemen van de <img> als gewoonlijk. Vervolgens voeg je in de <source> de afbeelding voor het donker thema toe. Met een media query geef je aan dat deze afbeelding getoond moet worden als dark mode actief is. Je krijgt dan deze code:
-
-- <picture>
-    <source srcset="images/iphone-dark.jpg" media="(prefers-color-scheme: dark)" />
-    <img src="images/iphone-light.jpg" alt="de iPhone 17" />
-  </picture>
+Je begint met het opnemen van de <img> als gewoonlijk. Vervolgens voeg je in de <source> de afbeelding voor het donker thema toe. Met een media query geef je aan dat deze afbeelding getoond moet worden als dark mode actief is.
 
 Je kunt ook verschillende afbeeldingen laten zien op verschillende grootte schermen. Je begint weer met <img> en voegt een tweede afbeelding toe met <source>. Vervolgens geef je met media="(width > 40em)aan welke afbeelding gebruikt moet worden als het scherm groter wordt.
 
