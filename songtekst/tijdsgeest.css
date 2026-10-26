@@ -1,5 +1,6 @@
 /* Bronnen & bronvermelding:
-Hulp gevraagd bij het opschonen van mijn css van mijn songtekst: https://chatgpt.com/c/6adfb9fd-5ec0-83ed-a178-b979ac5663f3  */
+Hulp gevraagd bij het opschonen van mijn css van mijn songtekst: https://chatgpt.com/c/6adfb9fd-5ec0-83ed-a178-b979ac5663f3  
+Code voor de media query: https://gemini.google.com/app/ddf67af027d4a8dc  */
 
 @font-face {
   font-family: "Seraphs";
@@ -343,7 +344,7 @@ footer {
 
 .basedcomplex:hover span {
   font-weight: 10;
-  color: var(--color-rozepaars);
+  color: var(--bg-lichtroze);
 }
 
 .tijdsgeest-section {
@@ -529,6 +530,62 @@ footer {
     transform: rotate(0deg);
     font-size: 2em;
     font-weight: 200;
-    color: var(--color-rozepaars);
+    color: var(--bg-lichtroze);
+  }
+}
+
+@media (max-width: 640px) {
+  header {
+    height: auto;
+    min-height: 5rem;
+    padding: 0 1rem;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+
+  header nav a {
+    margin: 0 0.5rem;
+    font-size: 1.1rem;
+  }
+
+  body.lyrics-page {
+    padding: 7rem 1rem 1rem;
+  }
+
+  .poster {
+    grid-template-columns: 1fr;
+    padding: 20px;
+    gap: 1.2rem;
+  }
+
+  #arabier,
+  #drillers,
+  .ze,
+  .rechten,
+  .nu,
+  .basedcomplex,
+  .tijdsgeest-section,
+  .tijdsgeest-section1,
+  .flip-section {
+    grid-column: 1 / -1;
+    grid-row: auto;
+    text-align: left;
+  }
+
+  .rechten {
+    text-align: left;
+  }
+
+  .ze h2,
+  .nu p:first-child,
+  .basedcomplex h3,
+  .tijdsgeest-section .de1,
+  .tijdsgeest-section h3,
+  .tijdsgeest,
+  .tijdsgeest-section1 .de2,
+  .tijdsgeest-section1 h3,
+  .flip-section p {
+    font-size: 1.5em;
   }
 }
