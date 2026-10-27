@@ -1,5 +1,33 @@
 ## Learning Log
 
+## Bronvermelding
+
+### Afbeeldingen
+* **Afbeelding beginpagina:** [Verkregen via Google Afbeeldingen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEXOvwREbxQI-Jrwtu28LpYMecb5lRC2Gbw14JWvxRtnyC2WQ)
+* **Thema's - Our Minds:** [Pinterest](https://i.pinimg.com/736x/42/fe/c1/42fec132ce89fed165c8372578d34b94.jpg)
+* **Thema's - Our Lives:** [Pinterest](https://i.pinimg.com/originals/5b/6c/b4/5b6cb488936c7e694fae3d5b05a11739.jpg)
+* **Thema's - Our Bodies:** [Pinterest (eigen bewerking)](https://i.pinimg.com/736x/2f/98/26/2f9826a5aa2a1362e643b0744a8a9153.jpg)
+* **Thema's - Online:** [Pinterest](https://i.pinimg.com/736x/4f/aa/fe/4faafeb1feb163b587b5c04a3719276d.jpg)
+
+### Websites voor Inspiratie
+* [CodePen - marlowD](https://codepen.io/marlowD/full/zYVRKge)
+* [CodePen - Cameron Knight](https://codepen.io/cameronknight/pen/qBNvrRQ)
+
+### AI-assistentie & Consultatie (Transcripten)
+* **Uitleg inspiratiecode:** [ChatGPT-gesprek](https://chatgpt.com/c/6aab0da6-c97c-83eb-8a9e-10864414de15)
+* **Uitleg waarom CSS Grid niet werkt:** [ChatGPT-gesprek](https://chatgpt.com/uc/6ada6752-dab4-83ea-9848-5d9493901733)
+* **Hulp bij opschonen CSS:** [ChatGPT-gesprek](https://chatgpt.com/c/6add1c49-afe8-83eb-85ae-6ddd522d4b31)
+* **Opschonen CSS media query:** [Gemini-gesprek](https://gemini.google.com/app/a84f252ad49f8ddb)
+* **Hulp bij opschonen CSS van de songtekst:** [ChatGPT-gesprek](https://chatgpt.com/c/6adfb9fd-5ec0-83ed-a178-b979ac5663f3)
+* **Code voor media query songtekst:** [Gemini-gesprek](https://gemini.google.com/app/ddf67af027d4a8dc)
+
+
+### Website Responsive 
+
+Ik heb al laatste ervoor gezorgd dat mijn website op een laptop, tablet of telefoon goed te bekijken is. Dit was nog wel even een dingetjes en lastig, met het grid en de "scroll-animatie" maar uiteindelijk denk ik dat ik het op een goede manier heb opgelost. 
+
+https://github.com/user-attachments/assets/944bbf53-c5d8-413f-b259-8e85449dc5e8
+
 ### Linkjes in cookie pop-up
 
 In mijn feedback kreeg ik de tip om linkjes naar de externe systemen toe te voegen in mijn cookie pop-up. Dit heb ik gedaan, ook heb ik een over toegevoegd zodat het duidelijk is dat je kan klikken. 
