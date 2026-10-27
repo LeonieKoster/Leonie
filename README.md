@@ -1,5 +1,86 @@
 ## Learning Log
 
+### Linkjes in cookie pop-up
+
+In mijn feedback kreeg ik de tip om linkjes naar de externe systemen toe te voegen in mijn cookie pop-up. Dit heb ik gedaan, ook heb ik een over toegevoegd zodat het duidelijk is dat je kan klikken. 
+
+<img width="1366" height="768" alt="links" src="https://github.com/user-attachments/assets/6bd2038f-9d9e-4960-acb8-5112276b40b1" />
+
+### Extra micro-animatie toegevoegd
+
+Ik vond dat het nog niet helemaal duidelijk was dat je moet scrollen om de content van mijn website te zien. Daarom heb ik nog een kleine animatie toegevoegd, waardoor dit nu wel duidelijk is. 
+
+<img width="1366" height="768" alt="justscroll" src="https://github.com/user-attachments/assets/c444971e-a2dc-45d1-a0dd-e8df00915fd8" />
+
+### Nieuwe songtekst 
+
+Ik was nog niet helemaal tevreden met mijn songtekst ontwerp. Ik vond hem niet bij de stijl van mijn website passen en hier stoorde ik mij aan. Daarnaast wilde ik nog een paar leuke animaties toevoegen die ik bij medestudenten heb gezien tijdens de expo. 
+
+https://github.com/user-attachments/assets/6ece48a5-6c14-4a35-b77f-bc994cad9b54
+
+<img width="1366" height="768" alt="uitiendelijke songtekst" src="https://github.com/user-attachments/assets/1ccb0987-0d04-4be0-b436-62749278bdd4" />
+
+### Webby en Log 
+
+Tijdens de laatste les heb ik in een groepje mijn website en learning log bekeken en beoordeeld of het Webby en log is. 
+
+<img width="1366" height="768" alt="learning log" src="https://github.com/user-attachments/assets/ecb0925c-2633-4dbd-b06e-f785517f8542" />
+
+**Conclusie Hoe "webby" is je eindproduct?**  
+Mijn website heeft een erg sterke, unieke basis met veel positieve punten, maar er zijn ook een paar technische en functionele puntjes waar ik nog even naar ga kijken.   
+
+Sterke punten:
+- Responsive en toegankelijk: De website werkt goed op zowel kleine als grote schermen en past zich netjes aan. Het contrast is voldoende en de screenreader is goed georganiseerd met duidelijke koppen.   
+
+- Interactiviteit en visuele stijl: Mijn website heeft een unieke lay-out, goed passende fonts, duidelijke visuele hiërarchie, en goed werkende focus- en hover-states. Ook de light-dark mode en scroll-animaties vallen erg in de smaak.   
+
+Verbeterpunten:
+- Er treden soms nog kleine errors op (zoals bij het "But why"-gedeelte en de scroll-animaties) en soms loopt er wat tekst uit het scherm. Op kleine schermen kan de bediening met de vingers soms wat lastig zijn.   
+
+- Het weigeren van cookies kan scherper worden ingericht en gebruikers willen graag meer informatie of een link over cookies zien. Eventueel kun je de cookie pop-up via een subtiele animatie langzamer op het scherm laten verschijnen.   
+
+Maar dit zijn een paar kleine puntjes waar ik zeker nog wat mee wil doen. 
+
+**Conclusie Hoe "log" is jouw learning log?**  
+
+Mijn learning log is al goed leesbaar en bevat al veel waardevolle onderdelen en is heel uitgebreid, maar hij is op dit moment nog niet helemaal compleet.   
+
+- Er zijn verschillende versies van mijn digital garden en schetsen (inclusief de cookie-schetsen) duidelijk zichtbaar en voorzien van goede beschrijvingen.   
+- Afbeeldingen staan er netjes in en het log is prettig en goed door te lezen.   
+
+Wat er nog moet gebeuren:
+- Missende onderdelen toevoegen: Ik moet nog een aantal dingen toevoegen om het compleet te maken, zoals schetsen van de animatie voor de songlist, Retrospect 2 (inclusief wat extra toelichting bij sprint 1 en 2) en een duidelijke conclusie van het blok.   
+-  Proces en bronnen: Het proces rondom de songtekst mag nog wat duidelijker worden uitgewerkt. Daarnaast moeten de gebruikte bronnen (die nu soms alleen nog in de code staan) ook netjes in het learning log zelf worden vermeld.   
+
+Dit zijn punten die ik nog even ga aanvullen in mijn learning log.
+
+### Eind Expo 
+
+<img width="1366" height="768" alt="eindexpo" src="https://github.com/user-attachments/assets/e33c896a-7a71-483e-a393-e1e6a5fddccb" />
+
+Vanuit de eindexpo heb ik de volgende feedback gekregen: 
+Wet, toegankelijkheid en privacy: 
+- Duidelijke, mooie cookie pop-up.   
+- Professionele cookie pop-up.
+- De cookies is erg goed geformuleerd.   
+- De cookie vermeldt duidelijk wat het betekent en de focus state is duidelijk en goed in contrast.
+- Eerlijke cookiemelding die duidelijk is en in het thema past. 
+
+Toegepaste ontwerpvaardigheden:
+- Je ontwerpvaardigheden zijn super tof uitgekomen, alles past rondom het thema.   
+- Lay-out is erg verrassend.
+- Het beeld past zich mooi aan op kleine schermen. 
+- Mooi gebruik van scroll-animatie.   
+
+Toegepaste technische vaardigheden:
+Scroll-animaties:
+- Goede scroll-animatie, ook heel "smooth".   
+- Mooie scroll-animatie.   
+- Home page cool scroll.   
+- De animaties, links en scroll behavior werkt heel chill en zit goed in elkaar.
+
+Kortom vooral de scroll-animatie van de home page en mijn cookie button vallen erg in de smaak. Mijn lay-out en website is verassend en past goed bij het thema. 
+
 ### CSS opschonen 
 
 Ik heb met behulp van chat.gpt mijn css code opgeschoond. Hierna heb ik ook mijn html en css gevalideerd, om te checken of mijn code goed is. Conclusie na het opschonen: 
@@ -11,7 +92,9 @@ Ik heb met behulp van chat.gpt mijn css code opgeschoond. Hierna heb ik ook mijn
 
 <img width="1366" height="768" alt="HTML CSS" src="https://github.com/user-attachments/assets/ef734d50-0123-4808-9814-48cbca29a793" />
 
-Link naar mijn chat gesprek: href="https://chatgpt.com/c/6add1c49-afe8-83eb-85ae-6ddd522d4b31">chatgpt.com<a/>
+Link naar mijn chat gesprek: "https://chatgpt.com/c/6add1c49-afe8-83eb-85ae-6ddd522d4b31"
+
+Ook heb ik mijn CSS van mijn songtekst opgeschoond daarvoor heb ik ook chat.gpt gebruikt. Bekijk hier het gesprek: "https://chatgpt.com/c/6adfb9fd-5ec0-83ed-a178-b979ac5663f3"
 
 ### Vrijdag 23 okt - Algemene werkgroep 
 
@@ -20,7 +103,7 @@ Ik heb de laatste retrospect ingevuld.
 
 <img width="1366" height="768" alt="Retrospect 3" src="https://github.com/user-attachments/assets/0b799516-e17c-4ddd-8911-fa50428e3847" />
 
-Korte samenvatting: 
+Korte samenvatting van de 3 sprints: 
 Het was een bewogen blok. Ik begon erg enthousiast toen ik over de opdracht hoorde. Een vrije opdracht, waar ik veel creativiteit in kwijt kan. Maar al snel veranderde dit in stress en onzekerheid. Omdat ik best veel technische problemen ervaarde en ik toch minder kennis had van code dan ik dacht. Daarnaast door persoonlijke omstandigheden en het missen van lessen, liep ik een achterstand op wat voor nog meer stress zorgde. Aan het einde van de eerste sprint, bleek dat ik me veelte druk maakte en ik eigenlijk al erg goed bezig was. En dat ik de lat niet zo hoog voor mezelf moet leggen. Dit gaf me weer moed. 
 
 De tweede sprint begon dus ook positief, maar helaas in de laatste week verloor ik mijn hele proces, van mijn site tot readme, waardoor ik echt even paniek had. Maar ook dit is weer opgelost, wat een enorme opluchting was. Verder vond ik de tweede sprint eigenlijk heel goed gaan, de opdracht vond ik leuk en ging me goed af. 
@@ -45,7 +128,6 @@ Maandag tijdens de Webby-checklist krijg ik als feedback dat de More-lijst voelt
 
 <img width="1366" height="768" alt="Animatie" src="https://github.com/user-attachments/assets/c45764bc-e0bd-4830-9c46-cbe6014dd3c4" />
 
-**
 ### Woensdag 21 okt - Algemene werkgroep 
 
 **Weekly Geek**
@@ -57,7 +139,7 @@ Maandag tijdens de Webby-checklist krijg ik als feedback dat de More-lijst voelt
 Wat neem ik mee: 
 Uit de peerfeedback die ik van Annelot heb ontvangen, blijkt dat mijn project al een erg sterke basis heeft. Op de meeste onderdelen (zoals de responsiviteit, toegankelijkheid met toetsenbord en screenreader) scoort mijn webstie positief.   
 
-Toch heb ik het gevoel dat mijn website nog niet helemaal "af" is. Om de kwaliteit naar een hoger niveau te tillen, ga ik aan de slag met mijn top 3 verbeterpunten:   
+Toch heb ik het gevoel dat mijn website nog niet helemaal "af" is. Daarom ga ik aan de slag met mijn top 3 verbeterpunten:   
 1. Grid toevoegen: Ik ga een grid toevoegen om de typografie en layout beter te structureren en strakker uit te lijnen.   
 2. Scroll-driven animaties uitbreiden: De huidige scroll-animaties werken al goed, maar ik wil deze op meer plekken in de tekst en op de pagina gaan toepassen.   
 3. Het "oneindige" gevoel versterken: Ik wil de ervaring van infinite scroll beter overbrengen door meer tekst/content toe te voegen, zodat het gevoel van een doorlopend verhaal beter tot zijn recht komt.   
@@ -122,9 +204,11 @@ Feedback vanuit de checklist:
 
 ### Voorbereiding - Maandag 19 okt 
 
-**Schetsen van animatie in website ontwerp** 
+**Animatie toegevoegd in de songtekst** 
 
-**Typografische font toepassen in eigen website** 
+Vanuit de deepdive CSS animaties heb ik verschillende dingen gehaald en deze in mijn songtekst toegevoegd. Ik heb hiervoor de code gekopieerd vanuit de deepdive. Hierdoor ben ik tot de gewenste animaties gekomen. 
+
+https://github.com/user-attachments/assets/818689ce-9a2d-453e-8c3a-1a0897191b94
 
 **Deep dive S3 - CSS animaties (Sanne)** 
 
@@ -225,7 +309,6 @@ Zorg voor consistente witruimte tussen elementen, breng een duidelijke visuele h
 
 Net genoeg om het persoonlijk en uniek te maken, zolang het de leesbaarheid en de gebruiksvriendelijkheid van de website maar niet in de weg zit.
 
-
 ### Woensdag 7 okt - Algemene werkgroep 
 
 1.Bepaal de line-height bij je gekozen font-size
@@ -244,9 +327,13 @@ Op deze manier lukt het mij om een passend grid te maken, zoals ik heb uitgeteke
 
 ### Voorbereiding - woensdag 7 okt 
 
-**Artikel Technical Web Typography: Guidelines and Techniques @ Smashing Magazine**
+**Aanpassing songtekst ontwerp**
 
-**Deep dive S3: Interessantere layouts (met Vasilis)**
+Toen ik bezig was met het omzetten van mijn songtekst in een grid merkte ik dat mijn ontwerp iets te hoog gegrepen was voor mij. Ik raakte zelf helemaal in de war van mijn ontwerp, dus heb ervoor gekozen iets anders te maken. Ik heb een combinatie gemaakt van een paar schetsen en ben toen tot mijn uiteindelijk ontwerp gekomen, die voor mij wel haalbaar was. 
+
+<img width="1366" height="768" alt="oude ontwepr" src="https://github.com/user-attachments/assets/2251c208-9d8c-4fcb-9711-2b66844e0d9e" />
+
+<img width="1366" height="768" alt="nieuw ontwepr" src="https://github.com/user-attachments/assets/3a16abe0-6010-4df7-ba48-16dd5db642d1" />
 
 ### Maandag 5 sept - Check out
 
@@ -323,7 +410,11 @@ Tot nu toe heb ik alleen mijn html opzet gemaakt en ervoor gezorgd dat de tekst 
 
 ### Vrijdag 2 okt - Retrospect 
 
-<img width="1366" height="768" alt="Webby checklist" src="https://github.com/user-attachments/assets/7aa07f3b-e289-4591-b860-f943fb5f9893" />
+<img width="1366" height="768" alt="Webby checklist" src="https://github.com/user-attachments/assets/7aa07f3b-e289-4591-b860-f943fb5f9893" /> 
+
+Korte samenvatting van deze sprint: 
+
+Wanneer ik terugblik op deze sprint, was het een chaotische en stressvolle sprint. Ik had een probleem met mijn gegevens waardoor ik alles kwijt was, dit zorgde natuurlijk voor heel wat paniek. Vandaar de metafoor "Woeste Rivier". Ik kwam een flinke uitdaging tegen in het water, maar ondanks dat ben ik erdoor heen gekomen en kwam ik terecht op een mooi zonnig meer. Of te wel, ondanks de paniek en stress heb ik deze sprint met een mooi resultaat afgesloten. 
 
 ### Voorbereiding - Vrijdag 2 okt
 
@@ -426,11 +517,19 @@ Visueel, motorisch, cognitief en auditief
 
 <img width="5712" height="4284" alt="tempImagen1DgkT" src="https://github.com/user-attachments/assets/490a25f7-9697-4fbe-810d-89b85b0a0e2b" />
 
-**Opdracht 22:Reisplannen met screenreader en toetsenbord**
+Tijdens de les heb ik mee gedaan met de bi-weekly geek. Zie hierboven het formulier en de vragen bij het onderwerp. 
+
+**Opdracht 22: Reisplannen met screenreader en toetsenbord**
 
 <img width="1920" height="1080" alt="ns" src="https://github.com/user-attachments/assets/c1ed36c7-87fa-4d48-8dea-5feac0fc51a2" />
 
+Ik heb samen met Inger tijdens de les de opdracht gedaan om een reis te plannen naar Maastricht met alleen de screenreader of het toetsenbord. Dit bleek een stuk moeilijker te zijn dan verwacht. Het was even inkomen met de toets combinaties, maar met het spiekbriefje was het best goed te doen. 
+
 **Opdracht 23:Spiekbriefje**
+
+<img width="1366" height="768" alt="spiekbriefje" src="https://github.com/user-attachments/assets/6f42b67e-e837-478f-8aa6-73f4a3ed3aae" />
+
+Ik heb een spiekbriefje gemaakt met alle combinaties die ik denk nodig te hebben met het bedienen van mijn website met een screenreader of het toetsenbord. 
 
 **Feedback Vasilis**
 
@@ -493,6 +592,25 @@ AI-chatbots kunnen informatie van betrouwbare of zelfs gesanctioneerde bronnen m
 ### Vrijdag 25 sept - algemene werkgroep
 
 **Opdracht 21: HTML valideren**
+(code voor het valideren)
+<img width="1920" height="1080" alt="htmlopzet" src="https://github.com/user-attachments/assets/6d24f06d-903c-4b70-aad6-dc5df7ce57c9" />
+
+Ik heb mijn website gevalideerd hieruit kwamen een paar errors
+
+Belangrijkste fouten (Errors):
+- Ontbrekende elementen: De <head>-sectie mist een verplicht title-element.   
+- Ongeldige tags: Er worden niet-bestaande HTML-elementen gebruikt, zoals <cookie>, <intro>, <blok> en <blok2>. Browsers herkennen deze niet.
+- Onjuiste nesting: Een <strong>-element is direct geplaatst in een <ul>-element, terwijl dit in een <li>-element hoort te staan.   
+
+Verbeterpunten (Warnings en Info):
+- Toegankelijkheid: Meerdere <section>-elementen missen een koptekst (h2 tot en met h6), wat de semantische structuur en toegankelijkheid vermindert.   
+- Code-opbouw: Er is op verschillende plekken een slash gebruikt bij lege elementen (zoals <meta /> en <img />), wat in HTML5 geen functioneel effect heeft.
+
+(meldingen die ik kreeg tijdens het valideren)
+<img width="1920" height="1080" alt="HTML valideren" src="https://github.com/user-attachments/assets/ec28215d-86b9-49ad-a6ef-fb5ae6503c90" />
+
+(code na het valideren en aanpassen)
+<img width="1920" height="1080" alt="Definitieve HTML" src="https://github.com/user-attachments/assets/a3070ff1-1454-481a-b328-1815d973b8da" />
 
 ### Voorbereidingen - vrijdag 25 sept
 
@@ -1124,12 +1242,7 @@ Stappenplan:
 Afbeeldingen
 Om verschillende afbeeldingen te gebruiken voor je lichte en donkere thema, kun je het <picture> element gebruiken. Daarmee zet je in je HTML twee afbeeldingen. Met een media query geef je aan welke afbeelding in dark mode gebruikt moet worden. Je hebt hiervoor geen CSS nodig.
 
-Je begint met het opnemen van de <img> als gewoonlijk. Vervolgens voeg je in de <source> de afbeelding voor het donker thema toe. Met een media query geef je aan dat deze afbeelding getoond moet worden als dark mode actief is. Je krijgt dan deze code:
-
-- <picture>
-    <source srcset="images/iphone-dark.jpg" media="(prefers-color-scheme: dark)" />
-    <img src="images/iphone-light.jpg" alt="de iPhone 17" />
-  </picture>
+Je begint met het opnemen van de <img> als gewoonlijk. Vervolgens voeg je in de <source> de afbeelding voor het donker thema toe. Met een media query geef je aan dat deze afbeelding getoond moet worden als dark mode actief is.
 
 Je kunt ook verschillende afbeeldingen laten zien op verschillende grootte schermen. Je begint weer met <img> en voegt een tweede afbeelding toe met <source>. Vervolgens geef je met media="(width > 40em)aan welke afbeelding gebruikt moet worden als het scherm groter wordt.
 
@@ -1283,23 +1396,21 @@ Voor vandaag had ik me ingescreven voor de volgende twee deep dives:
 - CSS: fonts met kleur en effecten
 
 Ik ben begonnen met de deepdive Praktische CSS hiervoor kregen we de taak om als huiswerk een lelijke website te maken. Ik heb een website gemaakt met een guide to Amsterdam, met een h1, h2, afbeelding, orderd list, button en verschillende paragrafen. <img
-<img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/3727ad2b-2dd6-4930-8d58-d28d035b1ddb" />
-
-     alt="Een lelijke website van een guide to Amsterdam zonder enige opmaak">
+<img width="1470" height="956" alt="DD3" src="https://github.com/user-attachments/assets/974de9bb-a435-41d4-af46-ac9dd6d63b9e" />
 
 Daarnaast heb ik ook de dinner game gedaan, maar tijdens dit spel merkte ik dat ik toch nog vest wat moeite had met de CSS begrijpen. Naarmate de levels moeilijker werden, duurde het steeds langer voordat ik klaar was. Ik hoop dat ik dit blok hier sneller in wordt en het me beter afgaat.
 
-Tijdens de deepdive heeft Vasilis ons stap voor stap meegenomen in het proces en heb ik uiteindelijk een goede basis voor een website neergezet. En is het al een stuk duidelijker geworden voor mij. <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/7cf3a757-8c04-4191-98b4-f33019860dd5" />
+Tijdens de deepdive heeft Vasilis ons stap voor stap meegenomen in het proces en heb ik uiteindelijk een goede basis voor een website neergezet. En is het al een stuk duidelijker geworden voor mij. <img width="1156" height="652" alt="DD2" src="https://github.com/user-attachments/assets/ad9203f6-fdd8-432a-b7bd-1c8a5b3c609f" />
 
 Voor de tweede deepdive van de dag had ik me ingeschreven voor CSS: fonts met kleur en effecten. Hiervoor heb ik de eerste opdracht al huiswerk gedaan. Hierbij moest je een afbeelding namaken. <img width="auto" height="auto" alt="image" src="https://github.com/user-attachments/assets/f0486d93-5aa5-46ee-8a7e-2361db6c9b0d" />
-.
+
 Dit ging mij eigenlijk vrij goed af. Door goed de instructies te lezen en volgen kwam ik op het gewenste resultaat.
 
-Verder zijn wij in de les bezig geweest met de andere opdrachten. Hier was ik wel een stuk langer mee bezig omdat de uitleg hier iets minder uitgebreid bij was. Met hulp van Sanne is het mij gelukt om de bovenste afbeelding na te maken. <img src="/Users/leoniekoster/Desktop/Scherm­afbeelding 2026-09-04 om 12.35.46.png" alt="Afbeelding van de eerste opdracht in de les".
+Verder zijn wij in de les bezig geweest met de andere opdrachten. Hier was ik wel een stuk langer mee bezig omdat de uitleg hier iets minder uitgebreid bij was. Met hulp van Sanne is het mij gelukt om de bovenste afbeelding na te maken. <img width="1470" height="956" alt="DD4" src="https://github.com/user-attachments/assets/46230d98-fafe-477d-a55a-7fb2667dd897" />
 
-     Tijdens de les is het mij niet gelukt de onderste af te maken. Dit is wel iets wat ik graag nog wil doen. Ook wil ik de andere opdrachten nog een keer proberen.
+Tijdens de les is het mij niet gelukt de onderste af te maken. Dit is wel iets wat ik graag nog wil doen. Ook wil ik de andere opdrachten nog een keer proberen.
 
-<img src="//Users/leoniekoster/Desktop/Scherm­afbeelding 2026-09-07 om 16.12.15.png" alt="Afbeelding van de eerste opdracht in de les".
+<img width="434" height="566" alt="DD5" src="https://github.com/user-attachments/assets/830e9336-b8e4-4394-8cec-f0c5839989d9" />
 
 ### Woensdag 2 sept - Deep dives
 
@@ -1309,24 +1420,15 @@ Ik heb gekozen om vandaag de volgende deep dives te volgen:
 - Interactie: MMD, micro-interacties, forms
 
 Voor de eerste deepdive HTML & CSS Basics heb ik de artikelen gelezen die we als huiswerk hadden gekregen, hier heb ik aantekeningen bij gemaakt.
-<img 
-     src="../../Afbeeldingen//Aantekening1.HEIC" 
-     alt="Afbeelding van aantekening van de gelezen artikelen">
-<img 
-     src="../../Afbeeldingen//Aantekening2.HEIC"
-     alt="Afbeelding van aantekening van de gelezen artikelen">
-<img 
-     src="../../Afbeeldingen//Aantekening3.HEIC"
-     alt="Afbeelding van aantekening van de gelezen artikelen">
-<img 
-     src="../../Afbeeldingen//Aantekening4.HEIC"
-     alt="Afbeelding van aantekening van de gelezen artikelen">
+<img width="1366" height="768" alt="aantekeningen" src="https://github.com/user-attachments/assets/04145018-2959-4a6f-82ea-b543c8b76a59" />
+
+
 Tijdens het lezen van deze artikelen kwamen de volgende vragen bij mij op:
 
 - Wat is het verschil tussen "b" en "strong"?
   Beide taggs zorgen ervoor dat de tekst visueel hetzelfde eruit zien, maar ze betekenen iets anders. "strong" geeft aan dat de tekst inhoudelijk belangrijk, dringend of ernstig is. Zoekmachines zorgen er dan meestal automatisch voor dat deze tekst vetgedrukt wordt. Daarnaast wordt deze tekst door een schermlezen anders voorgelezen omdat "strong" extra waarde aan de tekst geeft. De "b"-tagg is enkel visueel en zorgt ervoor dat een tekst vet gedrukt worden en hierdoor aandacht trekt. Maar het geeft niet aan dat de tekst inhoudelijk belangrijk is, hier zullen zoekmachines of schermlezer geen speciale beteknis aan geven. <a href="https://www.freecodecamp.org/news/difference-between-b-and-strong-in-html/">Dit is de bron van deze tekst</a>
 - Hoe kunnen meerdere CSS-regels met elkaar botsen, en hoe bepaalt de browser welke regel voorrang krijgt?
-  Dit komt doordat twee of meer CSS-regels zich richting op hetzelfde HTML-element, maar verschillende eigenschappen hebben. Hierbij zal een van de klassedefinities de andere overrschrijven. Dit kan leiden tot inconsistentei of onverwachte resultaten. CSS lost conflicten op door middel van een systeem van specificiteit, overerving en de cascade, vaak aangeduid als het "Cascading Style Sheets" systeem. Dit werkt als volgt: 1. Specificiteit. Specificiteit verwijst naar het gewicht van een CSS-selector. Hoe specifieker een selector is, hoe hoger de prioriteit. 2. De Cascade. De cascade verwijst naar hoe de volgorde van stijlen hun toepassing beïnvloedt. Wanneer twee regels dezelfde specificiteit hebben, heeft degene die later wordt geschreven voorrang. 3. Ervenis. Overerving verwijst naar hoe stijlen die worden toegepast op bovenliggende elementen kunnen cascaderen naar hun onderliggende elementen. Sommige eigenschappen, zoals lettertypefamilie of kleur, zijn erfelijk, terwijl andere, zoals marges of randen, dat niet zijn. 4. Belangrijkste. De `!...` verklaring is een andere factor die de normale specificiteitsregels overschrijft. Wanneer een eigenschap is gemarkeerd als `!...`, het heeft voorrang op andere verklaringen, zelfs als die andere verklaringen een hogere specificiteit hebben. <a href="https://medium.com/@kinzaeman69/conflicting-css-classes-20e7b6776f0d">Dit is de bron van deze tekst</a>
+  Dit komt doordat twee of meer CSS-regels zich richting op hetzelfde HTML-element, maar verschillende eigenschappen hebben. Hierbij zal een van de klassedefinities de andere overrschrijven. Dit kan leiden tot inconsistentei of onverwachte resultaten. CSS lost conflicten op door middel van een systeem van specificiteit, overerving en de cascade, vaak aangeduid als het "Cascading Style Sheets" systeem. Dit werkt als volgt: 1. Specificiteit. Specificiteit verwijst naar het gewicht van een CSS-selector. Hoe specifieker een selector is, hoe hoger de prioriteit. 2. De Cascade. De cascade verwijst naar hoe de volgorde van stijlen hun toepassing beïnvloedt. Wanneer twee regels dezelfde specificiteit hebben, heeft degene die later wordt geschreven voorrang. 3. Ervenis. Overerving verwijst naar hoe stijlen die worden toegepast op bovenliggende elementen kunnen cascaderen naar hun onderliggende elementen. Sommige eigenschappen, zoals lettertypefamilie of kleur, zijn erfelijk, terwijl andere, zoals marges of randen, dat niet zijn. 4. Belangrijkste. De !! verklaring is een andere factor die de normale specificiteitsregels overschrijft. Wanneer een eigenschap is gemarkeerd als !!, het heeft voorrang op andere verklaringen, zelfs als die andere verklaringen een hogere specificiteit hebben. <a href="https://medium.com/@kinzaeman69/conflicting-css-classes-20e7b6776f0d">Dit is de bron van deze tekst</a>
 
 Ook zijn er een paar zaken die mij verwonderen:
 
