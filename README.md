@@ -21,6 +21,20 @@
 * **Hulp bij opschonen CSS van de songtekst:** [ChatGPT-gesprek](https://chatgpt.com/c/6adfb9fd-5ec0-83ed-a178-b979ac5663f3)
 * **Code voor media query songtekst:** [Gemini-gesprek](https://gemini.google.com/app/ddf67af027d4a8dc)
 
+### Reflectie op het blok
+
+Ik heb mijn vaardigheden in coderen dit blok zeker op de proef gesteld, maar denk kan wel zeggen dat ik hierin verbeterd ben. Zo snap ik eindelijk hoe ik met een grid moet werken, heb ik geleerd hoe je een dark-light modus kan maken, verschillende handige custom property kan toevoegen om je website in een keer te stijlen. Dit zijn dan ook dingen die ik zeker mee ga nemen. Ondanks dat mijn intresse niet helemaal lag bij de animaties heb ik hier wel veel van geleerd, en moet ik toegeven dat het toch best cool is. 
+
+Ik merkte dat ik wel moeite had met planning dit blok en het coderen best onderschat heb in tijd. Hierdoor heb ik best wat stress gehad en vond ik het blok niet altijd even leuk. Wel heb ik mezelf verrast met mijn techniek en wat ik kan maken. 
+
+Een paar dingen die ik ga meenemen vanuit dit blok: 
+- Onderschat jezelf niet, met een beetje hulp kan je veel meer dan je denkt.
+- Wees niet te streng voor jezelf. Dit heeft vaak voor onnodige stress gezorgd, terwijl andere mijn werk heel tof vonden.
+- Niet alles hoeft perfect te zijn, je bent nog aan het leren.
+- Neem de tijd om nieuwe dingen te leren.
+- Coderen is eigenlijk best leuk :)
+
+Als ik nog meer tijd had zou ik ook de andere pagina's van mijn website afmaken. Nu heb ik alleen de focus gelegd op mijn hoofdpagina, waardoor de site niet "af" voelt. Verder zou ik me ook nog meer verdiepen in grid, omdat ik hier nog best moeite mee heb. En tot slot zou ik gewoon lekker bouwen, testen en mezelf uitdagen.  
 
 ### Website Responsive 
 
