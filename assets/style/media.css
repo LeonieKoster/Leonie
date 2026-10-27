@@ -237,3 +237,38 @@ Opschonen css media query: https://gemini.google.com/app/a84f252ad49f8ddb */
     text-align: center;
   }
 }
+
+@media (min-width: 641px) and (max-width: 1024px) {
+  header {
+    padding: 2rem 1rem;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  header nav {
+    gap: 1rem;
+  }
+
+  main {
+    height: auto;
+  }
+
+  .themas-pin-container,
+  .themas-scroll-wrap {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+
+  .themas-scroll-wrap article img {
+    width: 100%;
+    max-width: 350px;
+  }
+
+  #main-content h2 {
+    font-size: 2.2rem;
+  }
+
+  .Roze-butwhy h2 {
+    font-size: 3.5rem;
+  }
+}
