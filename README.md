@@ -1,6 +1,12 @@
 ## Learning Log
 
-## Nieuwe songtekst 
+### Extra micro-animatie toegevoegd
+
+Ik vond dat het nog niet helemaal duidelijk was dat je moet scrollen om de content van mijn website te zien. Daarom heb ik nog een kleine animatie toegevoegd, waardoor dit nu wel duidelijk is. 
+
+<img width="1366" height="768" alt="just scroll" src="https://github.com/user-attachments/assets/35298867-c952-4f8e-8dfa-4cccfd8aba90" />
+
+### Nieuwe songtekst 
 
 Ik was nog niet helemaal tevreden met mijn songtekst ontwerp. Ik vond hem niet bij de stijl van mijn website passen en hier stoorde ik mij aan. Daarnaast wilde ik nog een paar leuke animaties toevoegen die ik bij medestudenten heb gezien tijdens de expo. 
 
@@ -8,7 +14,7 @@ https://github.com/user-attachments/assets/6ece48a5-6c14-4a35-b77f-bc994cad9b54
 
 <img width="1366" height="768" alt="uitiendelijke songtekst" src="https://github.com/user-attachments/assets/1ccb0987-0d04-4be0-b436-62749278bdd4" />
 
-## Webby en Log 
+### Webby en Log 
 
 Tijdens de laatste les heb ik in een groepje mijn website en learning log bekeken en beoordeeld of het Webby en log is. 
 
@@ -42,7 +48,7 @@ Wat er nog moet gebeuren:
 
 Dit zijn punten die ik nog even ga aanvullen in mijn learning log.
 
-## Eind Expo 
+### Eind Expo 
 
 <img width="1366" height="768" alt="eindexpo" src="https://github.com/user-attachments/assets/e33c896a-7a71-483e-a393-e1e6a5fddccb" />
 
