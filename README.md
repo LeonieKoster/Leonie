@@ -4,7 +4,7 @@
 
 Ik vond dat het nog niet helemaal duidelijk was dat je moet scrollen om de content van mijn website te zien. Daarom heb ik nog een kleine animatie toegevoegd, waardoor dit nu wel duidelijk is. 
 
-<img width="1366" height="768" alt="just scroll" src="https://github.com/user-attachments/assets/35298867-c952-4f8e-8dfa-4cccfd8aba90" />
+<img width="1366" height="768" alt="justscroll" src="https://github.com/user-attachments/assets/c444971e-a2dc-45d1-a0dd-e8df00915fd8" />
 
 ### Nieuwe songtekst 
 
