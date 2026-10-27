@@ -1,108 +1,239 @@
-@media (min-width: 641px) and (max-width: 1024px) {
+/* Bronnen & bronvermelding:
+Opschonen css media query: https://gemini.google.com/app/a84f252ad49f8ddb */
+
+@media (max-width: 640px) {
   header {
     height: auto;
-    padding: 2rem 1rem;
+    padding: 1.5rem 0;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
   }
 
   header h1 {
-    margin: 0 1rem;
+    margin: 1rem;
   }
 
   header a {
-    font-size: 2rem;
-  }
-
-  header nav {
-    justify-content: flex-end;
-    gap: 1rem;
-  }
-
-  header nav a {
-    font-size: 1.1rem;
-    padding: 0.5rem;
-  }
-
-  main {
-    scroll-snap-type: y mandatory;
-    overflow-y: auto;
-    height: 100vh;
-  }
-
-  main > figure {
-    height: 100vh;
-    padding: 2rem;
-  }
-
-  main > article:nth-of-type(1) {
-    width: 100%;
-    padding: 2rem;
-  }
-
-  #main-content h2 {
-    font-size: 2.2rem;
-  }
-
-  #main-content p {
-    font-size: 1rem;
-  }
-
-  main > article:nth-of-type(2) h2 {
-    font-size: 5rem;
-  }
-
-  main > article:nth-of-type(2) ul {
     font-size: 1.8rem;
   }
 
-  dialog {
-    max-width: 600px;
-    width: 85%;
+  header nav {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    margin: 0;
+    padding: 0;
   }
 
-  /* Themas blok voor tablets (bijv. 2 kolommen) */
+  header nav a {
+    font-size: 1rem;
+    padding: 0;
+  }
+
+  main {
+    scroll-snap-type: none;
+    overflow-y: visible;
+    height: auto;
+    font-variation-settings: "wght" 300;
+  }
+
+  main > figure {
+    height: auto;
+    padding: 0;
+  }
+
+  main > figure img {
+    display: block;
+  }
+
+  main > article:nth-of-type(1) {
+    position: relative;
+    width: 100%;
+    height: auto;
+    align-items: center;
+
+    box-sizing: border-box;
+    padding: 1rem 1rem 2rem 1rem;
+  }
+
+  #main-content h2 {
+    padding-top: 0;
+    font-size: 1.7rem;
+  }
+
+  #main-content p {
+    font-size: 0.8rem;
+    padding: 0;
+    margin: 0;
+    font-variation-settings: "wght" 300;
+  }
+
+  main > article:nth-of-type(2) {
+    height: max-content;
+    align-items: center;
+    justify-content: center;
+  }
+
+  main > article:nth-of-type(2) h2 {
+    font-size: 4rem;
+    margin-top: 1rem;
+  }
+
+  main > article:nth-of-type(2) ul {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+  }
+
+  main > article:nth-of-type(2) li:hover {
+    font-size: 2rem;
+  }
+
+  dialog {
+    max-width: 80%;
+    width: 75%;
+  }
+
+  dialog form {
+    padding: 1.25rem;
+    gap: 0.75rem;
+  }
+
+  dialog hgroup h1 {
+    font-size: 1.5rem;
+    margin-bottom: -0.5rem;
+  }
+
+  dialog hgroup p {
+    font-size: 0.8rem;
+  }
+
+  dialog section:nth-of-type(1),
+  dialog section:nth-of-type(2) {
+    padding: 0.75rem 1rem;
+  }
+
+  dialog section:nth-of-type(1) h2 {
+    font-size: 1.1rem;
+  }
+
+  dialog section:nth-of-type(1) ul,
+  dialog section:nth-of-type(2) p,
+  dialog section:nth-of-type(2) h3 {
+    font-size: 0.8rem;
+  }
+
+  dialog form button {
+    padding: 0.5rem 0.75rem;
+    font-size: 1rem;
+  }
+
+  .Roze-butwhy {
+    justify-content: flex-start;
+    margin-bottom: -15rem;
+  }
+
+  .Roze-butwhy h2 {
+    font-size: 3rem;
+    margin-top: -3rem;
+  }
+
+  .Roze-butwhy p:nth-of-type(1),
+  .Roze-butwhy p:nth-of-type(2) {
+    font-size: 0.8rem;
+    margin: 0 0 1rem 0;
+    font-weight: 900;
+    max-width: 300px;
+    font-variation-settings: "wght" 300;
+  }
+
+  .Roze-butwhy p:nth-of-type(3) {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    max-width: 300px;
+  }
+
+  /* themas blok */
   #themas {
     width: 100%;
-    padding: 4rem 2rem;
+    box-sizing: border-box;
+    padding: 3rem 1.5rem;
+    margin: 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 
   .themas-pin-container {
+    width: 100%;
     display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 2rem;
-    align-items: start;
+    grid-template-columns: 1fr;
+    gap: 0;
+    padding: 0;
+    margin-top: 0;
+    justify-items: center;
+    align-items: center;
   }
 
   .themas-intro {
-    position: sticky;
-    top: 2rem;
-    text-align: left;
+    position: static;
+    top: auto;
+    width: 100%;
+    text-align: center;
   }
 
   .themas-intro h2 {
-    font-size: 3.5rem;
-    text-align: left;
+    margin-top: 0;
+    font-size: 3rem;
+    letter-spacing: 0.2rem;
+    text-align: center;
+    padding-left: 0;
   }
 
   .themas-intro p {
-    text-align: left;
-    margin: 0;
+    font-size: 0.9rem;
+    text-align: center;
+    margin: 0 auto;
+    padding-left: 0;
   }
 
   .themas-scroll-wrap {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    justify-items: center;
+    align-content: center;
+    width: 100%;
   }
 
   .themas-scroll-wrap article {
-    align-items: flex-start;
-    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    text-align: center;
   }
 
   .themas-scroll-wrap article img {
-    width: 100%;
-    height: 240px;
+    display: block;
+    height: 290px;
+    width: 300px;
+    object-fit: cover;
+  }
+
+  .themas-scroll-wrap article h3 {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    margin: 0 0 0.75rem 0;
+    text-align: center;
+  }
+
+  .themas-scroll-wrap article p {
+    font-size: 0.9rem;
+    margin: 0 0 1rem 0;
+    text-align: center;
   }
 }
