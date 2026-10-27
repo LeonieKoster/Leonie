@@ -1,3 +1,6 @@
+/* Bronnen & bronvermelding:
+Opschonen css media query: https://gemini.google.com/app/a84f252ad49f8ddb */
+
 @media (max-width: 640px) {
   header {
     height: auto;
