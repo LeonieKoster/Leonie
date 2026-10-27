@@ -1,5 +1,11 @@
 ## Learning Log
 
+### Linkjes in cookie pop-up
+
+In mijn feedback kreeg ik de tip om linkjes naar de externe systemen toe te voegen in mijn cookie pop-up. Dit heb ik gedaan, ook heb ik een over toegevoegd zodat het duidelijk is dat je kan klikken. 
+
+<img width="1366" height="768" alt="links" src="https://github.com/user-attachments/assets/6bd2038f-9d9e-4960-acb8-5112276b40b1" />
+
 ### Extra micro-animatie toegevoegd
 
 Ik vond dat het nog niet helemaal duidelijk was dat je moet scrollen om de content van mijn website te zien. Daarom heb ik nog een kleine animatie toegevoegd, waardoor dit nu wel duidelijk is. 
