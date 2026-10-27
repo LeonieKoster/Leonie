@@ -496,6 +496,7 @@ article:nth-of-type(2) li:hover {
   color: var(--bg-wit);
 
   scroll-snap-align: start;
+  font-variation-settings: "wght" 300;
 }
 
 .themas-pin-container {
