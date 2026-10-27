@@ -223,6 +223,29 @@ hgroup p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+dialog section:nth-of-type(1) li a {
+  color: var(--tekst-zwartwit);
+}
+
+dialog section:nth-of-type(1) li a:hover {
+  color: var(--bg-roodblauw);
+}
+
+dialog[open] {
+  animation: springIn 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+@keyframes springIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.7) translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
 dialog section:nth-of-type(1) {
   display: block;
   margin-top: -1rem;
@@ -314,6 +337,33 @@ main > figure img {
   margin: 0;
 }
 
+main > figure aside {
+  position: absolute;
+  top: 7rem;
+  right: 0;
+  z-index: 10;
+
+  color: var(--bg-lichtroze);
+  font-family: "BebasNeue", sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.1em;
+  pointer-events: none;
+
+  animation: stuiteren 1.5s infinite ease-in-out;
+}
+
+@keyframes stuiteren {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(
+      8px
+    ); /* Laat de tekst subtiel 8px op en neer bewegen */
+  }
+}
+
 main > article:nth-of-type(1) {
   width: 75%;
   height: 100vh;
@@ -324,19 +374,18 @@ main > article:nth-of-type(1) {
   color: var(--bg-roodblauw);
 }
 
-article:nth-of-type(1) h2 {
+#main-content h2 {
   align-self: center;
   margin-bottom: 0;
-  padding-top: 5rem;
-  padding-left: 3rem;
+  padding: 5rem 3rem 0 3rem;
 
   color: var(--bg-roodblauw);
   font-size: 3rem;
 }
 
-article:nth-of-type(1) p {
+#main-content p {
   align-self: center;
-  padding-left: 2rem;
+  padding: 0.2rem 2rem 0;
 
   font-family: "NotoSans", sans-serif;
   font-size: 1.1rem;
@@ -452,7 +501,7 @@ article:nth-of-type(2) li:hover {
   display: grid;
   grid-template-columns: 31% 1fr;
   align-items: start;
-  gap: 2rem;
+  gap: 6rem;
 
   width: 100%;
   max-width: 1400px;
@@ -488,19 +537,19 @@ article:nth-of-type(2) li:hover {
 .themas-scroll-wrap {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 2.5rem;
 }
 
 .themas-scroll-wrap article {
   display: flex;
   flex-direction: column;
+  max-width: 280px;
 }
 
 .themas-scroll-wrap article img {
   display: block;
   width: 280px;
   height: 280px;
-  margin-bottom: 1rem;
+  margin: 2rem 0 1rem 0;
 }
 
 .themas-scroll-wrap article img:hover {
@@ -511,7 +560,7 @@ article:nth-of-type(2) li:hover {
   margin-bottom: 1.25rem;
 
   font-family: "NotoSans", sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 1.4;
   font-variation-settings: "wght" 400;
 }
